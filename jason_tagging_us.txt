@@ -1,0 +1,542 @@
+{
+    "us-001-str.xml": {
+        "1": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 1,
+            "rowInc": 0
+        },
+        "2": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 2,
+            "rowInc": 0
+        }
+    },
+    "us-002-str.xml": {
+        "1": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 1,
+            "rowInc": 0
+        },
+        "2": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 1,
+            "rowInc": 0
+        }
+    },
+    "us-003-str.xml": {
+        "1": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 0,
+            "rowInc": 0
+        }
+    },
+    "us-004-str.xml": {
+        "1": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 1,
+            "rowInc": 0
+        }
+    },
+    "us-005-str.xml": {
+        "1": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 0,
+            "rowInc": 0
+        }
+    },
+    "us-006-str.xml": {
+        "1": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 0,
+            "rowInc": 0
+        }
+    },
+    "us-007-str.xml": {
+        "1": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 0,
+            "rowInc": 0
+        },
+        "2": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 0,
+            "rowInc": 0
+        }
+    },
+    "us-008-str.xml": {
+        "1": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 0,
+            "rowInc": 0
+        },
+        "2": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 0,
+            "rowInc": 0
+        }
+    },
+    "us-009-str.xml": {
+        "1": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 0,
+            "rowInc": 0
+        }
+    },
+    "us-010-str.xml": {
+        "1": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 0,
+            "rowInc": 0
+        }
+    },
+    "us-011a-str.xml": {
+        "1": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 0,
+            "rowInc": 0
+        },
+        "2": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 0,
+            "rowInc": 0
+        }
+    },
+    "us-012-str.xml": {
+        "1": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 1,
+            "rowInc": 0
+        }
+    },
+    "us-013-str.xml": {
+        "1": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 0,
+            "rowInc": 0
+        }
+    },
+    "us-014-str.xml": {
+        "1": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 0,
+            "rowInc": 0
+        },
+        "2": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 0,
+            "rowInc": 0
+        }
+    },
+    "us-015-str.xml": {
+        "1": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 0,
+            "rowInc": 0
+        },
+        "2": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 0,
+            "rowInc": 0
+        }
+    },
+    "us-016-str.xml": {
+        "1": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 0,
+            "rowInc": 0
+        }
+    },
+    "us-017-str.xml": {
+        "1": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 1,
+            "rowInc": -1
+        },
+        "2": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 1,
+            "rowInc": -1
+        },
+        "3": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 1,
+            "rowInc": -1
+        },
+        "4": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 1,
+            "rowInc": -1
+        },
+        "5": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 1,
+            "rowInc": -1
+        },
+        "6": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 1,
+            "rowInc": -1
+        }
+    },
+    "us-018-str.xml": {
+        "1": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 1,
+            "rowInc": 0
+        },
+        "2": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 1,
+            "rowInc": 0
+        },
+        "3": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 1,
+            "rowInc": -1
+        },
+        "4": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 2,
+            "rowInc": -1
+        },
+        "5": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 0,
+            "rowInc": 0
+        },
+        "6": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 2,
+            "rowInc": -1
+        },
+        "7": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 2,
+            "rowInc": -1
+        }
+    },
+    "us-019-str.xml": {
+        "1": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 0,
+            "rowInc": 0
+        },
+        "2": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 1,
+            "rowInc": 0
+        },
+        "3": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 1,
+            "rowInc": 0
+        },
+        "4": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 1,
+            "rowInc": 0
+        }
+    },
+    "us-020-str.xml": {
+        "1": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 0,
+            "rowInc": 0
+        },
+        "2": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 0,
+            "rowInc": 0
+        },
+        "3": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 0,
+            "rowInc": 0
+        },
+        "4": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 0,
+            "rowInc": 0
+        }
+    },
+    "us-021-str.xml": {
+        "1": {
+            "colInc": -1,
+            "endCol": 0,
+            "endRow": 1,
+            "rowInc": -1
+        },
+        "2": {
+            "colInc": -1,
+            "endCol": 0,
+            "endRow": 0,
+            "rowInc": -1
+        }
+    },
+    "us-022-str.xml": {
+        "1": {
+            "colInc": -1,
+            "endCol": 0,
+            "endRow": 0,
+            "rowInc": -1
+        },
+        "2": {
+            "colInc": -1,
+            "endCol": 0,
+            "endRow": 0,
+            "rowInc": -1
+        }
+    },
+    "us-023-str.xml": {
+        "1": {
+            "colInc": -1,
+            "endCol": 0,
+            "endRow": 1,
+            "rowInc": -1
+        }
+    },
+    "us-024-str.xml": {
+        "1": {
+            "colInc": -1,
+            "endCol": 0,
+            "endRow": 2,
+            "rowInc": -1
+        },
+        "2": {
+            "colInc": 0,
+            "endCol": 1,
+            "endRow": 2,
+            "rowInc": -1
+        },
+        "3": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 1,
+            "rowInc": 0
+        },
+        "4": {
+            "colInc": 0,
+            "endCol": 1,
+            "endRow": 2,
+            "rowInc": 0
+        }
+    },
+    "us-025-str.xml": {
+        "1": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 1,
+            "rowInc": 0
+        },
+        "2": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 2,
+            "rowInc": 0
+        },
+        "3": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 2,
+            "rowInc": 0
+        },
+        "4": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 2,
+            "rowInc": 0
+        },
+        "5": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 2,
+            "rowInc": 0
+        },
+        "6": {
+            "colInc": 0,
+            "endCol": 0,
+            "endRow": 1,
+            "rowInc": 0
+        }
+    },
+    "us-026-str.xml": {
+        "1": {
+            "colInc": -1,
+            "endCol": 0,
+            "endRow": 1,
+            "rowInc": -1
+        }
+    },
+    "us-027-str.xml": {
+        "1": {
+            "colInc": -1,
+            "endCol": 0,
+            "endRow": 0,
+            "rowInc": -1
+        }
+    },
+    "us-028-str.xml": {
+        "1": {
+            "colInc": -1,
+            "endCol": 0,
+            "endRow": 0,
+            "rowInc": -1
+        },
+        "2": {
+            "colInc": -1,
+            "endCol": 0,
+            "endRow": 0,
+            "rowInc": -1
+        }
+    },
+    "us-029-str.xml": {
+        "1": {
+            "colInc": -1,
+            "endCol": 0,
+            "endRow": 0,
+            "rowInc": -1
+        }
+    },
+    "us-030-str.xml": {
+        "1": {
+            "colInc": -1,
+            "endCol": 0,
+            "endRow": 1,
+            "rowInc": -1
+        }
+    },
+    "us-031a-str.xml": {
+        "1": {
+            "colInc": -1,
+            "endCol": 1,
+            "endRow": 0,
+            "rowInc": -1
+        }
+    },
+    "us-032-str.xml": {
+        "1": {
+            "colInc": -1,
+            "endCol": 0,
+            "endRow": 0,
+            "rowInc": -1
+        }
+    },
+    "us-033-str.xml": {
+        "1": {
+            "colInc": -1,
+            "endCol": 0,
+            "endRow": 1,
+            "rowInc": -1
+        },
+        "2": {
+            "colInc": -1,
+            "endCol": 0,
+            "endRow": 0,
+            "rowInc": -1
+        },
+        "3": {
+            "colInc": -1,
+            "endCol": 0,
+            "endRow": 0,
+            "rowInc": -1
+        }
+    },
+    "us-034-str.xml": {
+        "1": {
+            "colInc": -1,
+            "endCol": 0,
+            "endRow": 1,
+            "rowInc": -1
+        },
+        "2": {
+            "colInc": -1,
+            "endCol": 0,
+            "endRow": 0,
+            "rowInc": -1
+        }
+    },
+    "us-036-str.xml": {
+        "1": {
+            "colInc": -1,
+            "endCol": 0,
+            "endRow": 0,
+            "rowInc": -1
+        }
+    },
+    "us-037-str.xml": {
+        "1": {
+            "colInc": -1,
+            "endCol": 0,
+            "endRow": 1,
+            "rowInc": 0
+        }
+    },
+    "us-038-str.xml": {
+        "1": {
+            "colInc": -1,
+            "endCol": 0,
+            "endRow": 0,
+            "rowInc": -1
+        }
+    },
+    "us-039-str.xml": {
+        "1": {
+            "colInc": -1,
+            "endCol": 0,
+            "endRow": 0,
+            "rowInc": -1
+        }
+    },
+    "us-040-str.xml": {
+        "1": {
+            "colInc": -1,
+            "endCol": 0,
+            "endRow": 1,
+            "rowInc": -1
+        }
+    }
+}

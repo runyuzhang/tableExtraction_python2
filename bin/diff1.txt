@@ -1,0 +1,192 @@
+SKIPPED<_io.TextIOWrapper name='us-035a_function.txt' mode='r' encoding='UTF-8'>
+us-017-str.xml
+***************LISHA***************
+{
+    "1": {
+        "colInc": 0,
+        "endCol": 0,
+        "endRow": 2,
+        "rowInc": -1
+    },
+    "2": {
+        "colInc": 0,
+        "endCol": 0,
+        "endRow": 2,
+        "rowInc": -1
+    }
+}
+***************JASON***************
+{
+    "1": {
+        "colInc": 0,
+        "endCol": 0,
+        "endRow": 1,
+        "rowInc": -1
+    },
+    "2": {
+        "colInc": 0,
+        "endCol": 0,
+        "endRow": 1,
+        "rowInc": -1
+    },
+    "3": {
+        "colInc": 0,
+        "endCol": 0,
+        "endRow": 1,
+        "rowInc": -1
+    },
+    "4": {
+        "colInc": 0,
+        "endCol": 0,
+        "endRow": 1,
+        "rowInc": -1
+    },
+    "5": {
+        "colInc": 0,
+        "endCol": 0,
+        "endRow": 1,
+        "rowInc": -1
+    },
+    "6": {
+        "colInc": 0,
+        "endCol": 0,
+        "endRow": 1,
+        "rowInc": -1
+    }
+}
+us-019-str.xml
+***************LISHA***************
+{
+    "1": {
+        "colInc": 0,
+        "endCol": 0,
+        "endRow": 0,
+        "rowInc": 1
+    },
+    "2": {
+        "colInc": 0,
+        "endCol": 0,
+        "endRow": 1,
+        "rowInc": 0
+    },
+    "3": {
+        "colInc": 0,
+        "endCol": 0,
+        "endRow": 1,
+        "rowInc": 0
+    },
+    "4": {
+        "colInc": 0,
+        "endCol": 0,
+        "endRow": 1,
+        "rowInc": 0
+    }
+}
+***************JASON***************
+{
+    "1": {
+        "colInc": 0,
+        "endCol": 0,
+        "endRow": 0,
+        "rowInc": 0
+    },
+    "2": {
+        "colInc": 0,
+        "endCol": 0,
+        "endRow": 1,
+        "rowInc": 0
+    },
+    "3": {
+        "colInc": 0,
+        "endCol": 0,
+        "endRow": 1,
+        "rowInc": 0
+    },
+    "4": {
+        "colInc": 0,
+        "endCol": 0,
+        "endRow": 1,
+        "rowInc": 0
+    }
+}
+us-018-str.xml
+***************LISHA***************
+{
+    "1": {
+        "colInc": 0,
+        "endCol": 0,
+        "endRow": 1,
+        "rowInc": 0
+    },
+    "2": {
+        "colInc": 0,
+        "endCol": 0,
+        "endRow": 1,
+        "rowInc": 0
+    },
+    "3": {
+        "colInc": 0,
+        "endCol": 0,
+        "endRow": 1,
+        "rowInc": -1
+    },
+    "4": {
+        "colInc": 0,
+        "endCol": 0,
+        "endRow": 3,
+        "rowInc": -1
+    },
+    "5": {
+        "colInc": 0,
+        "endCol": 0,
+        "endRow": 0,
+        "rowInc": 0
+    },
+    "6": {},
+    "7": {}
+}
+***************JASON***************
+{
+    "1": {
+        "colInc": 0,
+        "endCol": 0,
+        "endRow": 1,
+        "rowInc": 0
+    },
+    "2": {
+        "colInc": 0,
+        "endCol": 0,
+        "endRow": 1,
+        "rowInc": 0
+    },
+    "3": {
+        "colInc": 0,
+        "endCol": 0,
+        "endRow": 1,
+        "rowInc": -1
+    },
+    "4": {
+        "colInc": 0,
+        "endCol": 0,
+        "endRow": 2,
+        "rowInc": -1
+    },
+    "5": {
+        "colInc": 0,
+        "endCol": 0,
+        "endRow": 0,
+        "rowInc": 0
+    },
+    "6": {
+        "colInc": 0,
+        "endCol": 0,
+        "endRow": 2,
+        "rowInc": -1
+    },
+    "7": {
+        "colInc": 0,
+        "endCol": 0,
+        "endRow": 2,
+        "rowInc": -1
+    }
+}

@@ -1,0 +1,18 @@
+{
+	"contentSimilarityCase": 0,
+	"contentSimilarityCaseIn": 1,
+	"verticallySpanned": 1,
+	"horizontallySpanned": 1,
+	"relativeVerticalPosition": 1,
+	"relativeHorizontalPosition": 1,
+	"belowEmptyRow" : 1,
+	"aboveEmptyRow" : 1,
+	"injectFunctions": 1,
+	"spannedBySameCell": 1,
+	"emptyStubCell": 1,
+	"sameColumn": 1,
+	"sameRow": 1,
+	"recurringCell": 1,
+	"indentation": 1,
+	"contextualStructure" : 0
+}

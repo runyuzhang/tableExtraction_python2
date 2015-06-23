@@ -1,0 +1,504 @@
+{
+    "eu-001-str.xml": {
+        "1": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 1, 
+            "rowInc": 0
+        }, 
+        "2": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 1, 
+            "rowInc": 0
+        }, 
+        "3": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 1, 
+            "rowInc": 0
+        }, 
+        "4": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 1, 
+            "rowInc": 0
+        }, 
+        "5": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 1, 
+            "rowInc": 0
+        }, 
+        "6": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 1, 
+            "rowInc": 0
+        }, 
+        "7": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 1, 
+            "rowInc": 0
+        }
+    }, 
+    "eu-002-str.xml": {
+        "1": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }
+    }, 
+    "eu-003-str.xml": {
+        "1": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }, 
+        "2": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }, 
+        "3": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }
+    }, 
+    "eu-004-str.xml": {
+        "1": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }, 
+        "2": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }, 
+        "3": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }, 
+        "4": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }, 
+        "5": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 1, 
+            "rowInc": 0
+        }, 
+        "6": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 1, 
+            "rowInc": 0
+        }, 
+        "7": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 1, 
+            "rowInc": 0
+        }, 
+        "8": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 1, 
+            "rowInc": 0
+        }, 
+        "9": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }, 
+        "10": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }, 
+        "11": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }, 
+        "12": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }
+    }, 
+    "eu-005-str.xml": {
+        "1": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }, 
+        "2": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }
+    }, 
+    "eu-006-str.xml": {
+        "1": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }, 
+        "2": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }, 
+        "3": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }, 
+        "4": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }
+    }, 
+    "eu-007-str.xml": {
+        "1": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }, 
+        "2": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }, 
+        "3": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }, 
+        "4": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }, 
+        "5": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }, 
+        "6": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }
+    }, 
+    "eu-008-str.xml": {
+        "1": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }
+    }, 
+    "eu-010-str.xml": {
+        "1": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }
+    }, 
+    "eu-011-str.xml": {
+        "1": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }
+    }, 
+    "eu-012-str.xml": {
+        "1": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }, 
+        "2": {
+            "colInc": 0, 
+            "endCol": 1, 
+            "endRow": 0, 
+            "rowInc": 0
+        }, 
+        "3": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 1, 
+            "rowInc": 0
+        }, 
+        "4": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 1, 
+            "rowInc": 0
+        }, 
+        "5": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }
+    }, 
+    "eu-013-str.xml": {
+        "1": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }, 
+        "2": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }, 
+        "3": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }, 
+        "4": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }
+    }, 
+    "eu-014-str.xml": {
+        "1": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }
+    }, 
+    "eu-015-str.xml": {
+        "1": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }, 
+        "2": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }, 
+        "3": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }, 
+        "4": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }, 
+        "5": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }
+    }, 
+    "eu-016-str.xml": {
+        "1": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }
+    }, 
+    "eu-017-str.xml": {
+        "1": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }
+    }, 
+    "eu-018-str.xml": {
+        "1": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 1, 
+            "rowInc": 0
+        }, 
+        "2": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 1, 
+            "rowInc": 0
+        }
+    }, 
+    "eu-019-str.xml": {
+        "1": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }
+    }, 
+    "eu-020-str.xml": {
+        "1": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }, 
+        "2": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 1, 
+            "rowInc": 0
+        }, 
+        "3": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 1, 
+            "rowInc": 0
+        }
+    }, 
+    "eu-021-str.xml": {
+        "1": {
+            "colInc": 0, 
+            "endCol": 1, 
+            "endRow": 0, 
+            "rowInc": 0
+        }, 
+        "2": {
+            "colInc": 0, 
+            "endCol": 1, 
+            "endRow": 0, 
+            "rowInc": 0
+        }
+    }, 
+    "eu-022-str.xml": {
+        "1": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 1, 
+            "rowInc": 0
+        }
+    }, 
+    "eu-023-str.xml": {
+        "1": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }
+    }, 
+    "eu-024-str.xml": {
+        "1": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }
+    }, 
+    "eu-025-str.xml": {
+        "1": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 1, 
+            "rowInc": 0
+        }, 
+        "2": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 1, 
+            "rowInc": 0
+        }, 
+        "3": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 1, 
+            "rowInc": 0
+        }, 
+        "4": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 1, 
+            "rowInc": 0
+        }, 
+        "5": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 1, 
+            "rowInc": 0
+        }
+    }, 
+    "eu-026-str.xml": {
+        "1": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }, 
+        "2": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }, 
+        "3": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }
+    }, 
+    "eu-027-str.xml": {
+        "1": {
+            "colInc": 0, 
+            "endCol": 0, 
+            "endRow": 0, 
+            "rowInc": 0
+        }
+    }
+}
