@@ -27,7 +27,7 @@ class Cell:
 		self.__content = content
 		self.__function = function
 		self.__cellID = cellID
-		self.__parentList = []
+		self.__parentList = [None]
 		self.__childrenList = []
 		self.__x1 = x1
 		self.__x2 = x2
@@ -118,7 +118,10 @@ class Cell:
 		child.addParent(self)
 
 	def addParent(self,parent):
-		self.__parentList.append(parent)
+		if self.__parentList[0]:
+			self.__parentList.append(parent)
+		else:
+			self.__parentList[0] = parent
 
 	def isStub(self):
 		return self.function == Cell.STUB_CELL
@@ -160,7 +163,21 @@ class Grid:
 		self.__stubCol = 0
 
 
+	@property
+	def stubRow(self):
+	    return self.__stubRow
+	@stubRow.setter
+	def stubRow(self, value):
+	    self.__stubRow = value
 
+
+	@property
+	def stubCol(self):
+	    return self.__stubCol
+	@stubCol.setter
+	def stubCol(self, value):
+	    self.__stubCol = value
+	
 
 
 	@property
@@ -330,9 +347,9 @@ class Grid:
 	def isSibling(self, c1, c2):
 		if len(set(c1.parentList).intersection(set(c2.parentList))) > 0:
 			return True
-		elif c1.isRowHeader() and c2.isRowHeader() and len(c1.parentList) == 0 and len(c2.parentList) == 0:
+		elif (c1.isRowHeader() or c1.isStub) and (c2.isRowHeader() and c2.isStub()) and len(c1.parentList) == 0 and len(c2.parentList) == 0:
 			return True
-		elif c1.isColHeader() and c2.isColHeader() and len(c1.parentList) == 0 and len(c2.parentList) == 0:
+		elif (c1.isColHeader() or c1.isStub) and (c2.isColHeader() and c2.isStub()) and len(c1.parentList) == 0 and len(c2.parentList) == 0:
 			return True
 		return False
 
@@ -348,16 +365,22 @@ class Grid:
 			c = self.getCell(self.__stubRow + rowSpan, self.__stubCol)
 			while c.isEmptyCell():
 				rowSpan += 1
-				c = self.getCell(rowSpan, colSpan)
+				c = self.getCell(self.__stubRow + rowSpan, self.__stubCol)
 
-			c = self.getCell(self.__stubRow, colSpan)
+			c = self.getCell(self.__stubRow, self.__stubCol + colSpan)
 			while c.isEmptyCell():
 				colSpan += 1
-				c = self.getCell(1, colSpan)
+				c = self.getCell(self.__stubRow, self.__stubCol + colSpan)
 
-			return Cell(self.__stubRow, self.__stubCol, rowSpan, colSpan, content = "", function = Cell.EMPTY_CELL)
+			return Cell(self.__stubRow, self.__stubCol, rowSpan, colSpan, content = "", function = Cell.EMPTY_CELL, cellID = -1)
 
-
+	def touching(self, c1, c2):
+		def overlap(a,b,c,d):
+			return a <= c <= b or c <= a <= d
+		if (c2.startCol + c2.colSpan == c1.startCol or c1.startCol + c1.colSpan == c2.startCol) and overlap(c1.startRow, c1.startRow + c1.rowSpan - 1, c2.startRow, c2.startRow + c2.rowSpan - 1):
+			return True
+		if (c2.startRow + c2.rowSpan == c1.startRow or c1.startRow + c1.rowSpan == c2.startRow) and overlap(c1.startCol, c1.startCol + c1.colSpan - 1, c2.startCol, c2.startCol + c2.colSpan - 1):
+			return True
 
 	def classify(self, c1, c2):
 		if self.isSuperior(c1, c2):

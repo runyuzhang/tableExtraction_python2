@@ -9,10 +9,11 @@
 	"aboveEmptyRow" : 1,
 	"injectFunctions": 1,
 	"spannedBySameCell": 1,
-	"emptyStubCell": 1,
+	"emptyStubCell": 0,
 	"sameColumn": 1,
 	"sameRow": 1,
-	"recurringCell": 1,
+	"recurringCell": 0,
 	"indentation": 1,
+	"sameDimension": 1,
 	"contextualStructure" : 0
 }

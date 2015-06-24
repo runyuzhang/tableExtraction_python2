@@ -1,0 +1,7959 @@
+2015-06-24 16:08:56,994 Parsing ../data/eu/eu-001-str.xml
+2015-06-24 16:08:57,108 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-001_function.txt
+2015-06-24 16:08:57,110 Parsing ../data/eu/eu-001-str.xml
+2015-06-24 16:08:57,205 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-001_function.txt
+2015-06-24 16:08:57,206 READING STRUCTURAL TAGGING FROM../data/eu_structure/eu-001_structure.txt
+{'_Cell__cellID': -1,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': '',
+ '_Cell__function': 'E',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 2,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 0,
+ '_Cell__x2': 0,
+ '_Cell__y1': 0,
+ '_Cell__y2': 0}
+      v 2 8 0 1 None column
+2 0
+4     h 2 3 1 1       column
+4     v 3 8 0 1       column
+3 0
+[[ 0.  1.  0.]]
+4     8     S
+[None]
+8     h 3 4 1 1 4     column
+8     v 4 8 0 1 4     column
+4 0
+[[ 0.  1.  0.]]
+8     12    S
+[None]
+12    h 4 5 1 1 8     column
+12    v 5 8 0 1 8     column
+5 0
+[[ 0.  1.  0.]]
+12    16    S
+[None]
+16    h 5 6 1 1 12    column
+16    v 6 8 0 1 12    column
+6 0
+[[ 0.  1.  0.]]
+16    20    S
+[None]
+20    h 6 7 1 1 16    column
+20    v 7 8 0 1 16    column
+7 0
+[[ 0.  1.  0.]]
+20    24    S
+[None]
+24    h 7 8 1 1 20    column
+24    v 8 8 0 1 20    column
+      h 0 2 1 4 None row
+0     v 1 2 1 4       row
+1 1
+[[ 1.  0.  0.]]
+0     1     L
+1     h 1 2 2 4 0     row
+[[ 0.  1.  0.]]
+1     2     S
+[0    ]
+2     v 2 2 2 3 1     row
+2     h 1 2 3 4 1     row
+[[ 0.  1.  0.]]
+2     3     S
+[0    ]
+3     v 2 2 3 4 2     row
+3     h 1 2 4 4 2     row
+1     v 2 2 1 2 0     row
+1 2
+1 3
+0     h 0 1 4 4       row
+{'_Cell__cellID': -1,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': '',
+ '_Cell__function': 'E',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 2,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 0,
+ '_Cell__x2': 0,
+ '_Cell__y1': 0,
+ '_Cell__y2': 0}
+      v 2 13 0 1 None column
+2 0
+4     h 2 3 1 1       column
+4     v 3 13 0 1       column
+3 0
+[[ 0.  1.  0.]]
+4     8     S
+[None]
+8     h 3 4 1 1 4     column
+8     v 4 13 0 1 4     column
+4 0
+[[ 0.  1.  0.]]
+8     12    S
+[None]
+12    h 4 5 1 1 8     column
+12    v 5 13 0 1 8     column
+5 0
+[[ 0.  1.  0.]]
+12    16    S
+[None]
+16    h 5 6 1 1 12    column
+16    v 6 13 0 1 12    column
+6 0
+[[ 0.  1.  0.]]
+16    20    S
+[None]
+20    h 6 7 1 1 16    column
+20    v 7 13 0 1 16    column
+7 0
+[[ 0.  1.  0.]]
+20    24    S
+[None]
+24    h 7 8 1 1 20    column
+24    v 8 13 0 1 20    column
+8 0
+[[ 0.  1.  0.]]
+24    28    S
+[None]
+28    h 8 9 1 1 24    column
+28    v 9 13 0 1 24    column
+9 0
+[[ 0.  1.  0.]]
+28    32    S
+[None]
+32    h 9 10 1 1 28    column
+32    v 10 13 0 1 28    column
+10 0
+[[ 0.  1.  0.]]
+32    36    S
+[None]
+36    h 10 11 1 1 32    column
+36    v 11 13 0 1 32    column
+11 0
+[[ 0.  1.  0.]]
+36    40    S
+[None]
+40    h 11 12 1 1 36    column
+40    v 12 13 0 1 36    column
+12 0
+[[ 0.  1.  0.]]
+40    44    S
+[None]
+44    h 12 13 1 1 40    column
+44    v 13 13 0 1 40    column
+      h 0 2 1 4 None row
+0     v 1 2 1 4       row
+1 1
+[[ 1.  0.  0.]]
+0     1     L
+1     h 1 2 2 4 0     row
+[[ 0.  1.  0.]]
+1     2     S
+[0    ]
+2     v 2 2 2 3 1     row
+2     h 1 2 3 4 1     row
+[[ 0.  1.  0.]]
+2     3     S
+[0    ]
+3     v 2 2 3 4 2     row
+3     h 1 2 4 4 2     row
+1     v 2 2 1 2 0     row
+1 2
+1 3
+0     h 0 1 4 4       row
+{'_Cell__cellID': -1,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': '',
+ '_Cell__function': 'E',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 2,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 0,
+ '_Cell__x2': 0,
+ '_Cell__y1': 0,
+ '_Cell__y2': 0}
+      v 2 10 0 1 None column
+2 0
+4     h 2 3 1 1       column
+4     v 3 10 0 1       column
+3 0
+[[ 0.  1.  0.]]
+4     8     S
+[None]
+8     h 3 4 1 1 4     column
+8     v 4 10 0 1 4     column
+4 0
+[[ 0.  1.  0.]]
+8     12    S
+[None]
+12    h 4 5 1 1 8     column
+12    v 5 10 0 1 8     column
+5 0
+[[ 0.  1.  0.]]
+12    16    S
+[None]
+16    h 5 6 1 1 12    column
+16    v 6 10 0 1 12    column
+6 0
+[[ 0.  1.  0.]]
+16    20    S
+[None]
+20    h 6 7 1 1 16    column
+20    v 7 10 0 1 16    column
+7 0
+[[ 0.  1.  0.]]
+20    24    S
+[None]
+24    h 7 8 1 1 20    column
+24    v 8 10 0 1 20    column
+8 0
+[[ 0.  1.  0.]]
+24    28    S
+[None]
+28    h 8 9 1 1 24    column
+28    v 9 10 0 1 24    column
+9 0
+[[ 0.  1.  0.]]
+28    32    S
+[None]
+32    h 9 10 1 1 28    column
+32    v 10 10 0 1 28    column
+      h 0 2 1 4 None row
+0     v 1 2 1 4       row
+1 1
+[[ 1.  0.  0.]]
+0     1     L
+1     h 1 2 2 4 0     row
+[[ 0.  1.  0.]]
+1     2     S
+[0    ]
+2     v 2 2 2 3 1     row
+2     h 1 2 3 4 1     row
+[[ 0.  1.  0.]]
+2     3     S
+[0    ]
+3     v 2 2 3 4 2     row
+3     h 1 2 4 4 2     row
+1     v 2 2 1 2 0     row
+1 2
+1 3
+0     h 0 1 4 4       row
+{'_Cell__cellID': -1,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': '',
+ '_Cell__function': 'E',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 2,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 0,
+ '_Cell__x2': 0,
+ '_Cell__y1': 0,
+ '_Cell__y2': 0}
+      v 2 24 0 1 None column
+2 0
+4     h 2 3 1 1       column
+4     v 3 24 0 1       column
+3 0
+[[ 0.  1.  0.]]
+4     8     S
+[None]
+8     h 3 4 1 1 4     column
+8     v 4 24 0 1 4     column
+4 0
+[[ 0.  1.  0.]]
+8     12    S
+[None]
+12    h 4 5 1 1 8     column
+12    v 5 24 0 1 8     column
+5 0
+[[ 0.  1.  0.]]
+12    16    S
+[None]
+16    h 5 6 1 1 12    column
+16    v 6 24 0 1 12    column
+6 0
+[[ 0.  1.  0.]]
+16    20    S
+[None]
+20    h 6 7 1 1 16    column
+20    v 7 24 0 1 16    column
+7 0
+[[ 0.  1.  0.]]
+20    24    S
+[None]
+24    h 7 8 1 1 20    column
+24    v 8 24 0 1 20    column
+8 0
+[[ 0.  1.  0.]]
+24    28    S
+[None]
+28    h 8 9 1 1 24    column
+28    v 9 24 0 1 24    column
+9 0
+[[ 0.  1.  0.]]
+28    32    S
+[None]
+32    h 9 10 1 1 28    column
+32    v 10 24 0 1 28    column
+10 0
+[[ 0.  1.  0.]]
+32    36    S
+[None]
+36    h 10 11 1 1 32    column
+36    v 11 24 0 1 32    column
+11 0
+[[ 0.  1.  0.]]
+36    40    S
+[None]
+40    h 11 12 1 1 36    column
+40    v 12 24 0 1 36    column
+12 0
+[[ 0.  1.  0.]]
+40    44    S
+[None]
+44    h 12 13 1 1 40    column
+44    v 13 24 0 1 40    column
+13 0
+[[ 0.  1.  0.]]
+44    48    S
+[None]
+48    h 13 14 1 1 44    column
+48    v 14 24 0 1 44    column
+14 0
+[[ 0.  1.  0.]]
+48    52    S
+[None]
+52    h 14 15 1 1 48    column
+52    v 15 24 0 1 48    column
+15 0
+[[ 0.  1.  0.]]
+52    56    S
+[None]
+56    h 15 16 1 1 52    column
+56    v 16 24 0 1 52    column
+16 0
+[[ 0.  1.  0.]]
+56    60    S
+[None]
+60    h 16 17 1 1 56    column
+60    v 17 24 0 1 56    column
+17 0
+[[ 0.  1.  0.]]
+60    64    S
+[None]
+64    h 17 18 1 1 60    column
+64    v 18 24 0 1 60    column
+18 0
+[[ 0.  1.  0.]]
+64    68    S
+[None]
+68    h 18 19 1 1 64    column
+68    v 19 24 0 1 64    column
+19 0
+[[ 0.  1.  0.]]
+68    72    S
+[None]
+72    h 19 20 1 1 68    column
+72    v 20 24 0 1 68    column
+20 0
+[[ 0.  1.  0.]]
+72    76    S
+[None]
+76    h 20 21 1 1 72    column
+76    v 21 24 0 1 72    column
+21 0
+[[ 0.  1.  0.]]
+76    80    S
+[None]
+80    h 21 22 1 1 76    column
+80    v 22 24 0 1 76    column
+22 0
+[[ 0.  1.  0.]]
+80    84    S
+[None]
+84    h 22 23 1 1 80    column
+84    v 23 24 0 1 80    column
+23 0
+[[ 0.  1.  0.]]
+84    88    S
+[None]
+88    h 23 24 1 1 84    column
+88    v 24 24 0 1 84    column
+      h 0 2 1 4 None row
+0     v 1 2 1 4       row
+1 1
+[[ 1.  0.  0.]]
+0     1     L
+1     h 1 2 2 4 0     row
+[[ 0.  1.  0.]]
+1     2     S
+[0    ]
+2     v 2 2 2 3 1     row
+2     h 1 2 3 4 1     row
+[[ 0.  1.  0.]]
+2     3     S
+[0    ]
+3     v 2 2 3 4 2     row
+3     h 1 2 4 4 2     row
+1     v 2 2 1 2 0     row
+1 2
+1 3
+0     h 0 1 4 4       row
+{'_Cell__cellID': -1,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': '',
+ '_Cell__function': 'E',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 2,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 0,
+ '_Cell__x2': 0,
+ '_Cell__y1': 0,
+ '_Cell__y2': 0}
+      v 2 23 0 1 None column
+2 0
+4     h 2 3 1 1       column
+4     v 3 23 0 1       column
+3 0
+[[ 0.  1.  0.]]
+4     8     S
+[None]
+8     h 3 4 1 1 4     column
+8     v 4 23 0 1 4     column
+4 0
+[[ 0.  1.  0.]]
+8     12    S
+[None]
+12    h 4 5 1 1 8     column
+12    v 5 23 0 1 8     column
+5 0
+[[ 0.  1.  0.]]
+12    16    S
+[None]
+16    h 5 6 1 1 12    column
+16    v 6 23 0 1 12    column
+6 0
+[[ 0.  1.  0.]]
+16    20    S
+[None]
+20    h 6 7 1 1 16    column
+20    v 7 23 0 1 16    column
+7 0
+[[ 0.  1.  0.]]
+20    24    S
+[None]
+24    h 7 8 1 1 20    column
+24    v 8 23 0 1 20    column
+8 0
+[[ 0.  1.  0.]]
+24    28    S
+[None]
+28    h 8 9 1 1 24    column
+28    v 9 23 0 1 24    column
+9 0
+[[ 0.  1.  0.]]
+28    32    S
+[None]
+32    h 9 10 1 1 28    column
+32    v 10 23 0 1 28    column
+10 0
+[[ 0.  1.  0.]]
+32    36    S
+[None]
+36    h 10 11 1 1 32    column
+36    v 11 23 0 1 32    column
+11 0
+[[ 0.  1.  0.]]
+36    40    S
+[None]
+40    h 11 12 1 1 36    column
+40    v 12 23 0 1 36    column
+12 0
+[[ 0.  1.  0.]]
+40    44    S
+[None]
+44    h 12 13 1 1 40    column
+44    v 13 23 0 1 40    column
+13 0
+[[ 0.  1.  0.]]
+44    48    S
+[None]
+48    h 13 14 1 1 44    column
+48    v 14 23 0 1 44    column
+14 0
+[[ 0.  1.  0.]]
+48    52    S
+[None]
+52    h 14 15 1 1 48    column
+52    v 15 23 0 1 48    column
+15 0
+[[ 0.  1.  0.]]
+52    56    S
+[None]
+56    h 15 16 1 1 52    column
+56    v 16 23 0 1 52    column
+16 0
+[[ 0.  1.  0.]]
+56    60    S
+[None]
+60    h 16 17 1 1 56    column
+60    v 17 23 0 1 56    column
+17 0
+[[ 0.  1.  0.]]
+60    64    S
+[None]
+64    h 17 18 1 1 60    column
+64    v 18 23 0 1 60    column
+18 0
+[[ 0.  1.  0.]]
+64    68    S
+[None]
+68    h 18 19 1 1 64    column
+68    v 19 23 0 1 64    column
+19 0
+[[ 0.  1.  0.]]
+68    72    S
+[None]
+72    h 19 20 1 1 68    column
+72    v 20 23 0 1 68    column
+20 0
+[[ 0.  1.  0.]]
+72    76    S
+[None]
+76    h 20 21 1 1 72    column
+76    v 21 23 0 1 72    column
+21 0
+[[ 0.  1.  0.]]
+76    80    S
+[None]
+80    h 21 22 1 1 76    column
+80    v 22 23 0 1 76    column
+22 0
+[[ 0.  1.  0.]]
+80    84    S
+[None]
+84    h 22 23 1 1 80    column
+84    v 23 23 0 1 80    column
+      h 0 2 1 4 None row
+0     v 1 2 1 4       row
+1 1
+[[ 1.  0.  0.]]
+0     1     L
+1     h 1 2 2 4 0     row
+[[ 0.  1.  0.]]
+1     2     S
+[0    ]
+2     v 2 2 2 3 1     row
+2     h 1 2 3 4 1     row
+[[ 0.  1.  0.]]
+2     3     S
+[0    ]
+3     v 2 2 3 4 2     row
+3     h 1 2 4 4 2     row
+1     v 2 2 1 2 0     row
+1 2
+1 3
+0     h 0 1 4 4       row
+{'_Cell__cellID': -1,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': '',
+ '_Cell__function': 'E',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 2,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 0,
+ '_Cell__x2': 0,
+ '_Cell__y1': 0,
+ '_Cell__y2': 0}
+      v 2 18 0 1 None column
+2 0
+4     h 2 3 1 1       column
+4     v 3 18 0 1       column
+3 0
+[[ 0.  1.  0.]]
+4     8     S
+[None]
+8     h 3 4 1 1 4     column
+8     v 4 18 0 1 4     column
+4 0
+[[ 0.  1.  0.]]
+8     12    S
+[None]
+12    h 4 5 1 1 8     column
+12    v 5 18 0 1 8     column
+5 0
+[[ 0.  1.  0.]]
+12    16    S
+[None]
+16    h 5 6 1 1 12    column
+16    v 6 18 0 1 12    column
+6 0
+[[ 0.  1.  0.]]
+16    20    S
+[None]
+20    h 6 7 1 1 16    column
+20    v 7 18 0 1 16    column
+7 0
+[[ 0.  1.  0.]]
+20    24    S
+[None]
+24    h 7 8 1 1 20    column
+24    v 8 18 0 1 20    column
+8 0
+[[ 0.  1.  0.]]
+24    28    S
+[None]
+28    h 8 9 1 1 24    column
+28    v 9 18 0 1 24    column
+9 0
+[[ 0.  1.  0.]]
+28    32    S
+[None]
+32    h 9 10 1 1 28    column
+32    v 10 18 0 1 28    column
+10 0
+[[ 0.  1.  0.]]
+32    36    S
+[None]
+36    h 10 11 1 1 32    column
+36    v 11 18 0 1 32    column
+11 0
+[[ 0.  1.  0.]]
+36    40    S
+[None]
+40    h 11 12 1 1 36    column
+40    v 12 18 0 1 36    column
+12 0
+[[ 0.  1.  0.]]
+40    44    S
+[None]
+44    h 12 13 1 1 40    column
+44    v 13 18 0 1 40    column
+13 0
+[[ 0.  1.  0.]]
+44    48    S
+[None]
+48    h 13 14 1 1 44    column
+48    v 14 18 0 1 44    column
+14 0
+[[ 0.  1.  0.]]
+48    52    S
+[None]
+52    h 14 15 1 1 48    column
+52    v 15 18 0 1 48    column
+15 0
+[[ 0.  1.  0.]]
+52    56    S
+[None]
+56    h 15 16 1 1 52    column
+56    v 16 18 0 1 52    column
+16 0
+[[ 0.  1.  0.]]
+56    60    S
+[None]
+60    h 16 17 1 1 56    column
+60    v 17 18 0 1 56    column
+17 0
+[[ 0.  1.  0.]]
+60    64    S
+[None]
+64    h 17 18 1 1 60    column
+64    v 18 18 0 1 60    column
+      h 0 2 1 4 None row
+0     v 1 2 1 4       row
+1 1
+[[ 1.  0.  0.]]
+0     1     L
+1     h 1 2 2 4 0     row
+[[ 0.  1.  0.]]
+1     2     S
+[0    ]
+2     v 2 2 2 3 1     row
+2     h 1 2 3 4 1     row
+[[ 0.  1.  0.]]
+2     3     S
+[0    ]
+3     v 2 2 3 4 2     row
+3     h 1 2 4 4 2     row
+1     v 2 2 1 2 0     row
+1 2
+1 3
+0     h 0 1 4 4       row
+{'_Cell__cellID': -1,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': '',
+ '_Cell__function': 'E',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 2,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 0,
+ '_Cell__x2': 0,
+ '_Cell__y1': 0,
+ '_Cell__y2': 0}
+      v 2 9 0 1 None column
+2 0
+4     h 2 3 1 1       column
+4     v 3 9 0 1       column
+3 0
+[[ 0.  1.  0.]]
+4     8     S
+[None]
+8     h 3 4 1 1 4     column
+8     v 4 9 0 1 4     column
+4 0
+[[ 0.  1.  0.]]
+8     12    S
+[None]
+12    h 4 5 1 1 8     column
+12    v 5 9 0 1 8     column
+5 0
+[[ 0.  1.  0.]]
+12    16    S
+[None]
+16    h 5 6 1 1 12    column
+16    v 6 9 0 1 12    column
+6 0
+[[ 0.  1.  0.]]
+16    20    S
+[None]
+20    h 6 7 1 1 16    column
+20    v 7 9 0 1 16    column
+7 0
+[[ 0.  1.  0.]]
+20    24    S
+[None]
+24    h 7 8 1 1 20    column
+24    v 8 9 0 1 20    column
+8 0
+[[ 0.  1.  0.]]
+24    28    S
+[None]
+28    h 8 9 1 1 24    column
+28    v 9 9 0 1 24    column
+      h 0 2 1 4 None row
+0     v 1 2 1 4       row
+1 1
+[[ 1.  0.  0.]]
+0     1     L
+1     h 1 2 2 4 0     row
+[[ 0.  1.  0.]]
+1     2     S
+[0    ]
+2     v 2 2 2 3 1     row
+2     h 1 2 3 4 1     row
+[[ 0.  1.  0.]]
+2     3     S
+[0    ]
+3     v 2 2 3 4 2     row
+3     h 1 2 4 4 2     row
+1     v 2 2 1 2 0     row
+1 2
+1 3
+0     h 0 1 4 4       row
+2015-06-24 16:08:57,393 Parsing ../data/eu/eu-002-str.xml
+2015-06-24 16:08:57,407 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-002_function.txt
+2015-06-24 16:08:57,408 Parsing ../data/eu/eu-002-str.xml
+2015-06-24 16:08:57,415 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-002_function.txt
+2015-06-24 16:08:57,415 READING STRUCTURAL TAGGING FROM../data/eu_structure/eu-002_structure.txt
+{'_Cell__cellID': -1,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': '',
+ '_Cell__function': 'E',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 1,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 0,
+ '_Cell__x2': 0,
+ '_Cell__y1': 0,
+ '_Cell__y2': 0}
+      v 1 6 0 1 None column
+1 0
+5     h 1 2 1 1       column
+5     v 2 6 0 1       column
+2 0
+[[ 0.     0.725  0.275]]
+5     11    S
+[None]
+11    h 2 3 1 1 5     column
+11    v 3 6 0 1 5     column
+3 0
+[[ 0.     0.725  0.275]]
+11    17    S
+[None]
+17    h 3 4 1 1 11    column
+17    v 4 6 0 1 11    column
+4 0
+[[ 0.     0.725  0.275]]
+17    23    S
+[None]
+23    h 4 5 1 1 17    column
+23    v 5 6 0 1 17    column
+5 0
+[[ 0.     0.725  0.275]]
+23    29    S
+[None]
+29    h 5 6 1 1 23    column
+29    v 6 6 0 1 23    column
+      h 0 1 1 6 None row
+0     v 1 1 1 2       row
+0     h 0 1 2 6       row
+[[ 0.  1.  0.]]
+0     1     S
+[None]
+1     v 1 1 2 3 0     row
+1     h 0 1 3 6 0     row
+[[ 0.  1.  0.]]
+1     2     S
+[None]
+2     v 1 1 3 4 1     row
+2     h 0 1 4 6 1     row
+[[ 0.  1.  0.]]
+2     3     S
+[None]
+3     v 1 1 4 5 2     row
+3     h 0 1 5 6 2     row
+[[ 0.  1.  0.]]
+3     4     S
+[None]
+4     v 1 1 5 6 3     row
+4     h 0 1 6 6 3     row
+2015-06-24 16:08:57,427 Parsing ../data/eu/eu-003-str.xml
+2015-06-24 16:08:57,443 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-003_function.txt
+2015-06-24 16:08:57,444 Parsing ../data/eu/eu-003-str.xml
+2015-06-24 16:08:57,460 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-003_function.txt
+2015-06-24 16:08:57,461 READING STRUCTURAL TAGGING FROM../data/eu_structure/eu-003_structure.txt
+{'_Cell__cellID': -1,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': '',
+ '_Cell__function': 'E',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 1,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 0,
+ '_Cell__x2': 0,
+ '_Cell__y1': 0,
+ '_Cell__y2': 0}
+      v 1 3 0 1 None column
+1 0
+2     h 1 2 1 1       column
+2     v 2 3 0 1       column
+2 0
+[[ 0.  1.  0.]]
+2     5     S
+[None]
+5     h 2 3 1 1 2     column
+5     v 3 3 0 1 2     column
+      h 0 1 1 3 None row
+0     v 1 1 1 2       row
+0     h 0 1 2 3       row
+[[ 0.  1.  0.]]
+0     1     S
+[None]
+1     v 1 1 2 3 0     row
+1     h 0 1 3 3 0     row
+{'_Cell__cellID': -1,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': '',
+ '_Cell__function': 'E',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 1,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 0,
+ '_Cell__x2': 0,
+ '_Cell__y1': 0,
+ '_Cell__y2': 0}
+      v 1 7 0 1 None column
+1 0
+4     h 1 2 1 1       column
+4     v 2 7 0 1       column
+2 0
+[[ 0.  1.  0.]]
+4     9     S
+[None]
+9     h 2 3 1 1 4     column
+9     v 3 7 0 1 4     column
+3 0
+[[ 0.  1.  0.]]
+9     14    S
+[None]
+14    h 3 4 1 1 9     column
+14    v 4 7 0 1 9     column
+4 0
+[[ 0.  1.  0.]]
+14    19    S
+[None]
+19    h 4 5 1 1 14    column
+19    v 5 7 0 1 14    column
+5 0
+[[ 0.  1.  0.]]
+19    24    S
+[None]
+24    h 5 6 1 1 19    column
+24    v 6 7 0 1 19    column
+6 0
+[[ 0.  1.  0.]]
+24    29    S
+[None]
+29    h 6 7 1 1 24    column
+29    v 7 7 0 1 24    column
+      h 0 1 1 5 None row
+0     v 1 1 1 2       row
+0     h 0 1 2 5       row
+[[ 0.  1.  0.]]
+0     1     S
+[None]
+1     v 1 1 2 3 0     row
+1     h 0 1 3 5 0     row
+[[ 0.  1.  0.]]
+1     2     S
+[None]
+2     v 1 1 3 4 1     row
+2     h 0 1 4 5 1     row
+[[ 0.  1.  0.]]
+2     3     S
+[None]
+3     v 1 1 4 5 2     row
+3     h 0 1 5 5 2     row
+{'_Cell__cellID': -1,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': '',
+ '_Cell__function': 'E',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 1,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 0,
+ '_Cell__x2': 0,
+ '_Cell__y1': 0,
+ '_Cell__y2': 0}
+      v 1 4 0 1 None column
+1 0
+5     h 1 2 1 1       column
+5     v 2 4 0 1       column
+2 0
+[[ 0.  1.  0.]]
+5     11    S
+[None]
+11    h 2 3 1 1 5     column
+11    v 3 4 0 1 5     column
+3 0
+[[ 0.  1.  0.]]
+11    17    S
+[None]
+17    h 3 4 1 1 11    column
+17    v 4 4 0 1 11    column
+      h 0 1 1 6 None row
+0     v 1 1 1 2       row
+0     h 0 1 2 6       row
+[[ 0.  1.  0.]]
+0     1     S
+[None]
+1     v 1 1 2 3 0     row
+1     h 0 1 3 6 0     row
+[[ 0.  1.  0.]]
+1     2     S
+[None]
+2     v 1 1 3 4 1     row
+2     h 0 1 4 6 1     row
+[[ 0.  1.  0.]]
+2     3     S
+[None]
+3     v 1 1 4 5 2     row
+3     h 0 1 5 6 2     row
+[[ 0.  1.  0.]]
+3     4     S
+[None]
+4     v 1 1 5 6 3     row
+4     h 0 1 6 6 3     row
+2015-06-24 16:08:57,487 Parsing ../data/eu/eu-005-str.xml
+2015-06-24 16:08:57,514 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-005_function.txt
+2015-06-24 16:08:57,515 Parsing ../data/eu/eu-005-str.xml
+2015-06-24 16:08:57,545 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-005_function.txt
+2015-06-24 16:08:57,545 READING STRUCTURAL TAGGING FROM../data/eu_structure/eu-005_structure.txt
+{'_Cell__cellID': -1,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': '',
+ '_Cell__function': 'E',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 1,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 0,
+ '_Cell__x2': 0,
+ '_Cell__y1': 0,
+ '_Cell__y2': 0}
+      v 1 15 0 1 None column
+1 0
+2     h 1 2 1 1       column
+2     v 2 15 0 1       column
+2 0
+[[ 0.  1.  0.]]
+2     5     S
+[None]
+5     h 2 3 1 1 2     column
+5     v 3 15 0 1 2     column
+3 0
+[[ 0.  1.  0.]]
+5     8     S
+[None]
+8     h 3 4 1 1 5     column
+8     v 4 15 0 1 5     column
+4 0
+[[ 0.  1.  0.]]
+8     11    S
+[None]
+11    h 4 5 1 1 8     column
+11    v 5 15 0 1 8     column
+5 0
+[[ 0.  1.  0.]]
+11    14    S
+[None]
+14    h 5 6 1 1 11    column
+14    v 6 15 0 1 11    column
+6 0
+[[ 0.  1.  0.]]
+14    17    S
+[None]
+17    h 6 7 1 1 14    column
+17    v 7 15 0 1 14    column
+7 0
+[[ 0.  1.  0.]]
+17    20    S
+[None]
+20    h 7 8 1 1 17    column
+20    v 8 15 0 1 17    column
+8 0
+[[ 0.  1.  0.]]
+20    23    S
+[None]
+23    h 8 9 1 1 20    column
+23    v 9 15 0 1 20    column
+9 0
+[[ 0.  1.  0.]]
+23    26    S
+[None]
+26    h 9 10 1 1 23    column
+26    v 10 15 0 1 23    column
+10 0
+[[ 0.  1.  0.]]
+26    29    S
+[None]
+29    h 10 11 1 1 26    column
+29    v 11 15 0 1 26    column
+11 0
+[[ 0.  1.  0.]]
+29    32    S
+[None]
+32    h 11 12 1 1 29    column
+32    v 12 15 0 1 29    column
+12 0
+[[ 0.  1.  0.]]
+32    35    S
+[None]
+35    h 12 13 1 1 32    column
+35    v 13 15 0 1 32    column
+13 0
+[[ 0.  1.  0.]]
+35    38    S
+[None]
+38    h 13 14 1 1 35    column
+38    v 14 15 0 1 35    column
+14 0
+[[ 0.  1.  0.]]
+38    41    S
+[None]
+41    h 14 15 1 1 38    column
+41    v 15 15 0 1 38    column
+      h 0 1 1 3 None row
+0     v 1 1 1 2       row
+0     h 0 1 2 3       row
+[[ 0.  1.  0.]]
+0     1     S
+[None]
+1     v 1 1 2 3 0     row
+1     h 0 1 3 3 0     row
+{'_Cell__cellID': -1,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': '',
+ '_Cell__function': 'E',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 1,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 0,
+ '_Cell__x2': 0,
+ '_Cell__y1': 0,
+ '_Cell__y2': 0}
+      v 1 16 0 1 None column
+1 0
+8     h 1 2 1 1       column
+8     v 2 16 0 1       column
+2 0
+[[ 0.  1.  0.]]
+8     14    S
+[None]
+14    h 2 3 1 1 8     column
+14    v 3 16 0 1 8     column
+3 0
+[[ 0.  1.  0.]]
+14    22    S
+[None]
+22    h 3 4 1 1 14    column
+22    v 4 16 0 1 14    column
+4 0
+[[ 0.  1.  0.]]
+22    27    S
+[None]
+27    h 4 5 1 1 22    column
+27    v 5 16 0 1 22    column
+5 0
+[[ 0.  1.  0.]]
+27    33    S
+[None]
+33    h 5 6 1 1 27    column
+33    v 6 16 0 1 27    column
+6 0
+[[ 0.  1.  0.]]
+33    40    S
+[None]
+40    h 6 7 1 1 33    column
+40    v 7 16 0 1 33    column
+7 0
+[[ 0.  1.  0.]]
+40    47    S
+[None]
+47    h 7 8 1 1 40    column
+47    v 8 16 0 1 40    column
+8 0
+[[ 0.  1.  0.]]
+47    51    S
+[None]
+51    h 8 9 1 1 47    column
+51    v 9 16 0 1 47    column
+9 0
+[[ 0.  1.  0.]]
+51    56    S
+[None]
+56    h 9 10 1 1 51    column
+56    v 10 16 0 1 51    column
+10 0
+[[ 0.  1.  0.]]
+56    63    S
+[None]
+63    h 10 11 1 1 56    column
+63    v 11 16 0 1 56    column
+11 0
+[[ 0.  1.  0.]]
+63    70    S
+[None]
+70    h 11 12 1 1 63    column
+70    v 12 16 0 1 63    column
+12 0
+[[ 0.  1.  0.]]
+70    76    S
+[None]
+76    h 12 13 1 1 70    column
+76    v 13 16 0 1 70    column
+13 0
+[[ 0.  1.  0.]]
+76    83    S
+[None]
+83    h 13 14 1 1 76    column
+83    v 14 16 0 1 76    column
+14 0
+[[ 0.  1.  0.]]
+83    89    S
+[None]
+89    h 14 15 1 1 83    column
+89    v 15 16 0 1 83    column
+15 0
+[[ 0.  1.  0.]]
+89    96    S
+[None]
+96    h 15 16 1 1 89    column
+96    v 16 16 0 1 89    column
+      h 0 1 1 9 None row
+0     v 1 1 1 2       row
+0     h 0 1 2 9       row
+[[ 0.  1.  0.]]
+0     1     S
+[None]
+1     v 1 1 2 3 0     row
+1     h 0 1 3 9 0     row
+[[ 0.  1.  0.]]
+1     2     S
+[None]
+2     v 1 1 3 4 1     row
+2     h 0 1 4 9 1     row
+[[ 0.  1.  0.]]
+2     3     S
+[None]
+3     v 1 1 4 5 2     row
+3     h 0 1 5 9 2     row
+[[ 0.  1.  0.]]
+3     4     S
+[None]
+4     v 1 1 5 6 3     row
+4     h 0 1 6 9 3     row
+[[ 0.  1.  0.]]
+4     5     S
+[None]
+5     v 1 1 6 7 4     row
+5     h 0 1 7 9 4     row
+[[ 0.  1.  0.]]
+5     6     S
+[None]
+6     v 1 1 7 8 5     row
+6     h 0 1 8 9 5     row
+[[ 0.  1.  0.]]
+6     7     S
+[None]
+7     v 1 1 8 9 6     row
+7     h 0 1 9 9 6     row
+2015-06-24 16:08:57,604 Parsing ../data/eu/eu-006-str.xml
+2015-06-24 16:08:57,667 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-006_function.txt
+2015-06-24 16:08:57,668 Parsing ../data/eu/eu-006-str.xml
+2015-06-24 16:08:57,688 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-006_function.txt
+2015-06-24 16:08:57,689 READING STRUCTURAL TAGGING FROM../data/eu_structure/eu-006_structure.txt
+{'_Cell__cellID': 0,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': 'Names',
+ '_Cell__function': 'S',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 1,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 113,
+ '_Cell__x2': 145,
+ '_Cell__y1': 739,
+ '_Cell__y2': 750}
+0     v 1 16 0 1 None column
+1 0
+[[ 1.  0.  0.]]
+0     3     L
+3     h 1 2 1 1 0     column
+3     v 2 16 0 1 0     column
+2 0
+[[ 0.  1.  0.]]
+3     6     S
+[0    ]
+6     h 2 3 1 1 3     column
+6     v 3 16 0 1 3     column
+3 0
+[[ 0.  1.  0.]]
+6     9     S
+[0    ]
+9     h 3 4 1 1 6     column
+9     v 4 16 0 1 6     column
+4 0
+[[ 0.  1.  0.]]
+9     12    S
+[0    ]
+12    h 4 5 1 1 9     column
+12    v 5 16 0 1 9     column
+5 0
+[[ 0.  1.  0.]]
+12    15    S
+[0    ]
+15    h 5 6 1 1 12    column
+15    v 6 16 0 1 12    column
+6 0
+[[ 0.  1.  0.]]
+15    18    S
+[0    ]
+18    h 6 7 1 1 15    column
+18    v 7 16 0 1 15    column
+7 0
+[[ 0.  1.  0.]]
+18    21    S
+[0    ]
+21    h 7 8 1 1 18    column
+21    v 8 16 0 1 18    column
+8 0
+[[ 0.  1.  0.]]
+21    24    S
+[0    ]
+24    h 8 9 1 1 21    column
+24    v 9 16 0 1 21    column
+9 0
+[[ 0.  1.  0.]]
+24    27    S
+[0    ]
+27    h 9 10 1 1 24    column
+27    v 10 16 0 1 24    column
+10 0
+[[ 0.  1.  0.]]
+27    30    S
+[0    ]
+30    h 10 11 1 1 27    column
+30    v 11 16 0 1 27    column
+11 0
+[[ 0.  1.  0.]]
+30    33    S
+[0    ]
+33    h 11 12 1 1 30    column
+33    v 12 16 0 1 30    column
+12 0
+[[ 0.  1.  0.]]
+33    36    S
+[0    ]
+36    h 12 13 1 1 33    column
+36    v 13 16 0 1 33    column
+13 0
+[[ 0.  1.  0.]]
+36    39    S
+[0    ]
+39    h 13 14 1 1 36    column
+39    v 14 16 0 1 36    column
+14 0
+[[ 0.  1.  0.]]
+39    42    S
+[0    ]
+42    h 14 15 1 1 39    column
+42    v 15 16 0 1 39    column
+15 0
+[[ 0.  1.  0.]]
+42    45    S
+[0    ]
+45    h 15 16 1 1 42    column
+45    v 16 16 0 1 42    column
+0     h 0 1 1 3 None row
+[[ 0.  0.  1.]]
+0     1     U
+1     v 1 1 1 2 0     row
+1     h 0 1 2 3 0     row
+[[ 0.  1.  0.]]
+1     2     S
+[None]
+2     v 1 1 2 3 1     row
+2     h 0 1 3 3 1     row
+{'_Cell__cellID': -1,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': '',
+ '_Cell__function': 'E',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 1,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 0,
+ '_Cell__x2': 0,
+ '_Cell__y1': 0,
+ '_Cell__y2': 0}
+      v 1 4 0 1 None column
+1 0
+4     h 1 2 1 1       column
+4     v 2 4 0 1       column
+2 0
+[[ 0.  1.  0.]]
+4     9     S
+[None]
+9     h 2 3 1 1 4     column
+9     v 3 4 0 1 4     column
+3 0
+[[ 0.  1.  0.]]
+9     14    S
+[None]
+14    h 3 4 1 1 9     column
+14    v 4 4 0 1 9     column
+      h 0 1 1 5 None row
+0     v 1 1 1 2       row
+0     h 0 1 2 5       row
+[[ 0.  1.  0.]]
+0     1     S
+[None]
+1     v 1 1 2 3 0     row
+1     h 0 1 3 5 0     row
+[[ 0.  1.  0.]]
+1     2     S
+[None]
+2     v 1 1 3 4 1     row
+2     h 0 1 4 5 1     row
+[[ 0.  1.  0.]]
+2     3     S
+[None]
+3     v 1 1 4 5 2     row
+3     h 0 1 5 5 2     row
+{'_Cell__cellID': 0,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': 'Retailer',
+ '_Cell__function': 'S',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 1,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 193,
+ '_Cell__x2': 231,
+ '_Cell__y1': 700,
+ '_Cell__y2': 711}
+0     v 1 7 0 1 None column
+1 0
+[[ 1.  0.  0.]]
+0     2     L
+2     h 1 2 1 1 0     column
+2     v 2 7 0 1 0     column
+2 0
+[[ 0.  1.  0.]]
+2     4     S
+[0    ]
+4     h 2 3 1 1 2     column
+4     v 3 7 0 1 2     column
+3 0
+[[ 0.  1.  0.]]
+4     6     S
+[0    ]
+6     h 3 4 1 1 4     column
+6     v 4 7 0 1 4     column
+4 0
+[[ 0.  1.  0.]]
+6     8     S
+[0    ]
+8     h 4 5 1 1 6     column
+8     v 5 7 0 1 6     column
+5 0
+[[ 0.  1.  0.]]
+8     10    S
+[0    ]
+10    h 5 6 1 1 8     column
+10    v 6 7 0 1 8     column
+6 0
+[[ 0.  1.  0.]]
+10    12    S
+[0    ]
+12    h 6 7 1 1 10    column
+12    v 7 7 0 1 10    column
+0     h 0 1 1 2 None row
+[[ 0.  0.  1.]]
+0     1     U
+1     v 1 1 1 2 0     row
+1     h 0 1 2 2 0     row
+{'_Cell__cellID': 0,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': 'Groups',
+ '_Cell__function': 'S',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 1,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 107,
+ '_Cell__x2': 142,
+ '_Cell__y1': 719,
+ '_Cell__y2': 730}
+0     v 1 7 0 1 None column
+1 0
+[[ 1.  0.  0.]]
+0     3     L
+3     h 1 2 1 1 0     column
+3     v 2 7 0 1 0     column
+2 0
+[[ 0.  1.  0.]]
+3     6     S
+[0    ]
+6     h 2 3 1 1 3     column
+6     v 3 7 0 1 3     column
+3 0
+[[ 0.  1.  0.]]
+6     9     S
+[0    ]
+9     h 3 4 1 1 6     column
+9     v 4 7 0 1 6     column
+4 0
+[[ 0.  1.  0.]]
+9     12    S
+[0    ]
+12    h 4 5 1 1 9     column
+12    v 5 7 0 1 9     column
+5 0
+[[ 0.  1.  0.]]
+12    15    S
+[0    ]
+15    h 5 6 1 1 12    column
+15    v 6 7 0 1 12    column
+6 0
+[[ 0.  1.  0.]]
+15    18    S
+[0    ]
+18    h 6 7 1 1 15    column
+18    v 7 7 0 1 15    column
+0     h 0 1 1 3 None row
+[[ 0.  0.  1.]]
+0     1     U
+1     v 1 1 1 2 0     row
+1     h 0 1 2 3 0     row
+[[ 0.  1.  0.]]
+1     2     S
+[None]
+2     v 1 1 2 3 1     row
+2     h 0 1 3 3 1     row
+2015-06-24 16:08:57,737 Parsing ../data/eu/eu-007-str.xml
+2015-06-24 16:08:57,768 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-007_function.txt
+2015-06-24 16:08:57,769 Parsing ../data/eu/eu-007-str.xml
+2015-06-24 16:08:57,797 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-007_function.txt
+2015-06-24 16:08:57,797 READING STRUCTURAL TAGGING FROM../data/eu_structure/eu-007_structure.txt
+{'_Cell__cellID': -1,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': '',
+ '_Cell__function': 'E',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 1,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 0,
+ '_Cell__x2': 0,
+ '_Cell__y1': 0,
+ '_Cell__y2': 0}
+      v 1 5 0 1 None column
+1 0
+3     h 1 2 1 1       column
+3     v 2 5 0 1       column
+2 0
+[[ 0.  1.  0.]]
+3     7     S
+[None]
+7     h 2 3 1 1 3     column
+7     v 3 5 0 1 3     column
+3 0
+[[ 0.  1.  0.]]
+7     11    S
+[None]
+11    h 3 4 1 1 7     column
+11    v 4 5 0 1 7     column
+4 0
+[[ 0.  1.  0.]]
+11    14    S
+[None]
+14    h 4 5 1 1 11    column
+14    v 5 5 0 1 11    column
+      h 0 1 1 4 None row
+0     v 1 1 1 2       row
+0     h 0 1 2 4       row
+[[ 0.  1.  0.]]
+0     1     S
+[None]
+1     v 1 1 2 3 0     row
+1     h 0 1 3 4 0     row
+[[ 0.  1.  0.]]
+1     2     S
+[None]
+2     v 1 1 3 4 1     row
+2     h 0 1 4 4 1     row
+{'_Cell__cellID': 0,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': 'Years',
+ '_Cell__function': 'S',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 1,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 96,
+ '_Cell__x2': 123,
+ '_Cell__y1': 184,
+ '_Cell__y2': 195}
+0     v 1 2 0 1 None column
+1 0
+[[ 1.  0.  0.]]
+0     7     L
+7     h 1 2 1 1 0     column
+7     v 2 2 0 1 0     column
+0     h 0 1 1 7 None row
+[[ 0.  0.  1.]]
+0     1     U
+1     v 1 1 1 2 0     row
+1     h 0 1 2 7 0     row
+[[ 0.  1.  0.]]
+1     2     S
+[None]
+2     v 1 1 2 3 1     row
+2     h 0 1 3 7 1     row
+[[ 0.  1.  0.]]
+2     3     S
+[None]
+3     v 1 1 3 4 2     row
+3     h 0 1 4 7 2     row
+[[ 0.  1.  0.]]
+3     4     S
+[None]
+4     v 1 1 4 5 3     row
+4     h 0 1 5 7 3     row
+[[ 0.  1.  0.]]
+4     5     S
+[None]
+5     v 1 1 5 6 4     row
+5     h 0 1 6 7 4     row
+[[ 0.  1.  0.]]
+5     6     S
+[None]
+6     v 1 1 6 7 5     row
+6     h 0 1 7 7 5     row
+007 2 0 1 L S
+007 2 0 2 L S
+007 2 0 3 L S
+007 2 0 4 L S
+007 2 0 5 L S
+007 2 0 6 L S
+007 2 0 7 S L
+{'_Cell__cellID': 0,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': 'Product',
+ '_Cell__function': 'S',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 1,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 105,
+ '_Cell__x2': 139,
+ '_Cell__y1': 610,
+ '_Cell__y2': 621}
+0     v 1 2 0 1 None column
+1 0
+[[ 1.  0.  0.]]
+0     3     L
+3     h 1 2 1 1 0     column
+3     v 2 2 0 1 0     column
+0     h 0 1 1 3 None row
+[[ 0.  0.  1.]]
+0     1     U
+1     v 1 1 1 2 0     row
+1     h 0 1 2 3 0     row
+[[ 0.  1.  0.]]
+1     2     S
+[None]
+2     v 1 1 2 3 1     row
+2     h 0 1 3 3 1     row
+007 3 0 1 L S
+007 3 0 2 L S
+007 3 0 3 S L
+{'_Cell__cellID': 0,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': 'Brands',
+ '_Cell__function': 'S',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 1,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 92,
+ '_Cell__x2': 126,
+ '_Cell__y1': 350,
+ '_Cell__y2': 361}
+0     v 1 11 0 1 None column
+1 0
+[[ 1.  0.  0.]]
+0     3     L
+3     h 1 2 1 1 0     column
+3     v 2 11 0 1 0     column
+2 0
+[[ 0.  1.  0.]]
+3     6     S
+[0    ]
+6     h 2 3 1 1 3     column
+6     v 3 11 0 1 3     column
+3 0
+[[ 0.  1.  0.]]
+6     9     S
+[0    ]
+9     h 3 4 1 1 6     column
+9     v 4 11 0 1 6     column
+4 0
+[[ 0.  1.  0.]]
+9     12    S
+[0    ]
+12    h 4 5 1 1 9     column
+12    v 5 11 0 1 9     column
+5 0
+[[ 0.  1.  0.]]
+12    15    S
+[0    ]
+15    h 5 6 1 1 12    column
+15    v 6 11 0 1 12    column
+6 0
+[[ 0.  1.  0.]]
+15    18    S
+[0    ]
+18    h 6 7 1 1 15    column
+18    v 7 11 0 1 15    column
+7 0
+[[ 0.  1.  0.]]
+18    21    S
+[0    ]
+21    h 7 8 1 1 18    column
+21    v 8 11 0 1 18    column
+8 0
+[[ 0.  1.  0.]]
+21    24    S
+[0    ]
+24    h 8 9 1 1 21    column
+24    v 9 11 0 1 21    column
+9 0
+[[ 0.  1.  0.]]
+24    27    S
+[0    ]
+27    h 9 10 1 1 24    column
+27    v 10 11 0 1 24    column
+10 0
+[[ 0.  1.  0.]]
+27    30    S
+[0    ]
+30    h 10 11 1 1 27    column
+30    v 11 11 0 1 27    column
+0     h 0 1 1 3 None row
+[[ 0.  0.  1.]]
+0     1     U
+1     v 1 1 1 2 0     row
+1     h 0 1 2 3 0     row
+[[ 0.  1.  0.]]
+1     2     S
+[None]
+2     v 1 1 2 3 1     row
+2     h 0 1 3 3 1     row
+{'_Cell__cellID': 0,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': 'Products',
+ '_Cell__function': 'S',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 1,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 180,
+ '_Cell__x2': 219,
+ '_Cell__y1': 739,
+ '_Cell__y2': 750}
+0     v 1 2 0 1 None column
+1 0
+[[ 1.  0.  0.]]
+0     4     L
+4     h 1 2 1 1 0     column
+4     v 2 2 0 1 0     column
+0     h 0 1 1 4 None row
+[[ 0.  0.  1.]]
+0     1     U
+1     v 1 1 1 2 0     row
+1     h 0 1 2 4 0     row
+[[ 0.  1.  0.]]
+1     2     S
+[None]
+2     v 1 1 2 3 1     row
+2     h 0 1 3 4 1     row
+[[ 0.  1.  0.]]
+2     3     S
+[None]
+3     v 1 1 3 4 2     row
+3     h 0 1 4 4 2     row
+007 5 0 1 L S
+007 5 0 2 L S
+007 5 0 3 L S
+007 5 0 4 S L
+{'_Cell__cellID': 0,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': 'Groups',
+ '_Cell__function': 'S',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 1,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 94,
+ '_Cell__x2': 129,
+ '_Cell__y1': 434,
+ '_Cell__y2': 445}
+0     v 1 9 0 1 None column
+1 0
+[[ 1.  0.  0.]]
+0     4     L
+4     h 1 2 1 1 0     column
+4     v 2 9 0 1 0     column
+2 0
+[[ 0.  1.  0.]]
+4     8     S
+[0    ]
+8     h 2 3 1 1 4     column
+8     v 3 9 0 1 4     column
+3 0
+[[ 0.  1.  0.]]
+8     12    S
+[0    ]
+12    h 3 4 1 1 8     column
+12    v 4 9 0 1 8     column
+4 0
+[[ 0.  1.  0.]]
+12    14    S
+[0    ]
+14    h 4 5 1 1 12    column
+14    v 5 9 0 1 12    column
+5 0
+[[ 0.  1.  0.]]
+14    16    S
+[0    ]
+16    h 5 6 1 1 14    column
+16    v 6 9 0 1 14    column
+6 0
+[[ 0.  1.  0.]]
+16    18    S
+[0    ]
+18    h 6 7 1 1 16    column
+18    v 7 9 0 1 16    column
+7 0
+[[ 0.  1.  0.]]
+18    22    S
+[0    ]
+22    h 7 8 1 1 18    column
+22    v 8 9 0 1 18    column
+8 0
+[[ 0.  1.  0.]]
+22    26    S
+[0    ]
+26    h 8 9 1 1 22    column
+26    v 9 9 0 1 22    column
+0     h 0 1 1 4 None row
+[[ 0.  0.  1.]]
+0     1     U
+1     v 1 1 1 2 0     row
+1     h 0 1 2 4 0     row
+[[ 0.  1.  0.]]
+1     2     S
+[None]
+2     v 1 1 2 3 1     row
+2     h 0 1 3 4 1     row
+[[ 0.  1.  0.]]
+2     3     S
+[None]
+3     v 1 1 3 4 2     row
+3     h 0 1 4 4 2     row
+2015-06-24 16:08:57,852 Parsing ../data/eu/eu-008-str.xml
+2015-06-24 16:08:57,862 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-008_function.txt
+2015-06-24 16:08:57,863 Parsing ../data/eu/eu-008-str.xml
+2015-06-24 16:08:57,872 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-008_function.txt
+2015-06-24 16:08:57,872 READING STRUCTURAL TAGGING FROM../data/eu_structure/eu-008_structure.txt
+{'_Cell__cellID': 0,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': 'Country/Heading',
+ '_Cell__function': 'S',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 1,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 106,
+ '_Cell__x2': 170,
+ '_Cell__y1': 287,
+ '_Cell__y2': 294}
+0     v 1 15 0 1 None column
+1 0
+[[ 1.  0.  0.]]
+0     4     L
+4     h 1 2 1 1 0     column
+4     v 2 15 0 1 0     column
+2 0
+[[ 0.  1.  0.]]
+4     8     S
+[0    ]
+8     h 2 3 1 1 4     column
+8     v 3 15 0 1 4     column
+3 0
+[[ 0.  1.  0.]]
+8     12    S
+[0    ]
+12    h 3 4 1 1 8     column
+12    v 4 15 0 1 8     column
+4 0
+[[ 0.  1.  0.]]
+12    16    S
+[0    ]
+16    h 4 5 1 1 12    column
+16    v 5 15 0 1 12    column
+5 0
+[[ 0.  1.  0.]]
+16    20    S
+[0    ]
+20    h 5 6 1 1 16    column
+20    v 6 15 0 1 16    column
+6 0
+[[ 0.  1.  0.]]
+20    24    S
+[0    ]
+24    h 6 7 1 1 20    column
+24    v 7 15 0 1 20    column
+7 0
+[[ 0.  1.  0.]]
+24    28    S
+[0    ]
+28    h 7 8 1 1 24    column
+28    v 8 15 0 1 24    column
+8 0
+[[ 0.  1.  0.]]
+28    32    S
+[0    ]
+32    h 8 9 1 1 28    column
+32    v 9 15 0 1 28    column
+9 0
+[[ 0.  1.  0.]]
+32    36    S
+[0    ]
+36    h 9 10 1 1 32    column
+36    v 10 15 0 1 32    column
+10 0
+[[ 0.  1.  0.]]
+36    40    S
+[0    ]
+40    h 10 11 1 1 36    column
+40    v 11 15 0 1 36    column
+11 0
+[[ 0.  1.  0.]]
+40    44    S
+[0    ]
+44    h 11 12 1 1 40    column
+44    v 12 15 0 1 40    column
+12 0
+[[ 0.     0.725  0.275]]
+44    48    S
+[0    ]
+48    h 12 13 1 1 44    column
+48    v 13 15 0 1 44    column
+13 0
+[[ 0.  1.  0.]]
+48    52    S
+[0    ]
+52    h 13 14 1 1 48    column
+52    v 14 15 0 1 48    column
+14 0
+[[ 0.  1.  0.]]
+52    54    S
+[0    ]
+54    h 14 15 1 1 52    column
+54    v 15 15 0 1 52    column
+0     h 0 1 1 4 None row
+[[ 0.  0.  1.]]
+0     1     U
+1     v 1 1 1 2 0     row
+1     h 0 1 2 4 0     row
+[[ 0.  1.  0.]]
+1     2     S
+[None]
+2     v 1 1 2 3 1     row
+2     h 0 1 3 4 1     row
+[[ 0.  1.  0.]]
+2     3     S
+[None]
+3     v 1 1 3 4 2     row
+3     h 0 1 4 4 2     row
+2015-06-24 16:08:57,898 Parsing ../data/eu/eu-010-str.xml
+2015-06-24 16:08:57,902 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-010_function.txt
+2015-06-24 16:08:57,902 Parsing ../data/eu/eu-010-str.xml
+2015-06-24 16:08:57,907 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-010_function.txt
+2015-06-24 16:08:57,907 READING STRUCTURAL TAGGING FROM../data/eu_structure/eu-010_structure.txt
+{'_Cell__cellID': 0,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': 'FEMIP Country',
+ '_Cell__function': 'S',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 1,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 216,
+ '_Cell__x2': 288,
+ '_Cell__y1': 649,
+ '_Cell__y2': 659}
+0     v 1 11 0 1 None column
+1 0
+[[ 1.  0.  0.]]
+0     2     L
+2     h 1 2 1 1 0     column
+2     v 2 11 0 1 0     column
+2 0
+[[ 0.  1.  0.]]
+2     4     S
+[0    ]
+4     h 2 3 1 1 2     column
+4     v 3 11 0 1 2     column
+3 0
+[[ 0.  1.  0.]]
+4     6     S
+[0    ]
+6     h 3 4 1 1 4     column
+6     v 4 11 0 1 4     column
+4 0
+[[ 0.  1.  0.]]
+6     8     S
+[0    ]
+8     h 4 5 1 1 6     column
+8     v 5 11 0 1 6     column
+5 0
+[[ 0.  1.  0.]]
+8     10    S
+[0    ]
+10    h 5 6 1 1 8     column
+10    v 6 11 0 1 8     column
+6 0
+[[ 0.  1.  0.]]
+10    12    S
+[0    ]
+12    h 6 7 1 1 10    column
+12    v 7 11 0 1 10    column
+7 0
+[[ 0.  1.  0.]]
+12    14    S
+[0    ]
+14    h 7 8 1 1 12    column
+14    v 8 11 0 1 12    column
+8 0
+[[ 0.  1.  0.]]
+14    16    S
+[0    ]
+16    h 8 9 1 1 14    column
+16    v 9 11 0 1 14    column
+9 0
+[[ 0.  1.  0.]]
+16    18    S
+[0    ]
+18    h 9 10 1 1 16    column
+18    v 10 11 0 1 16    column
+10 0
+[[ 0.  1.  0.]]
+18    20    S
+[0    ]
+20    h 10 11 1 1 18    column
+20    v 11 11 0 1 18    column
+0     h 0 1 1 2 None row
+[[ 0.  0.  1.]]
+0     1     U
+1     v 1 1 1 2 0     row
+1     h 0 1 2 2 0     row
+2015-06-24 16:08:57,921 Parsing ../data/eu/eu-011-str.xml
+2015-06-24 16:08:57,929 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-011_function.txt
+2015-06-24 16:08:57,930 Parsing ../data/eu/eu-011-str.xml
+2015-06-24 16:08:57,935 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-011_function.txt
+2015-06-24 16:08:57,936 READING STRUCTURAL TAGGING FROM../data/eu_structure/eu-011_structure.txt
+{'_Cell__cellID': 0,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': 'Differences with respect to Germany',
+ '_Cell__function': 'S',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 1,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 73,
+ '_Cell__x2': 243,
+ '_Cell__y1': 536,
+ '_Cell__y2': 546}
+0     v 1 5 0 1 None column
+1 0
+[[ 1.  0.  0.]]
+0     6     L
+6     h 1 2 1 1 0     column
+6     v 2 5 0 1 0     column
+2 0
+[[ 0.  1.  0.]]
+6     12    S
+[0    ]
+12    h 2 3 1 1 6     column
+12    v 3 5 0 1 6     column
+3 0
+[[ 0.  1.  0.]]
+12    18    S
+[0    ]
+18    h 3 4 1 1 12    column
+18    v 4 5 0 1 12    column
+4 0
+[[ 0.  1.  0.]]
+18    24    S
+[0    ]
+24    h 4 5 1 1 18    column
+24    v 5 5 0 1 18    column
+0     h 0 1 1 6 None row
+[[ 0.  0.  1.]]
+0     1     U
+1     v 1 1 1 2 0     row
+1     h 0 1 2 6 0     row
+[[ 0.  1.  0.]]
+1     2     S
+[None]
+2     v 1 1 2 3 1     row
+2     h 0 1 3 6 1     row
+[[ 0.  1.  0.]]
+2     3     S
+[None]
+3     v 1 1 3 4 2     row
+3     h 0 1 4 6 2     row
+[[ 0.  1.  0.]]
+3     4     S
+[None]
+4     v 1 1 4 5 3     row
+4     h 0 1 5 6 3     row
+[[ 0.  1.  0.]]
+4     5     S
+[None]
+5     v 1 1 5 6 4     row
+5     h 0 1 6 6 4     row
+2015-06-24 16:08:57,948 Parsing ../data/eu/eu-012-str.xml
+2015-06-24 16:08:57,979 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-012_function.txt
+2015-06-24 16:08:57,980 Parsing ../data/eu/eu-012-str.xml
+2015-06-24 16:08:58,013 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-012_function.txt
+2015-06-24 16:08:58,014 READING STRUCTURAL TAGGING FROM../data/eu_structure/eu-012_structure.txt
+{'_Cell__cellID': -1,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': '',
+ '_Cell__function': 'E',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 1,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 0,
+ '_Cell__x2': 0,
+ '_Cell__y1': 0,
+ '_Cell__y2': 0}
+      v 1 5 0 1 None column
+1 0
+3     h 1 2 1 1       column
+3     v 2 5 0 1       column
+2 0
+[[ 0.  1.  0.]]
+3     7     S
+[None]
+7     h 2 3 1 1 3     column
+7     v 3 5 0 1 3     column
+3 0
+[[ 0.     0.725  0.275]]
+7     11    S
+[None]
+11    h 3 4 1 1 7     column
+11    v 4 5 0 1 7     column
+4 0
+[[ 0.  1.  0.]]
+11    15    S
+[None]
+15    h 4 5 1 1 11    column
+15    v 5 5 0 1 11    column
+      h 0 1 1 4 None row
+0     v 1 1 1 2       row
+0     h 0 1 2 4       row
+[[ 0.  1.  0.]]
+0     1     S
+[None]
+1     v 1 1 2 3 0     row
+1     h 0 1 3 4 0     row
+[[ 0.  1.  0.]]
+1     2     S
+[None]
+2     v 1 1 3 4 1     row
+2     h 0 1 4 4 1     row
+{'_Cell__cellID': -1,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 2,
+ '_Cell__content': '',
+ '_Cell__function': 'E',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 1,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 0,
+ '_Cell__x2': 0,
+ '_Cell__y1': 0,
+ '_Cell__y2': 0}
+      v 1 13 0 2 None column
+1 0
+3     h 1 4 1 2       column
+[[ 1.  0.  0.]]
+3     4     L
+4     v 2 4 1 2 3     column
+2 1
+[[ 0.     0.725  0.275]]
+4     8     S
+[3    ]
+8     h 2 3 2 2 4     column
+8     v 3 13 1 2 4     column
+3 1
+[[ 0.  0.  1.]]
+8     12    U
+[[ 1.  0.  0.]]
+12    h 3 4 2 2 8     column
+12    v 4 13 1 2 8     column
+4 1
+[[ 0.  1.  0.]]
+12    16    S
+[None]
+16    h 4 5 2 2 12    column
+16    v 5 13 1 2 12    column
+5 1
+[[ 0.     0.725  0.275]]
+16    21    S
+[None]
+21    h 5 6 2 2 16    column
+21    v 6 13 1 2 16    column
+6 1
+[[ 0.  0.  1.]]
+21    25    U
+25    h 6 7 2 2 21    column
+25    v 7 13 1 2 21    column
+7 1
+[[ 0.  1.  0.]]
+25    29    S
+[None]
+29    h 7 8 2 2 25    column
+29    v 8 13 1 2 25    column
+8 1
+[[ 0.     0.725  0.275]]
+29    34    S
+[None]
+34    h 8 9 2 2 29    column
+34    v 9 13 1 2 29    column
+9 1
+[[ 0.  0.  1.]]
+34    38    U
+38    h 9 10 2 2 34    column
+38    v 10 13 1 2 34    column
+10 1
+[[ 0.  1.  0.]]
+38    42    S
+[None]
+42    h 10 11 2 2 38    column
+42    v 11 13 1 2 38    column
+11 1
+[[ 0.     0.725  0.275]]
+42    47    S
+[None]
+47    h 11 12 2 2 42    column
+47    v 12 13 1 2 42    column
+12 1
+[[ 0.  0.  1.]]
+47    51    U
+51    h 12 13 2 2 47    column
+51    v 13 13 1 2 47    column
+4     h 1 2 2 2 3     column
+3     v 4 13 0 1       column
+4 0
+[[ 0.     0.725  0.275]]
+3     20    S
+[None]
+20    h 4 7 1 2 3     column
+20    v 7 13 0 1 3     column
+7 0
+[[ 0.  1.  0.]]
+20    33    S
+[None]
+33    h 7 10 1 2 20    column
+33    v 10 13 0 1 20    column
+10 0
+[[ 0.     0.725  0.275]]
+33    46    S
+[None]
+46    h 10 13 1 2 33    column
+46    v 13 13 0 1 33    column
+1 1
+      h 0 1 2 5 None row
+0     v 1 1 2 3       row
+0     h 0 1 3 5       row
+[[ 0.  1.  0.]]
+0     1     S
+[None]
+1     v 1 1 3 4 0     row
+1     h 0 1 4 5 0     row
+[[ 0.  1.  0.]]
+1     2     S
+[None]
+2     v 1 1 4 5 1     row
+2     h 0 1 5 5 1     row
+012 2 0 12 U S
+012 2 0 16 U S
+012 2 0 21 U S
+012 2 0 25 U S
+012 2 0 29 U S
+012 2 0 34 U S
+012 2 0 38 U S
+012 2 0 42 U S
+012 2 0 47 U S
+012 2 0 51 U S
+012 2 1 12 U S
+012 2 1 16 U S
+012 2 1 21 U S
+012 2 1 25 U S
+012 2 1 29 U S
+012 2 1 34 U S
+012 2 1 38 U S
+012 2 1 42 U S
+012 2 1 47 U S
+012 2 1 51 U S
+012 2 2 12 U S
+012 2 2 16 U S
+012 2 2 21 U S
+012 2 2 25 U S
+012 2 2 29 U S
+012 2 2 34 U S
+012 2 2 38 U S
+012 2 2 42 U S
+012 2 2 47 U S
+012 2 2 51 U S
+012 2 3 12 L S
+012 2 3 16 U S
+012 2 3 21 U S
+012 2 3 25 U S
+012 2 3 29 U S
+012 2 3 34 U S
+012 2 3 38 U S
+012 2 3 42 U S
+012 2 3 47 U S
+012 2 3 51 U S
+012 2 4 12 S U
+012 2 8 12 S U
+012 2 12 16 U S
+012 2 12 20 U S
+012 2 12 21 U S
+012 2 12 25 U S
+012 2 12 29 U S
+012 2 12 33 U S
+012 2 12 34 U S
+012 2 12 38 U S
+012 2 12 42 U S
+012 2 12 46 U S
+012 2 12 47 U S
+012 2 12 51 U S
+012 2 16 20 R S
+012 2 16 29 U S
+012 2 16 33 U S
+012 2 16 34 U S
+012 2 16 38 U S
+012 2 16 42 U S
+012 2 16 46 U S
+012 2 16 47 U S
+012 2 16 51 U S
+012 2 20 21 L S
+012 2 20 25 L S
+012 2 20 29 U S
+012 2 20 34 U S
+012 2 20 38 U S
+012 2 20 42 U S
+012 2 20 47 U S
+012 2 20 51 U S
+012 2 21 29 U S
+012 2 21 33 U S
+012 2 21 34 U S
+012 2 21 38 U S
+012 2 21 42 U S
+012 2 21 46 U S
+012 2 21 47 U S
+012 2 21 51 U S
+012 2 25 29 U S
+012 2 25 33 U S
+012 2 25 34 U S
+012 2 25 38 U S
+012 2 25 42 U S
+012 2 25 46 U S
+012 2 25 47 U S
+012 2 25 51 U S
+012 2 29 33 R S
+012 2 29 42 U S
+012 2 29 46 U S
+012 2 29 47 U S
+012 2 29 51 U S
+012 2 33 34 L S
+012 2 33 38 L S
+012 2 33 42 U S
+012 2 33 47 U S
+012 2 33 51 U S
+012 2 34 42 U S
+012 2 34 46 U S
+012 2 34 47 U S
+012 2 34 51 U S
+012 2 38 42 U S
+012 2 38 46 U S
+012 2 38 47 U S
+012 2 38 51 U S
+012 2 42 46 R S
+012 2 46 47 L S
+012 2 46 51 L S
+{'_Cell__cellID': -1,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': '',
+ '_Cell__function': 'E',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 2,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 0,
+ '_Cell__x2': 0,
+ '_Cell__y1': 0,
+ '_Cell__y2': 0}
+      v 2 5 0 1 None column
+2 0
+15    h 2 3 1 1       column
+15    v 3 5 0 1       column
+3 0
+[[ 0.  1.  0.]]
+15    28    S
+[None]
+28    h 3 4 1 1 15    column
+28    v 4 5 0 1 15    column
+4 0
+[[ 0.     0.725  0.275]]
+28    41    S
+[None]
+41    h 4 5 1 1 28    column
+41    v 5 5 0 1 28    column
+      h 0 2 1 13 None row
+0     v 1 2 1 5       row
+1 1
+[[ 0.  1.  0.]]
+0     3     S
+[None]
+3     h 1 2 2 13 0     row
+[[ 0.  1.  0.]]
+3     4     S
+[None]
+4     v 2 2 2 3 3     row
+4     h 1 2 3 13 3     row
+[[ 0.  1.  0.]]
+4     5     S
+[None]
+5     v 2 2 3 4 4     row
+5     h 1 2 4 13 4     row
+[[ 0.04918033  0.95081967  0.        ]]
+5     6     S
+[None]
+6     v 2 2 4 5 5     row
+6     h 1 2 5 13 5     row
+[[ 0.  0.  1.]]
+6     7     U
+7     v 2 2 5 6 6     row
+7     h 1 2 6 13 6     row
+[[ 0.  1.  0.]]
+7     8     S
+[None]
+8     v 2 2 6 7 7     row
+8     h 1 2 7 13 7     row
+[[ 0.  1.  0.]]
+8     9     S
+[None]
+9     v 2 2 7 8 8     row
+9     h 1 2 8 13 8     row
+[[ 0.04918033  0.95081967  0.        ]]
+9     10    S
+[None]
+10    v 2 2 8 9 9     row
+10    h 1 2 9 13 9     row
+[[ 0.  0.  1.]]
+10    11    U
+11    v 2 2 9 10 10    row
+11    h 1 2 10 13 10    row
+[[ 0.  1.  0.]]
+11    12    S
+[None]
+12    v 2 2 10 11 11    row
+12    h 1 2 11 13 11    row
+[[ 0.  1.  0.]]
+12    13    S
+[None]
+13    v 2 2 11 12 12    row
+13    h 1 2 12 13 12    row
+[[ 0.04918033  0.95081967  0.        ]]
+13    14    S
+[None]
+14    v 2 2 12 13 13    row
+14    h 1 2 13 13 13    row
+3     v 2 2 1 2 0     row
+1 2
+1 3
+1 4
+0     h 0 1 5 13       row
+[[ 0.  1.  0.]]
+0     1     S
+[None]
+1     v 1 2 5 9 0     row
+1 5
+1 6
+1 7
+1 8
+1     h 0 1 9 13 0     row
+[[ 0.  1.  0.]]
+1     2     S
+[None]
+2     v 1 2 9 13 1     row
+1 9
+1 10
+1 11
+1 12
+2     h 0 1 13 13 1     row
+012 3 0 3 L S
+012 3 0 4 L S
+012 3 0 5 L S
+012 3 0 6 L S
+012 3 0 7 U S
+012 3 0 8 U S
+012 3 0 9 U S
+012 3 0 10 U S
+012 3 0 11 U S
+012 3 0 12 U S
+012 3 0 13 U S
+012 3 0 14 U S
+012 3 1 3 U S
+012 3 1 4 U S
+012 3 1 5 U S
+012 3 1 6 U S
+012 3 1 7 L S
+012 3 1 8 L S
+012 3 1 9 L S
+012 3 1 10 L S
+012 3 1 11 U S
+012 3 1 12 U S
+012 3 1 13 U S
+012 3 1 14 U S
+012 3 2 3 U S
+012 3 2 4 U S
+012 3 2 5 U S
+012 3 2 6 U S
+012 3 2 7 U S
+012 3 2 8 U S
+012 3 2 9 U S
+012 3 2 10 U S
+012 3 2 11 L S
+012 3 2 12 L S
+012 3 2 13 L S
+012 3 2 14 L S
+012 3 3 7 U S
+012 3 3 8 U S
+012 3 3 9 U S
+012 3 3 10 U S
+012 3 3 11 U S
+012 3 3 12 U S
+012 3 3 13 U S
+012 3 3 14 U S
+012 3 3 15 U S
+012 3 3 28 U S
+012 3 3 41 U S
+012 3 4 7 U S
+012 3 4 8 U S
+012 3 4 9 U S
+012 3 4 10 U S
+012 3 4 11 U S
+012 3 4 12 U S
+012 3 4 13 U S
+012 3 4 14 U S
+012 3 4 15 U S
+012 3 4 28 U S
+012 3 4 41 U S
+012 3 5 7 U S
+012 3 5 8 U S
+012 3 5 9 U S
+012 3 5 10 U S
+012 3 5 11 U S
+012 3 5 12 U S
+012 3 5 13 U S
+012 3 5 14 U S
+012 3 5 15 U S
+012 3 5 28 U S
+012 3 5 41 U S
+012 3 6 7 U S
+012 3 6 8 U S
+012 3 6 9 U S
+012 3 6 10 U S
+012 3 6 11 U S
+012 3 6 12 U S
+012 3 6 13 U S
+012 3 6 14 U S
+012 3 6 15 U S
+012 3 6 28 U S
+012 3 6 41 U S
+012 3 7 11 U S
+012 3 7 12 U S
+012 3 7 13 U S
+012 3 7 14 U S
+012 3 7 15 U S
+012 3 7 28 U S
+012 3 7 41 U S
+012 3 8 11 U S
+012 3 8 12 U S
+012 3 8 13 U S
+012 3 8 14 U S
+012 3 8 15 U S
+012 3 8 28 U S
+012 3 8 41 U S
+012 3 9 11 U S
+012 3 9 12 U S
+012 3 9 13 U S
+012 3 9 14 U S
+012 3 9 15 U S
+012 3 9 28 U S
+012 3 9 41 U S
+012 3 10 11 U S
+012 3 10 12 U S
+012 3 10 13 U S
+012 3 10 14 U S
+012 3 10 15 U S
+012 3 10 28 U S
+012 3 10 41 U S
+012 3 11 15 U S
+012 3 11 28 U S
+012 3 11 41 U S
+012 3 12 15 U S
+012 3 12 28 U S
+012 3 12 41 U S
+012 3 13 15 U S
+012 3 13 28 U S
+012 3 13 41 U S
+012 3 14 15 U S
+012 3 14 28 U S
+012 3 14 41 U S
+{'_Cell__cellID': -1,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': '',
+ '_Cell__function': 'E',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 2,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 0,
+ '_Cell__x2': 0,
+ '_Cell__y1': 0,
+ '_Cell__y2': 0}
+      v 2 5 0 1 None column
+2 0
+12    h 2 3 1 1       column
+12    v 3 5 0 1       column
+3 0
+[[ 0.  1.  0.]]
+12    22    S
+[None]
+22    h 3 4 1 1 12    column
+22    v 4 5 0 1 12    column
+4 0
+[[ 0.     0.725  0.275]]
+22    32    S
+[None]
+32    h 4 5 1 1 22    column
+32    v 5 5 0 1 22    column
+      h 0 2 1 10 None row
+0     v 1 2 1 4       row
+1 1
+[[ 0.  1.  0.]]
+0     3     S
+[None]
+3     h 1 2 2 10 0     row
+[[ 0.  1.  0.]]
+3     4     S
+[None]
+4     v 2 2 2 3 3     row
+4     h 1 2 3 10 3     row
+[[ 0.  1.  0.]]
+4     5     S
+[None]
+5     v 2 2 3 4 4     row
+5     h 1 2 4 10 4     row
+[[ 0.  1.  0.]]
+5     6     S
+[None]
+6     v 2 2 4 5 5     row
+6     h 1 2 5 10 5     row
+[[ 0.  1.  0.]]
+6     7     S
+[None]
+7     v 2 2 5 6 6     row
+7     h 1 2 6 10 6     row
+[[ 0.  1.  0.]]
+7     8     S
+[None]
+8     v 2 2 6 7 7     row
+8     h 1 2 7 10 7     row
+[[ 0.  1.  0.]]
+8     9     S
+[None]
+9     v 2 2 7 8 8     row
+9     h 1 2 8 10 8     row
+[[ 0.  1.  0.]]
+9     10    S
+[None]
+10    v 2 2 8 9 9     row
+10    h 1 2 9 10 9     row
+[[ 0.  1.  0.]]
+10    11    S
+[None]
+11    v 2 2 9 10 10    row
+11    h 1 2 10 10 10    row
+3     v 2 2 1 2 0     row
+1 2
+1 3
+0     h 0 1 4 10       row
+[[ 0.  1.  0.]]
+0     1     S
+[None]
+1     v 1 2 4 7 0     row
+1 4
+1 5
+1 6
+1     h 0 1 7 10 0     row
+[[ 0.  1.  0.]]
+1     2     S
+[None]
+2     v 1 2 7 10 1     row
+1 7
+1 8
+1 9
+2     h 0 1 10 10 1     row
+012 4 0 3 L S
+012 4 0 4 L S
+012 4 0 5 L S
+012 4 0 6 U S
+012 4 0 7 U S
+012 4 0 8 U S
+012 4 0 9 U S
+012 4 0 10 U S
+012 4 0 11 U S
+012 4 1 3 U S
+012 4 1 4 U S
+012 4 1 5 U S
+012 4 1 6 L S
+012 4 1 7 L S
+012 4 1 8 L S
+012 4 1 9 U S
+012 4 1 10 U S
+012 4 1 11 U S
+012 4 2 3 U S
+012 4 2 4 U S
+012 4 2 5 U S
+012 4 2 6 U S
+012 4 2 7 U S
+012 4 2 8 U S
+012 4 2 9 L S
+012 4 2 10 L S
+012 4 2 11 L S
+012 4 3 6 U S
+012 4 3 7 U S
+012 4 3 8 U S
+012 4 3 9 U S
+012 4 3 10 U S
+012 4 3 11 U S
+012 4 3 12 U S
+012 4 3 22 U S
+012 4 3 32 U S
+012 4 4 6 U S
+012 4 4 7 U S
+012 4 4 8 U S
+012 4 4 9 U S
+012 4 4 10 U S
+012 4 4 11 U S
+012 4 4 12 U S
+012 4 4 22 U S
+012 4 4 32 U S
+012 4 5 6 U S
+012 4 5 7 U S
+012 4 5 8 U S
+012 4 5 9 U S
+012 4 5 10 U S
+012 4 5 11 U S
+012 4 5 12 U S
+012 4 5 22 U S
+012 4 5 32 U S
+012 4 6 9 U S
+012 4 6 10 U S
+012 4 6 11 U S
+012 4 6 12 U S
+012 4 6 22 U S
+012 4 6 32 U S
+012 4 7 9 U S
+012 4 7 10 U S
+012 4 7 11 U S
+012 4 7 12 U S
+012 4 7 22 U S
+012 4 7 32 U S
+012 4 8 9 U S
+012 4 8 10 U S
+012 4 8 11 U S
+012 4 8 12 U S
+012 4 8 22 U S
+012 4 8 32 U S
+012 4 9 12 U S
+012 4 9 22 U S
+012 4 9 32 U S
+012 4 10 12 U S
+012 4 10 22 U S
+012 4 10 32 U S
+012 4 11 12 U S
+012 4 11 22 U S
+012 4 11 32 U S
+{'_Cell__cellID': 0,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': 'Country',
+ '_Cell__function': 'S',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 1,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 76,
+ '_Cell__x2': 116,
+ '_Cell__y1': 344,
+ '_Cell__y2': 355}
+0     v 1 8 0 1 None column
+1 0
+[[ 1.  0.  0.]]
+0     4     L
+4     h 1 2 1 1 0     column
+4     v 2 8 0 1 0     column
+2 0
+[[ 0.  1.  0.]]
+4     8     S
+[0    ]
+8     h 2 3 1 1 4     column
+8     v 3 8 0 1 4     column
+3 0
+[[ 0.  1.  0.]]
+8     12    S
+[0    ]
+12    h 3 4 1 1 8     column
+12    v 4 8 0 1 8     column
+4 0
+[[ 0.  1.  0.]]
+12    16    S
+[0    ]
+16    h 4 5 1 1 12    column
+16    v 5 8 0 1 12    column
+5 0
+[[ 0.  1.  0.]]
+16    20    S
+[0    ]
+20    h 5 6 1 1 16    column
+20    v 6 8 0 1 16    column
+6 0
+[[ 0.  1.  0.]]
+20    24    S
+[0    ]
+24    h 6 7 1 1 20    column
+24    v 7 8 0 1 20    column
+7 0
+[[ 0.  1.  0.]]
+24    28    S
+[0    ]
+28    h 7 8 1 1 24    column
+28    v 8 8 0 1 24    column
+0     h 0 1 1 4 None row
+[[ 0.  0.  1.]]
+0     1     U
+1     v 1 1 1 2 0     row
+1     h 0 1 2 4 0     row
+[[ 0.  1.  0.]]
+1     2     S
+[None]
+2     v 1 1 2 3 1     row
+2     h 0 1 3 4 1     row
+[[ 0.  1.  0.]]
+2     3     S
+[None]
+3     v 1 1 3 4 2     row
+3     h 0 1 4 4 2     row
+2015-06-24 16:08:58,098 Parsing ../data/eu/eu-013-str.xml
+2015-06-24 16:08:58,111 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-013_function.txt
+2015-06-24 16:08:58,112 Parsing ../data/eu/eu-013-str.xml
+2015-06-24 16:08:58,124 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-013_function.txt
+2015-06-24 16:08:58,125 READING STRUCTURAL TAGGING FROM../data/eu_structure/eu-013_structure.txt
+{'_Cell__cellID': -1,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': '',
+ '_Cell__function': 'E',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 1,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 0,
+ '_Cell__x2': 0,
+ '_Cell__y1': 0,
+ '_Cell__y2': 0}
+      v 1 4 0 1 None column
+1 0
+3     h 1 2 1 1       column
+3     v 2 4 0 1       column
+2 0
+[[ 0.  1.  0.]]
+3     7     S
+[None]
+7     h 2 3 1 1 3     column
+7     v 3 4 0 1 3     column
+3 0
+[[ 0.  1.  0.]]
+7     11    S
+[None]
+11    h 3 4 1 1 7     column
+11    v 4 4 0 1 7     column
+      h 0 1 1 4 None row
+0     v 1 1 1 2       row
+0     h 0 1 2 4       row
+[[ 0.  1.  0.]]
+0     1     S
+[None]
+1     v 1 1 2 3 0     row
+1     h 0 1 3 4 0     row
+[[ 0.  1.  0.]]
+1     2     S
+[None]
+2     v 1 1 3 4 1     row
+2     h 0 1 4 4 1     row
+{'_Cell__cellID': -1,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': '',
+ '_Cell__function': 'E',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 1,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 0,
+ '_Cell__x2': 0,
+ '_Cell__y1': 0,
+ '_Cell__y2': 0}
+      v 1 10 0 1 None column
+1 0
+2     h 1 2 1 1       column
+2     v 2 10 0 1       column
+2 0
+[[ 0.  1.  0.]]
+2     5     S
+[None]
+5     h 2 3 1 1 2     column
+5     v 3 10 0 1 2     column
+3 0
+[[ 0.  1.  0.]]
+5     8     S
+[None]
+8     h 3 4 1 1 5     column
+8     v 4 10 0 1 5     column
+4 0
+[[ 0.  1.  0.]]
+8     11    S
+[None]
+11    h 4 5 1 1 8     column
+11    v 5 10 0 1 8     column
+5 0
+[[ 0.  1.  0.]]
+11    14    S
+[None]
+14    h 5 6 1 1 11    column
+14    v 6 10 0 1 11    column
+6 0
+[[ 0.  1.  0.]]
+14    17    S
+[None]
+17    h 6 7 1 1 14    column
+17    v 7 10 0 1 14    column
+7 0
+[[ 0.  1.  0.]]
+17    20    S
+[None]
+20    h 7 8 1 1 17    column
+20    v 8 10 0 1 17    column
+8 0
+[[ 0.  1.  0.]]
+20    23    S
+[None]
+23    h 8 9 1 1 20    column
+23    v 9 10 0 1 20    column
+9 0
+[[ 1.  0.  0.]]
+23    26    L
+26    h 9 10 1 1 23    column
+26    v 10 10 0 1 23    column
+      h 0 1 1 3 None row
+0     v 1 1 1 2       row
+0     h 0 1 2 3       row
+[[ 0.  1.  0.]]
+0     1     S
+[None]
+1     v 1 1 2 3 0     row
+1     h 0 1 3 3 0     row
+013 2 0 26 S U
+013 2 1 26 S U
+013 2 2 26 S U
+013 2 5 26 S U
+013 2 8 26 S U
+013 2 11 26 S U
+013 2 14 26 S U
+013 2 17 26 S U
+013 2 20 26 S U
+013 2 23 26 S L
+{'_Cell__cellID': -1,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': '',
+ '_Cell__function': 'E',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 1,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 0,
+ '_Cell__x2': 0,
+ '_Cell__y1': 0,
+ '_Cell__y2': 0}
+      v 1 2 0 1 None column
+1 0
+5     h 1 2 1 1       column
+5     v 2 2 0 1       column
+      h 0 1 1 6 None row
+0     v 1 1 1 2       row
+0     h 0 1 2 6       row
+[[ 0.  1.  0.]]
+0     1     S
+[None]
+1     v 1 1 2 3 0     row
+1     h 0 1 3 6 0     row
+[[ 0.  1.  0.]]
+1     2     S
+[None]
+2     v 1 1 3 4 1     row
+2     h 0 1 4 6 1     row
+[[ 0.  1.  0.]]
+2     3     S
+[None]
+3     v 1 1 4 5 2     row
+3     h 0 1 5 6 2     row
+[[ 0.  1.  0.]]
+3     4     S
+[None]
+4     v 1 1 5 6 3     row
+4     h 0 1 6 6 3     row
+{'_Cell__cellID': 0,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': 'Roles and tasks',
+ '_Cell__function': 'S',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 1,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 71,
+ '_Cell__x2': 144,
+ '_Cell__y1': 418,
+ '_Cell__y2': 429}
+0     v 1 6 0 1 None column
+1 0
+[[ 1.  0.  0.]]
+0     3     L
+3     h 1 2 1 1 0     column
+3     v 2 6 0 1 0     column
+2 0
+[[ 0.  1.  0.]]
+3     5     S
+[0    ]
+5     h 2 3 1 1 3     column
+5     v 3 6 0 1 3     column
+3 0
+[[ 0.  1.  0.]]
+5     8     S
+[0    ]
+8     h 3 4 1 1 5     column
+8     v 4 6 0 1 5     column
+4 0
+[[ 0.  1.  0.]]
+8     10    S
+[0    ]
+10    h 4 5 1 1 8     column
+10    v 5 6 0 1 8     column
+5 0
+[[ 0.  1.  0.]]
+10    13    S
+[0    ]
+13    h 5 6 1 1 10    column
+13    v 6 6 0 1 10    column
+0     h 0 1 1 3 None row
+[[ 0.  0.  1.]]
+0     1     U
+1     v 1 1 1 2 0     row
+1     h 0 1 2 3 0     row
+[[ 0.  1.  0.]]
+1     2     S
+[None]
+2     v 1 1 2 3 1     row
+2     h 0 1 3 3 1     row
+2015-06-24 16:08:58,161 Parsing ../data/eu/eu-014-str.xml
+2015-06-24 16:08:58,165 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-014_function.txt
+2015-06-24 16:08:58,165 Parsing ../data/eu/eu-014-str.xml
+2015-06-24 16:08:58,168 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-014_function.txt
+2015-06-24 16:08:58,169 READING STRUCTURAL TAGGING FROM../data/eu_structure/eu-014_structure.txt
+{'_Cell__cellID': 0,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': 'Indicators',
+ '_Cell__function': 'S',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 1,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 184,
+ '_Cell__x2': 233,
+ '_Cell__y1': 288,
+ '_Cell__y2': 299}
+0     v 1 10 0 1 None column
+1 0
+[[ 1.  0.  0.]]
+0     2     L
+2     h 1 2 1 1 0     column
+2     v 2 10 0 1 0     column
+2 0
+[[ 1.  0.  0.]]
+2     3     L
+3     h 2 3 1 1 2     column
+3     v 3 10 0 1 2     column
+3 0
+[[ 0.  1.  0.]]
+3     5     S
+[2    ]
+5     h 3 4 1 1 3     column
+5     v 4 10 0 1 3     column
+4 0
+[[ 0.          0.02941176  0.97058824]]
+5     7     U
+[[ 0.  1.  0.]]
+7     h 4 5 1 1 5     column
+7     v 5 10 0 1 5     column
+5 0
+[[ 1.  0.  0.]]
+7     8     L
+8     h 5 6 1 1 7     column
+8     v 6 10 0 1 7     column
+6 0
+[[ 0.  1.  0.]]
+8     10    S
+[7    ]
+10    h 6 7 1 1 8     column
+10    v 7 10 0 1 8     column
+7 0
+[[ 0.  0.  1.]]
+10    12    U
+[[ 0.  1.  0.]]
+12    h 7 8 1 1 10    column
+12    v 8 10 0 1 10    column
+8 0
+[[ 1.  0.  0.]]
+12    13    L
+13    h 8 9 1 1 12    column
+13    v 9 10 0 1 12    column
+9 0
+[[ 0.  1.  0.]]
+13    15    S
+[12   ]
+15    h 9 10 1 1 13    column
+15    v 10 10 0 1 13    column
+0     h 0 1 1 2 None row
+[[ 0.  1.  0.]]
+0     1     S
+[None]
+1     v 1 1 1 2 0     row
+1     h 0 1 2 2 0     row
+2015-06-24 16:08:58,184 Parsing ../data/eu/eu-015-str.xml
+2015-06-24 16:08:58,260 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-015_function.txt
+2015-06-24 16:08:58,261 Parsing ../data/eu/eu-015-str.xml
+2015-06-24 16:08:58,295 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-015_function.txt
+2015-06-24 16:08:58,296 READING STRUCTURAL TAGGING FROM../data/eu_structure/eu-015_structure.txt
+{'_Cell__cellID': 0,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': 'Topic',
+ '_Cell__function': 'S',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 1,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 60,
+ '_Cell__x2': 82,
+ '_Cell__y1': 742,
+ '_Cell__y2': 752}
+0     v 1 12 0 1 None column
+1 0
+[[ 1.  0.  0.]]
+0     2     L
+2     h 1 2 1 1 0     column
+2     v 2 12 0 1 0     column
+2 0
+[[ 0.  1.  0.]]
+2     4     S
+[0    ]
+4     h 2 3 1 1 2     column
+4     v 3 12 0 1 2     column
+3 0
+[[ 0.  1.  0.]]
+4     6     S
+[0    ]
+6     h 3 4 1 1 4     column
+6     v 4 12 0 1 4     column
+4 0
+[[ 0.  1.  0.]]
+6     8     S
+[0    ]
+8     h 4 5 1 1 6     column
+8     v 5 12 0 1 6     column
+5 0
+[[ 0.  1.  0.]]
+8     10    S
+[0    ]
+10    h 5 6 1 1 8     column
+10    v 6 12 0 1 8     column
+6 0
+[[ 0.  1.  0.]]
+10    12    S
+[0    ]
+12    h 6 7 1 1 10    column
+12    v 7 12 0 1 10    column
+7 0
+[[ 0.  1.  0.]]
+12    14    S
+[0    ]
+14    h 7 8 1 1 12    column
+14    v 8 12 0 1 12    column
+8 0
+[[ 0.  1.  0.]]
+14    16    S
+[0    ]
+16    h 8 9 1 1 14    column
+16    v 9 12 0 1 14    column
+9 0
+[[ 0.  1.  0.]]
+16    18    S
+[0    ]
+18    h 9 10 1 1 16    column
+18    v 10 12 0 1 16    column
+10 0
+[[ 0.  1.  0.]]
+18    20    S
+[0    ]
+20    h 10 11 1 1 18    column
+20    v 11 12 0 1 18    column
+11 0
+[[ 0.  1.  0.]]
+20    22    S
+[0    ]
+22    h 11 12 1 1 20    column
+22    v 12 12 0 1 20    column
+0     h 0 1 1 2 None row
+[[ 0.  0.  1.]]
+0     1     U
+1     v 1 1 1 2 0     row
+1     h 0 1 2 2 0     row
+{'_Cell__cellID': 0,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': 'Topic',
+ '_Cell__function': 'S',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 1,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 60,
+ '_Cell__x2': 82,
+ '_Cell__y1': 511,
+ '_Cell__y2': 521}
+0     v 1 7 0 1 None column
+1 0
+[[ 1.  0.  0.]]
+0     2     L
+2     h 1 2 1 1 0     column
+2     v 2 7 0 1 0     column
+2 0
+[[ 0.  1.  0.]]
+2     4     S
+[0    ]
+4     h 2 3 1 1 2     column
+4     v 3 7 0 1 2     column
+3 0
+[[ 0.  1.  0.]]
+4     6     S
+[0    ]
+6     h 3 4 1 1 4     column
+6     v 4 7 0 1 4     column
+4 0
+[[ 0.  1.  0.]]
+6     8     S
+[0    ]
+8     h 4 5 1 1 6     column
+8     v 5 7 0 1 6     column
+5 0
+[[ 0.  1.  0.]]
+8     10    S
+[0    ]
+10    h 5 6 1 1 8     column
+10    v 6 7 0 1 8     column
+6 0
+[[ 0.  1.  0.]]
+10    12    S
+[0    ]
+12    h 6 7 1 1 10    column
+12    v 7 7 0 1 10    column
+0     h 0 1 1 2 None row
+[[ 0.  0.  1.]]
+0     1     U
+1     v 1 1 1 2 0     row
+1     h 0 1 2 2 0     row
+{'_Cell__cellID': 0,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': 'Airpassengersrights',
+ '_Cell__function': 'S',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 1,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 58,
+ '_Cell__x2': 123,
+ '_Cell__y1': 745,
+ '_Cell__y2': 752}
+0     v 1 32 0 1 None column
+1 0
+[[ 1.  0.  0.]]
+0     2     L
+2     h 1 2 1 1 0     column
+2     v 2 32 0 1 0     column
+2 0
+[[ 0.  1.  0.]]
+2     4     S
+[0    ]
+4     h 2 3 1 1 2     column
+4     v 3 32 0 1 2     column
+3 0
+[[ 0.  1.  0.]]
+4     6     S
+[0    ]
+6     h 3 4 1 1 4     column
+6     v 4 32 0 1 4     column
+4 0
+[[ 0.  1.  0.]]
+6     8     S
+[0    ]
+8     h 4 5 1 1 6     column
+8     v 5 32 0 1 6     column
+5 0
+[[ 0.  1.  0.]]
+8     10    S
+[0    ]
+10    h 5 6 1 1 8     column
+10    v 6 32 0 1 8     column
+6 0
+[[ 0.  1.  0.]]
+10    12    S
+[0    ]
+12    h 6 7 1 1 10    column
+12    v 7 32 0 1 10    column
+7 0
+[[ 0.  1.  0.]]
+12    14    S
+[0    ]
+14    h 7 8 1 1 12    column
+14    v 8 32 0 1 12    column
+8 0
+[[ 0.  1.  0.]]
+14    16    S
+[0    ]
+16    h 8 9 1 1 14    column
+16    v 9 32 0 1 14    column
+9 0
+[[ 0.  1.  0.]]
+16    18    S
+[0    ]
+18    h 9 10 1 1 16    column
+18    v 10 32 0 1 16    column
+10 0
+[[ 0.  1.  0.]]
+18    20    S
+[0    ]
+20    h 10 11 1 1 18    column
+20    v 11 32 0 1 18    column
+11 0
+[[ 0.  1.  0.]]
+20    22    S
+[0    ]
+22    h 11 12 1 1 20    column
+22    v 12 32 0 1 20    column
+12 0
+[[ 0.  1.  0.]]
+22    24    S
+[0    ]
+24    h 12 13 1 1 22    column
+24    v 13 32 0 1 22    column
+13 0
+[[ 0.  1.  0.]]
+24    26    S
+[0    ]
+26    h 13 14 1 1 24    column
+26    v 14 32 0 1 24    column
+14 0
+[[ 0.  1.  0.]]
+26    28    S
+[0    ]
+28    h 14 15 1 1 26    column
+28    v 15 32 0 1 26    column
+15 0
+[[ 0.  1.  0.]]
+28    30    S
+[0    ]
+30    h 15 16 1 1 28    column
+30    v 16 32 0 1 28    column
+16 0
+[[ 0.  1.  0.]]
+30    32    S
+[0    ]
+32    h 16 17 1 1 30    column
+32    v 17 32 0 1 30    column
+17 0
+[[ 0.  1.  0.]]
+32    34    S
+[0    ]
+34    h 17 18 1 1 32    column
+34    v 18 32 0 1 32    column
+18 0
+[[ 0.  1.  0.]]
+34    36    S
+[0    ]
+36    h 18 19 1 1 34    column
+36    v 19 32 0 1 34    column
+19 0
+[[ 0.  1.  0.]]
+36    38    S
+[0    ]
+38    h 19 20 1 1 36    column
+38    v 20 32 0 1 36    column
+20 0
+[[ 0.  1.  0.]]
+38    40    S
+[0    ]
+40    h 20 21 1 1 38    column
+40    v 21 32 0 1 38    column
+21 0
+[[ 0.  1.  0.]]
+40    42    S
+[0    ]
+42    h 21 22 1 1 40    column
+42    v 22 32 0 1 40    column
+22 0
+[[ 0.  1.  0.]]
+42    44    S
+[0    ]
+44    h 22 23 1 1 42    column
+44    v 23 32 0 1 42    column
+23 0
+[[ 0.  1.  0.]]
+44    46    S
+[0    ]
+46    h 23 24 1 1 44    column
+46    v 24 32 0 1 44    column
+24 0
+[[ 0.  1.  0.]]
+46    48    S
+[0    ]
+48    h 24 25 1 1 46    column
+48    v 25 32 0 1 46    column
+25 0
+[[ 0.  1.  0.]]
+48    50    S
+[0    ]
+50    h 25 26 1 1 48    column
+50    v 26 32 0 1 48    column
+26 0
+[[ 0.  1.  0.]]
+50    52    S
+[0    ]
+52    h 26 27 1 1 50    column
+52    v 27 32 0 1 50    column
+27 0
+[[ 0.     0.725  0.275]]
+52    54    S
+[0    ]
+54    h 27 28 1 1 52    column
+54    v 28 32 0 1 52    column
+28 0
+[[ 0.  1.  0.]]
+54    56    S
+[0    ]
+56    h 28 29 1 1 54    column
+56    v 29 32 0 1 54    column
+29 0
+[[ 0.  1.  0.]]
+56    58    S
+[0    ]
+58    h 29 30 1 1 56    column
+58    v 30 32 0 1 56    column
+30 0
+[[ 0.  1.  0.]]
+58    60    S
+[0    ]
+60    h 30 31 1 1 58    column
+60    v 31 32 0 1 58    column
+31 0
+[[ 0.  1.  0.]]
+60    62    S
+[0    ]
+62    h 31 32 1 1 60    column
+62    v 32 32 0 1 60    column
+0     h 0 1 1 2 None row
+[[ 0.  0.  1.]]
+0     1     U
+1     v 1 1 1 2 0     row
+1     h 0 1 2 2 0     row
+{'_Cell__cellID': 0,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': 'Freemovementof persons/workers',
+ '_Cell__function': 'S',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 1,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 184,
+ '_Cell__x2': 242,
+ '_Cell__y1': 745,
+ '_Cell__y2': 762}
+0     v 1 33 0 1 None column
+1 0
+[[ 1.  0.  0.]]
+0     2     L
+2     h 1 2 1 1 0     column
+2     v 2 33 0 1 0     column
+2 0
+[[ 0.  1.  0.]]
+2     4     S
+[0    ]
+4     h 2 3 1 1 2     column
+4     v 3 33 0 1 2     column
+3 0
+[[ 0.  1.  0.]]
+4     6     S
+[0    ]
+6     h 3 4 1 1 4     column
+6     v 4 33 0 1 4     column
+4 0
+[[ 0.  1.  0.]]
+6     8     S
+[0    ]
+8     h 4 5 1 1 6     column
+8     v 5 33 0 1 6     column
+5 0
+[[ 0.  1.  0.]]
+8     10    S
+[0    ]
+10    h 5 6 1 1 8     column
+10    v 6 33 0 1 8     column
+6 0
+[[ 0.  1.  0.]]
+10    12    S
+[0    ]
+12    h 6 7 1 1 10    column
+12    v 7 33 0 1 10    column
+7 0
+[[ 0.  1.  0.]]
+12    14    S
+[0    ]
+14    h 7 8 1 1 12    column
+14    v 8 33 0 1 12    column
+8 0
+[[ 0.  1.  0.]]
+14    16    S
+[0    ]
+16    h 8 9 1 1 14    column
+16    v 9 33 0 1 14    column
+9 0
+[[ 0.  1.  0.]]
+16    18    S
+[0    ]
+18    h 9 10 1 1 16    column
+18    v 10 33 0 1 16    column
+10 0
+[[ 0.  1.  0.]]
+18    20    S
+[0    ]
+20    h 10 11 1 1 18    column
+20    v 11 33 0 1 18    column
+11 0
+[[ 0.  1.  0.]]
+20    22    S
+[0    ]
+22    h 11 12 1 1 20    column
+22    v 12 33 0 1 20    column
+12 0
+[[ 0.  1.  0.]]
+22    24    S
+[0    ]
+24    h 12 13 1 1 22    column
+24    v 13 33 0 1 22    column
+13 0
+[[ 0.  1.  0.]]
+24    26    S
+[0    ]
+26    h 13 14 1 1 24    column
+26    v 14 33 0 1 24    column
+14 0
+[[ 0.  1.  0.]]
+26    28    S
+[0    ]
+28    h 14 15 1 1 26    column
+28    v 15 33 0 1 26    column
+15 0
+[[ 0.  1.  0.]]
+28    30    S
+[0    ]
+30    h 15 16 1 1 28    column
+30    v 16 33 0 1 28    column
+16 0
+[[ 0.  1.  0.]]
+30    32    S
+[0    ]
+32    h 16 17 1 1 30    column
+32    v 17 33 0 1 30    column
+17 0
+[[ 0.  1.  0.]]
+32    34    S
+[0    ]
+34    h 17 18 1 1 32    column
+34    v 18 33 0 1 32    column
+18 0
+[[ 0.  1.  0.]]
+34    36    S
+[0    ]
+36    h 18 19 1 1 34    column
+36    v 19 33 0 1 34    column
+19 0
+[[ 0.  1.  0.]]
+36    38    S
+[0    ]
+38    h 19 20 1 1 36    column
+38    v 20 33 0 1 36    column
+20 0
+[[ 0.  1.  0.]]
+38    40    S
+[0    ]
+40    h 20 21 1 1 38    column
+40    v 21 33 0 1 38    column
+21 0
+[[ 0.  1.  0.]]
+40    42    S
+[0    ]
+42    h 21 22 1 1 40    column
+42    v 22 33 0 1 40    column
+22 0
+[[ 0.  1.  0.]]
+42    44    S
+[0    ]
+44    h 22 23 1 1 42    column
+44    v 23 33 0 1 42    column
+23 0
+[[ 0.  1.  0.]]
+44    46    S
+[0    ]
+46    h 23 24 1 1 44    column
+46    v 24 33 0 1 44    column
+24 0
+[[ 0.  1.  0.]]
+46    48    S
+[0    ]
+48    h 24 25 1 1 46    column
+48    v 25 33 0 1 46    column
+25 0
+[[ 0.  1.  0.]]
+48    50    S
+[0    ]
+50    h 25 26 1 1 48    column
+50    v 26 33 0 1 48    column
+26 0
+[[ 0.  1.  0.]]
+50    52    S
+[0    ]
+52    h 26 27 1 1 50    column
+52    v 27 33 0 1 50    column
+27 0
+[[ 0.  1.  0.]]
+52    54    S
+[0    ]
+54    h 27 28 1 1 52    column
+54    v 28 33 0 1 52    column
+28 0
+[[ 0.  1.  0.]]
+54    56    S
+[0    ]
+56    h 28 29 1 1 54    column
+56    v 29 33 0 1 54    column
+29 0
+[[ 0.  1.  0.]]
+56    58    S
+[0    ]
+58    h 29 30 1 1 56    column
+58    v 30 33 0 1 56    column
+30 0
+[[ 0.  1.  0.]]
+58    60    S
+[0    ]
+60    h 30 31 1 1 58    column
+60    v 31 33 0 1 58    column
+31 0
+[[ 0.  1.  0.]]
+60    62    S
+[0    ]
+62    h 31 32 1 1 60    column
+62    v 32 33 0 1 60    column
+32 0
+[[ 0.  1.  0.]]
+62    64    S
+[0    ]
+64    h 32 33 1 1 62    column
+64    v 33 33 0 1 62    column
+0     h 0 1 1 2 None row
+[[ 0.  0.  1.]]
+0     1     U
+1     v 1 1 1 2 0     row
+1     h 0 1 2 2 0     row
+{'_Cell__cellID': 0,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': 'Treatyreform/IGC/ LisbonTreaty',
+ '_Cell__function': 'S',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 1,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 316,
+ '_Cell__x2': 382,
+ '_Cell__y1': 745,
+ '_Cell__y2': 762}
+0     v 1 33 0 1 None column
+1 0
+[[ 1.  0.  0.]]
+0     2     L
+2     h 1 2 1 1 0     column
+2     v 2 33 0 1 0     column
+2 0
+[[ 0.  1.  0.]]
+2     4     S
+[0    ]
+4     h 2 3 1 1 2     column
+4     v 3 33 0 1 2     column
+3 0
+[[ 0.  1.  0.]]
+4     6     S
+[0    ]
+6     h 3 4 1 1 4     column
+6     v 4 33 0 1 4     column
+4 0
+[[ 0.  1.  0.]]
+6     8     S
+[0    ]
+8     h 4 5 1 1 6     column
+8     v 5 33 0 1 6     column
+5 0
+[[ 0.  1.  0.]]
+8     10    S
+[0    ]
+10    h 5 6 1 1 8     column
+10    v 6 33 0 1 8     column
+6 0
+[[ 0.  1.  0.]]
+10    12    S
+[0    ]
+12    h 6 7 1 1 10    column
+12    v 7 33 0 1 10    column
+7 0
+[[ 0.  1.  0.]]
+12    14    S
+[0    ]
+14    h 7 8 1 1 12    column
+14    v 8 33 0 1 12    column
+8 0
+[[ 0.  1.  0.]]
+14    16    S
+[0    ]
+16    h 8 9 1 1 14    column
+16    v 9 33 0 1 14    column
+9 0
+[[ 0.  1.  0.]]
+16    18    S
+[0    ]
+18    h 9 10 1 1 16    column
+18    v 10 33 0 1 16    column
+10 0
+[[ 0.  1.  0.]]
+18    20    S
+[0    ]
+20    h 10 11 1 1 18    column
+20    v 11 33 0 1 18    column
+11 0
+[[ 0.  1.  0.]]
+20    22    S
+[0    ]
+22    h 11 12 1 1 20    column
+22    v 12 33 0 1 20    column
+12 0
+[[ 0.  1.  0.]]
+22    24    S
+[0    ]
+24    h 12 13 1 1 22    column
+24    v 13 33 0 1 22    column
+13 0
+[[ 0.  1.  0.]]
+24    26    S
+[0    ]
+26    h 13 14 1 1 24    column
+26    v 14 33 0 1 24    column
+14 0
+[[ 0.  1.  0.]]
+26    28    S
+[0    ]
+28    h 14 15 1 1 26    column
+28    v 15 33 0 1 26    column
+15 0
+[[ 0.  1.  0.]]
+28    30    S
+[0    ]
+30    h 15 16 1 1 28    column
+30    v 16 33 0 1 28    column
+16 0
+[[ 0.  1.  0.]]
+30    32    S
+[0    ]
+32    h 16 17 1 1 30    column
+32    v 17 33 0 1 30    column
+17 0
+[[ 0.  1.  0.]]
+32    34    S
+[0    ]
+34    h 17 18 1 1 32    column
+34    v 18 33 0 1 32    column
+18 0
+[[ 0.  1.  0.]]
+34    36    S
+[0    ]
+36    h 18 19 1 1 34    column
+36    v 19 33 0 1 34    column
+19 0
+[[ 0.  1.  0.]]
+36    38    S
+[0    ]
+38    h 19 20 1 1 36    column
+38    v 20 33 0 1 36    column
+20 0
+[[ 0.  1.  0.]]
+38    40    S
+[0    ]
+40    h 20 21 1 1 38    column
+40    v 21 33 0 1 38    column
+21 0
+[[ 0.  1.  0.]]
+40    42    S
+[0    ]
+42    h 21 22 1 1 40    column
+42    v 22 33 0 1 40    column
+22 0
+[[ 0.  1.  0.]]
+42    44    S
+[0    ]
+44    h 22 23 1 1 42    column
+44    v 23 33 0 1 42    column
+23 0
+[[ 0.  1.  0.]]
+44    46    S
+[0    ]
+46    h 23 24 1 1 44    column
+46    v 24 33 0 1 44    column
+24 0
+[[ 0.  1.  0.]]
+46    48    S
+[0    ]
+48    h 24 25 1 1 46    column
+48    v 25 33 0 1 46    column
+25 0
+[[ 0.  1.  0.]]
+48    50    S
+[0    ]
+50    h 25 26 1 1 48    column
+50    v 26 33 0 1 48    column
+26 0
+[[ 0.  1.  0.]]
+50    52    S
+[0    ]
+52    h 26 27 1 1 50    column
+52    v 27 33 0 1 50    column
+27 0
+[[ 0.     0.725  0.275]]
+52    54    S
+[0    ]
+54    h 27 28 1 1 52    column
+54    v 28 33 0 1 52    column
+28 0
+[[ 0.  1.  0.]]
+54    56    S
+[0    ]
+56    h 28 29 1 1 54    column
+56    v 29 33 0 1 54    column
+29 0
+[[ 0.  1.  0.]]
+56    58    S
+[0    ]
+58    h 29 30 1 1 56    column
+58    v 30 33 0 1 56    column
+30 0
+[[ 0.  1.  0.]]
+58    60    S
+[0    ]
+60    h 30 31 1 1 58    column
+60    v 31 33 0 1 58    column
+31 0
+[[ 0.  1.  0.]]
+60    62    S
+[0    ]
+62    h 31 32 1 1 60    column
+62    v 32 33 0 1 60    column
+32 0
+[[ 0.  1.  0.]]
+62    64    S
+[0    ]
+64    h 32 33 1 1 62    column
+64    v 33 33 0 1 62    column
+0     h 0 1 1 2 None row
+[[ 0.  0.  1.]]
+0     1     U
+1     v 1 1 1 2 0     row
+1     h 0 1 2 2 0     row
+2015-06-24 16:08:58,485 Parsing ../data/eu/eu-016-str.xml
+2015-06-24 16:08:58,517 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-016_function.txt
+2015-06-24 16:08:58,517 Parsing ../data/eu/eu-016-str.xml
+2015-06-24 16:08:58,541 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-016_function.txt
+2015-06-24 16:08:58,542 READING STRUCTURAL TAGGING FROM../data/eu_structure/eu-016_structure.txt
+{'_Cell__cellID': 0,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': 'Country',
+ '_Cell__function': 'S',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 1,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 88,
+ '_Cell__x2': 117,
+ '_Cell__y1': 693,
+ '_Cell__y2': 701}
+0     v 1 31 0 1 None column
+1 0
+[[ 1.  0.  0.]]
+0     5     L
+5     h 1 2 1 1 0     column
+5     v 2 31 0 1 0     column
+2 0
+[[ 0.  1.  0.]]
+5     10    S
+[0    ]
+10    h 2 3 1 1 5     column
+10    v 3 31 0 1 5     column
+3 0
+[[ 0.  1.  0.]]
+10    15    S
+[0    ]
+15    h 3 4 1 1 10    column
+15    v 4 31 0 1 10    column
+4 0
+[[ 0.  1.  0.]]
+15    20    S
+[0    ]
+20    h 4 5 1 1 15    column
+20    v 5 31 0 1 15    column
+5 0
+[[ 0.  1.  0.]]
+20    25    S
+[0    ]
+25    h 5 6 1 1 20    column
+25    v 6 31 0 1 20    column
+6 0
+[[ 0.  1.  0.]]
+25    30    S
+[0    ]
+30    h 6 7 1 1 25    column
+30    v 7 31 0 1 25    column
+7 0
+[[ 0.  1.  0.]]
+30    35    S
+[0    ]
+35    h 7 8 1 1 30    column
+35    v 8 31 0 1 30    column
+8 0
+[[ 0.  1.  0.]]
+35    40    S
+[0    ]
+40    h 8 9 1 1 35    column
+40    v 9 31 0 1 35    column
+9 0
+[[ 0.  1.  0.]]
+40    45    S
+[0    ]
+45    h 9 10 1 1 40    column
+45    v 10 31 0 1 40    column
+10 0
+[[ 0.  1.  0.]]
+45    50    S
+[0    ]
+50    h 10 11 1 1 45    column
+50    v 11 31 0 1 45    column
+11 0
+[[ 0.  1.  0.]]
+50    55    S
+[0    ]
+55    h 11 12 1 1 50    column
+55    v 12 31 0 1 50    column
+12 0
+[[ 0.  1.  0.]]
+55    60    S
+[0    ]
+60    h 12 13 1 1 55    column
+60    v 13 31 0 1 55    column
+13 0
+[[ 0.  1.  0.]]
+60    65    S
+[0    ]
+65    h 13 14 1 1 60    column
+65    v 14 31 0 1 60    column
+14 0
+[[ 0.  1.  0.]]
+65    70    S
+[0    ]
+70    h 14 15 1 1 65    column
+70    v 15 31 0 1 65    column
+15 0
+[[ 0.  1.  0.]]
+70    75    S
+[0    ]
+75    h 15 16 1 1 70    column
+75    v 16 31 0 1 70    column
+16 0
+[[ 0.  1.  0.]]
+75    80    S
+[0    ]
+80    h 16 17 1 1 75    column
+80    v 17 31 0 1 75    column
+17 0
+[[ 0.  1.  0.]]
+80    85    S
+[0    ]
+85    h 17 18 1 1 80    column
+85    v 18 31 0 1 80    column
+18 0
+[[ 0.  1.  0.]]
+85    90    S
+[0    ]
+90    h 18 19 1 1 85    column
+90    v 19 31 0 1 85    column
+19 0
+[[ 0.  1.  0.]]
+90    95    S
+[0    ]
+95    h 19 20 1 1 90    column
+95    v 20 31 0 1 90    column
+20 0
+[[ 0.  1.  0.]]
+95    100   S
+[0    ]
+100   h 20 21 1 1 95    column
+100   v 21 31 0 1 95    column
+21 0
+[[ 0.  1.  0.]]
+100   105   S
+[0    ]
+105   h 21 22 1 1 100   column
+105   v 22 31 0 1 100   column
+22 0
+[[ 0.  1.  0.]]
+105   110   S
+[0    ]
+110   h 22 23 1 1 105   column
+110   v 23 31 0 1 105   column
+23 0
+[[ 0.     0.725  0.275]]
+110   115   S
+[0    ]
+115   h 23 24 1 1 110   column
+115   v 24 31 0 1 110   column
+24 0
+[[ 0.  1.  0.]]
+115   120   S
+[0    ]
+120   h 24 25 1 1 115   column
+120   v 25 31 0 1 115   column
+25 0
+[[ 0.  1.  0.]]
+120   125   S
+[0    ]
+125   h 25 26 1 1 120   column
+125   v 26 31 0 1 120   column
+26 0
+[[ 0.  1.  0.]]
+125   130   S
+[0    ]
+130   h 26 27 1 1 125   column
+130   v 27 31 0 1 125   column
+27 0
+[[ 0.  1.  0.]]
+130   135   S
+[0    ]
+135   h 27 28 1 1 130   column
+135   v 28 31 0 1 130   column
+28 0
+[[ 0.  1.  0.]]
+135   140   S
+[0    ]
+140   h 28 29 1 1 135   column
+140   v 29 31 0 1 135   column
+29 0
+[[ 0.  1.  0.]]
+140   145   S
+[0    ]
+145   h 29 30 1 1 140   column
+145   v 30 31 0 1 140   column
+30 0
+[[ 0.  1.  0.]]
+145   150   S
+[0    ]
+150   h 30 31 1 1 145   column
+150   v 31 31 0 1 145   column
+0     h 0 1 1 5 None row
+[[ 0.  0.  1.]]
+0     1     U
+1     v 1 1 1 2 0     row
+1     h 0 1 2 5 0     row
+[[ 0.  1.  0.]]
+1     2     S
+[None]
+2     v 1 1 2 3 1     row
+2     h 0 1 3 5 1     row
+[[ 0.  1.  0.]]
+2     3     S
+[None]
+3     v 1 1 3 4 2     row
+3     h 0 1 4 5 2     row
+[[ 0.  1.  0.]]
+3     4     S
+[None]
+4     v 1 1 4 5 3     row
+4     h 0 1 5 5 3     row
+2015-06-24 16:08:58,615 Parsing ../data/eu/eu-017-str.xml
+2015-06-24 16:08:58,639 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-017_function.txt
+2015-06-24 16:08:58,640 Parsing ../data/eu/eu-017-str.xml
+2015-06-24 16:08:58,662 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-017_function.txt
+2015-06-24 16:08:58,662 READING STRUCTURAL TAGGING FROM../data/eu_structure/eu-017_structure.txt
+{'_Cell__cellID': 0,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': 'Country',
+ '_Cell__function': 'S',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 1,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 88,
+ '_Cell__x2': 117,
+ '_Cell__y1': 693,
+ '_Cell__y2': 701}
+0     v 1 28 0 1 None column
+1 0
+[[ 1.  0.  0.]]
+0     5     L
+5     h 1 2 1 1 0     column
+5     v 2 28 0 1 0     column
+2 0
+[[ 0.  1.  0.]]
+5     10    S
+[0    ]
+10    h 2 3 1 1 5     column
+10    v 3 28 0 1 5     column
+3 0
+[[ 0.  1.  0.]]
+10    15    S
+[0    ]
+15    h 3 4 1 1 10    column
+15    v 4 28 0 1 10    column
+4 0
+[[ 0.  1.  0.]]
+15    20    S
+[0    ]
+20    h 4 5 1 1 15    column
+20    v 5 28 0 1 15    column
+5 0
+[[ 0.  1.  0.]]
+20    25    S
+[0    ]
+25    h 5 6 1 1 20    column
+25    v 6 28 0 1 20    column
+6 0
+[[ 0.  1.  0.]]
+25    30    S
+[0    ]
+30    h 6 7 1 1 25    column
+30    v 7 28 0 1 25    column
+7 0
+[[ 0.  1.  0.]]
+30    35    S
+[0    ]
+35    h 7 8 1 1 30    column
+35    v 8 28 0 1 30    column
+8 0
+[[ 0.  1.  0.]]
+35    40    S
+[0    ]
+40    h 8 9 1 1 35    column
+40    v 9 28 0 1 35    column
+9 0
+[[ 0.  1.  0.]]
+40    45    S
+[0    ]
+45    h 9 10 1 1 40    column
+45    v 10 28 0 1 40    column
+10 0
+[[ 0.  1.  0.]]
+45    50    S
+[0    ]
+50    h 10 11 1 1 45    column
+50    v 11 28 0 1 45    column
+11 0
+[[ 0.  1.  0.]]
+50    55    S
+[0    ]
+55    h 11 12 1 1 50    column
+55    v 12 28 0 1 50    column
+12 0
+[[ 0.  1.  0.]]
+55    60    S
+[0    ]
+60    h 12 13 1 1 55    column
+60    v 13 28 0 1 55    column
+13 0
+[[ 0.  1.  0.]]
+60    65    S
+[0    ]
+65    h 13 14 1 1 60    column
+65    v 14 28 0 1 60    column
+14 0
+[[ 0.  1.  0.]]
+65    70    S
+[0    ]
+70    h 14 15 1 1 65    column
+70    v 15 28 0 1 65    column
+15 0
+[[ 0.  1.  0.]]
+70    75    S
+[0    ]
+75    h 15 16 1 1 70    column
+75    v 16 28 0 1 70    column
+16 0
+[[ 0.  1.  0.]]
+75    80    S
+[0    ]
+80    h 16 17 1 1 75    column
+80    v 17 28 0 1 75    column
+17 0
+[[ 0.  1.  0.]]
+80    85    S
+[0    ]
+85    h 17 18 1 1 80    column
+85    v 18 28 0 1 80    column
+18 0
+[[ 0.  1.  0.]]
+85    90    S
+[0    ]
+90    h 18 19 1 1 85    column
+90    v 19 28 0 1 85    column
+19 0
+[[ 0.  1.  0.]]
+90    95    S
+[0    ]
+95    h 19 20 1 1 90    column
+95    v 20 28 0 1 90    column
+20 0
+[[ 0.     0.725  0.275]]
+95    100   S
+[0    ]
+100   h 20 21 1 1 95    column
+100   v 21 28 0 1 95    column
+21 0
+[[ 0.  1.  0.]]
+100   105   S
+[0    ]
+105   h 21 22 1 1 100   column
+105   v 22 28 0 1 100   column
+22 0
+[[ 0.  1.  0.]]
+105   110   S
+[0    ]
+110   h 22 23 1 1 105   column
+110   v 23 28 0 1 105   column
+23 0
+[[ 0.  1.  0.]]
+110   115   S
+[0    ]
+115   h 23 24 1 1 110   column
+115   v 24 28 0 1 110   column
+24 0
+[[ 0.  1.  0.]]
+115   120   S
+[0    ]
+120   h 24 25 1 1 115   column
+120   v 25 28 0 1 115   column
+25 0
+[[ 0.  1.  0.]]
+120   125   S
+[0    ]
+125   h 25 26 1 1 120   column
+125   v 26 28 0 1 120   column
+26 0
+[[ 0.  1.  0.]]
+125   130   S
+[0    ]
+130   h 26 27 1 1 125   column
+130   v 27 28 0 1 125   column
+27 0
+[[ 0.  1.  0.]]
+130   135   S
+[0    ]
+135   h 27 28 1 1 130   column
+135   v 28 28 0 1 130   column
+0     h 0 1 1 5 None row
+[[ 0.  0.  1.]]
+0     1     U
+1     v 1 1 1 2 0     row
+1     h 0 1 2 5 0     row
+[[ 0.  1.  0.]]
+1     2     S
+[None]
+2     v 1 1 2 3 1     row
+2     h 0 1 3 5 1     row
+[[ 0.  1.  0.]]
+2     3     S
+[None]
+3     v 1 1 3 4 2     row
+3     h 0 1 4 5 2     row
+[[ 0.  1.  0.]]
+3     4     S
+[None]
+4     v 1 1 4 5 3     row
+4     h 0 1 5 5 3     row
+2015-06-24 16:08:58,726 Parsing ../data/eu/eu-018-str.xml
+2015-06-24 16:08:58,759 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-018_function.txt
+2015-06-24 16:08:58,760 Parsing ../data/eu/eu-018-str.xml
+2015-06-24 16:08:58,792 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-018_function.txt
+2015-06-24 16:08:58,793 READING STRUCTURAL TAGGING FROM../data/eu_structure/eu-018_structure.txt
+{'_Cell__cellID': 0,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': 'Country',
+ '_Cell__function': 'S',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 2,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 96,
+ '_Cell__x2': 125,
+ '_Cell__y1': 693,
+ '_Cell__y2': 701}
+0     v 2 7 0 1 None column
+2 0
+[[ 1.  0.  0.]]
+0     18    L
+18    h 2 3 1 1 0     column
+18    v 3 7 0 1 0     column
+3 0
+[[ 0.  1.  0.]]
+18    31    S
+[0    ]
+31    h 3 4 1 1 18    column
+31    v 4 7 0 1 18    column
+4 0
+[[ 0.  1.  0.]]
+31    44    S
+[0    ]
+44    h 4 5 1 1 31    column
+44    v 5 7 0 1 31    column
+5 0
+[[ 0.  1.  0.]]
+44    57    S
+[0    ]
+57    h 5 6 1 1 44    column
+57    v 6 7 0 1 44    column
+6 0
+[[ 0.  1.  0.]]
+57    70    S
+[0    ]
+70    h 6 7 1 1 57    column
+70    v 7 7 0 1 57    column
+0     h 0 2 1 13 None row
+[[ 0.  0.  1.]]
+0     1     U
+1     v 2 2 1 2 0     row
+1     h 0 2 2 13 0     row
+[[ 0.  1.  0.]]
+1     2     S
+[None]
+2     v 2 2 2 3 1     row
+2     h 0 2 3 13 1     row
+[[ 0.  1.  0.]]
+2     3     S
+[None]
+3     v 1 2 3 5 2     row
+1 3
+[[ 1.  0.  0.]]
+3     8     L
+8     h 1 2 4 5 3     row
+[[ 0.04918033  0.95081967  0.        ]]
+8     9     S
+[3    ]
+9     v 2 2 4 5 8     row
+9     h 1 2 5 5 8     row
+8     v 2 2 3 4 3     row
+1 4
+3     h 0 1 5 13 2     row
+[[ 0.  1.  0.]]
+3     4     S
+[None]
+4     v 1 2 5 7 3     row
+1 5
+[[ 1.  0.  0.]]
+4     10    L
+10    h 1 2 6 7 4     row
+[[ 0.04918033  0.95081967  0.        ]]
+10    11    S
+[4    ]
+11    v 2 2 6 7 10    row
+11    h 1 2 7 7 10    row
+10    v 2 2 5 6 4     row
+1 6
+4     h 0 1 7 13 3     row
+[[ 0.  1.  0.]]
+4     5     S
+[None]
+5     v 1 2 7 9 4     row
+1 7
+[[ 1.  0.  0.]]
+5     12    L
+12    h 1 2 8 9 5     row
+[[ 0.04918033  0.95081967  0.        ]]
+12    13    S
+[5    ]
+13    v 2 2 8 9 12    row
+13    h 1 2 9 9 12    row
+12    v 2 2 7 8 5     row
+1 8
+5     h 0 1 9 13 4     row
+[[ 0.  1.  0.]]
+5     6     S
+[None]
+6     v 1 2 9 11 5     row
+1 9
+[[ 1.  0.  0.]]
+6     14    L
+14    h 1 2 10 11 6     row
+[[ 0.04918033  0.95081967  0.        ]]
+14    15    S
+[6    ]
+15    v 2 2 10 11 14    row
+15    h 1 2 11 11 14    row
+14    v 2 2 9 10 6     row
+1 10
+6     h 0 1 11 13 5     row
+[[ 0.  1.  0.]]
+6     7     S
+[None]
+7     v 1 2 11 13 6     row
+1 11
+[[ 1.  0.  0.]]
+7     16    L
+16    h 1 2 12 13 7     row
+[[ 0.04918033  0.95081967  0.        ]]
+16    17    S
+[7    ]
+17    v 2 2 12 13 16    row
+17    h 1 2 13 13 16    row
+16    v 2 2 11 12 7     row
+1 12
+7     h 0 1 13 13 6     row
+{'_Cell__cellID': 0,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': 'Country',
+ '_Cell__function': 'S',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 2,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 105,
+ '_Cell__x2': 134,
+ '_Cell__y1': 399,
+ '_Cell__y2': 407}
+0     v 2 10 0 1 None column
+2 0
+[[ 1.  0.  0.]]
+0     18    L
+18    h 2 3 1 1 0     column
+18    v 3 10 0 1 0     column
+3 0
+[[ 0.  1.  0.]]
+18    31    S
+[0    ]
+31    h 3 4 1 1 18    column
+31    v 4 10 0 1 18    column
+4 0
+[[ 0.  1.  0.]]
+31    44    S
+[0    ]
+44    h 4 5 1 1 31    column
+44    v 5 10 0 1 31    column
+5 0
+[[ 0.  1.  0.]]
+44    57    S
+[0    ]
+57    h 5 6 1 1 44    column
+57    v 6 10 0 1 44    column
+6 0
+[[ 0.  1.  0.]]
+57    70    S
+[0    ]
+70    h 6 7 1 1 57    column
+70    v 7 10 0 1 57    column
+7 0
+[[ 0.  1.  0.]]
+70    83    S
+[0    ]
+83    h 7 8 1 1 70    column
+83    v 8 10 0 1 70    column
+8 0
+[[ 0.  1.  0.]]
+83    96    S
+[0    ]
+96    h 8 9 1 1 83    column
+96    v 9 10 0 1 83    column
+9 0
+[[ 0.  1.  0.]]
+96    109   S
+[0    ]
+109   h 9 10 1 1 96    column
+109   v 10 10 0 1 96    column
+0     h 0 2 1 13 None row
+[[ 0.  0.  1.]]
+0     1     U
+1     v 2 2 1 2 0     row
+1     h 0 2 2 13 0     row
+[[ 0.  1.  0.]]
+1     2     S
+[None]
+2     v 2 2 2 3 1     row
+2     h 0 2 3 13 1     row
+[[ 0.  1.  0.]]
+2     3     S
+[None]
+3     v 1 2 3 5 2     row
+1 3
+[[ 1.  0.  0.]]
+3     8     L
+8     h 1 2 4 5 3     row
+[[ 0.04918033  0.95081967  0.        ]]
+8     9     S
+[3    ]
+9     v 2 2 4 5 8     row
+9     h 1 2 5 5 8     row
+8     v 2 2 3 4 3     row
+1 4
+3     h 0 1 5 13 2     row
+[[ 0.  1.  0.]]
+3     4     S
+[None]
+4     v 1 2 5 7 3     row
+1 5
+[[ 1.  0.  0.]]
+4     10    L
+10    h 1 2 6 7 4     row
+[[ 0.04918033  0.95081967  0.        ]]
+10    11    S
+[4    ]
+11    v 2 2 6 7 10    row
+11    h 1 2 7 7 10    row
+10    v 2 2 5 6 4     row
+1 6
+4     h 0 1 7 13 3     row
+[[ 0.  1.  0.]]
+4     5     S
+[None]
+5     v 1 2 7 9 4     row
+1 7
+[[ 1.  0.  0.]]
+5     12    L
+12    h 1 2 8 9 5     row
+[[ 0.04918033  0.95081967  0.        ]]
+12    13    S
+[5    ]
+13    v 2 2 8 9 12    row
+13    h 1 2 9 9 12    row
+12    v 2 2 7 8 5     row
+1 8
+5     h 0 1 9 13 4     row
+[[ 0.  1.  0.]]
+5     6     S
+[None]
+6     v 1 2 9 11 5     row
+1 9
+[[ 1.  0.  0.]]
+6     14    L
+14    h 1 2 10 11 6     row
+[[ 0.04918033  0.95081967  0.        ]]
+14    15    S
+[6    ]
+15    v 2 2 10 11 14    row
+15    h 1 2 11 11 14    row
+14    v 2 2 9 10 6     row
+1 10
+6     h 0 1 11 13 5     row
+[[ 0.  1.  0.]]
+6     7     S
+[None]
+7     v 1 2 11 13 6     row
+1 11
+[[ 1.  0.  0.]]
+7     16    L
+16    h 1 2 12 13 7     row
+[[ 0.04918033  0.95081967  0.        ]]
+16    17    S
+[7    ]
+17    v 2 2 12 13 16    row
+17    h 1 2 13 13 16    row
+16    v 2 2 11 12 7     row
+1 12
+7     h 0 1 13 13 6     row
+2015-06-24 16:08:58,878 Parsing ../data/eu/eu-020-str.xml
+2015-06-24 16:08:58,940 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-020_function.txt
+2015-06-24 16:08:58,942 Parsing ../data/eu/eu-020-str.xml
+2015-06-24 16:08:58,963 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-020_function.txt
+2015-06-24 16:08:58,963 READING STRUCTURAL TAGGING FROM../data/eu_structure/eu-020_structure.txt
+{'_Cell__cellID': 0,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': 'Faculty cluster',
+ '_Cell__function': 'S',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 1,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 72,
+ '_Cell__x2': 142,
+ '_Cell__y1': 426,
+ '_Cell__y2': 437}
+0     v 1 5 0 1 None column
+1 0
+[[ 1.  0.  0.]]
+0     3     L
+3     h 1 2 1 1 0     column
+3     v 2 5 0 1 0     column
+2 0
+[[ 0.  1.  0.]]
+3     6     S
+[0    ]
+6     h 2 3 1 1 3     column
+6     v 3 5 0 1 3     column
+3 0
+[[ 0.  1.  0.]]
+6     9     S
+[0    ]
+9     h 3 4 1 1 6     column
+9     v 4 5 0 1 6     column
+4 0
+[[ 0.  1.  0.]]
+9     12    S
+[0    ]
+12    h 4 5 1 1 9     column
+12    v 5 5 0 1 9     column
+0     h 0 1 1 3 None row
+[[ 0.  0.  1.]]
+0     1     U
+1     v 1 1 1 2 0     row
+1     h 0 1 2 3 0     row
+[[ 0.  1.  0.]]
+1     2     S
+[None]
+2     v 1 1 2 3 1     row
+2     h 0 1 3 3 1     row
+{'_Cell__cellID': 0,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': 'Facultycluster',
+ '_Cell__function': 'S',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 2,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 62,
+ '_Cell__x2': 126,
+ '_Cell__y1': 190,
+ '_Cell__y2': 199}
+0     v 2 7 0 1 None column
+2 0
+[[ 1.  0.  0.]]
+0     4     L
+4     h 2 3 1 1 0     column
+4     v 3 7 0 1 0     column
+3 0
+[[ 0.  1.  0.]]
+4     7     S
+[0    ]
+7     h 3 4 1 1 4     column
+7     v 4 7 0 1 4     column
+4 0
+[[ 0.  1.  0.]]
+7     10    S
+[0    ]
+10    h 4 5 1 1 7     column
+10    v 5 7 0 1 7     column
+5 0
+[[ 0.  1.  0.]]
+10    13    S
+[0    ]
+13    h 5 6 1 1 10    column
+13    v 6 7 0 1 10    column
+6 0
+[[ 0.  1.  0.]]
+13    16    S
+[0    ]
+16    h 6 7 1 1 13    column
+16    v 7 7 0 1 13    column
+0     h 0 2 1 3 None row
+[[ 0.  0.  1.]]
+0     1     U
+1     v 1 2 1 3 0     row
+1 1
+[[ 1.  0.  0.]]
+1     2     L
+2     h 1 2 2 3 1     row
+[[ 0.  1.  0.]]
+2     3     S
+[1    ]
+3     v 2 2 2 3 2     row
+3     h 1 2 3 3 2     row
+2     v 2 2 1 2 1     row
+1 2
+1     h 0 1 3 3 0     row
+{'_Cell__cellID': 0,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': 'Facultycluster',
+ '_Cell__function': 'S',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 2,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 62,
+ '_Cell__x2': 126,
+ '_Cell__y1': 482,
+ '_Cell__y2': 491}
+0     v 2 7 0 1 None column
+2 0
+[[ 1.  0.  0.]]
+0     4     L
+4     h 2 3 1 1 0     column
+4     v 3 7 0 1 0     column
+3 0
+[[ 0.  1.  0.]]
+4     7     S
+[0    ]
+7     h 3 4 1 1 4     column
+7     v 4 7 0 1 4     column
+4 0
+[[ 0.  1.  0.]]
+7     10    S
+[0    ]
+10    h 4 5 1 1 7     column
+10    v 5 7 0 1 7     column
+5 0
+[[ 0.  1.  0.]]
+10    13    S
+[0    ]
+13    h 5 6 1 1 10    column
+13    v 6 7 0 1 10    column
+6 0
+[[ 0.  1.  0.]]
+13    16    S
+[0    ]
+16    h 6 7 1 1 13    column
+16    v 7 7 0 1 13    column
+0     h 0 2 1 3 None row
+[[ 0.  0.  1.]]
+0     1     U
+1     v 1 2 1 3 0     row
+1 1
+[[ 1.  0.  0.]]
+1     2     L
+2     h 1 2 2 3 1     row
+[[ 0.  1.  0.]]
+2     3     S
+[1    ]
+3     v 2 2 2 3 2     row
+3     h 1 2 3 3 2     row
+2     v 2 2 1 2 1     row
+1 2
+1     h 0 1 3 3 0     row
+2015-06-24 16:08:58,992 Parsing ../data/eu/eu-021-str.xml
+2015-06-24 16:08:59,058 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-021_function.txt
+2015-06-24 16:08:59,059 Parsing ../data/eu/eu-021-str.xml
+2015-06-24 16:08:59,131 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-021_function.txt
+2015-06-24 16:08:59,132 READING STRUCTURAL TAGGING FROM../data/eu_structure/eu-021_structure.txt
+{'_Cell__cellID': 0,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 2,
+ '_Cell__content': 'Treatment/Therapy',
+ '_Cell__function': 'S',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 1,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 94,
+ '_Cell__x2': 171,
+ '_Cell__y1': 487,
+ '_Cell__y2': 496}
+0     v 1 27 0 2 None column
+1 0
+[[ 1.  0.  0.]]
+0     3     L
+3     h 1 3 1 2 0     column
+[[ 0.  1.  0.]]
+3     4     S
+[0    ]
+4     v 2 27 1 2 3     column
+2 1
+[[ 0.  1.  0.]]
+4     7     S
+[0    ]
+7     h 2 3 2 2 4     column
+7     v 3 27 1 2 4     column
+3 1
+[[ 0.  1.  0.]]
+7     11    S
+[0    ]
+11    h 3 4 2 2 7     column
+11    v 4 27 1 2 7     column
+4 1
+[[ 0.  1.  0.]]
+11    14    S
+[0    ]
+14    h 4 5 2 2 11    column
+14    v 5 27 1 2 11    column
+5 1
+[[ 0.  1.  0.]]
+14    18    S
+[0    ]
+18    h 5 6 2 2 14    column
+18    v 6 27 1 2 14    column
+6 1
+[[ 0.  1.  0.]]
+18    21    S
+[0    ]
+21    h 6 7 2 2 18    column
+21    v 7 27 1 2 18    column
+7 1
+[[ 0.  1.  0.]]
+21    25    S
+[0    ]
+25    h 7 8 2 2 21    column
+25    v 8 27 1 2 21    column
+8 1
+[[ 0.  1.  0.]]
+25    28    S
+[0    ]
+28    h 8 9 2 2 25    column
+28    v 9 27 1 2 25    column
+9 1
+[[ 0.  1.  0.]]
+28    32    S
+[0    ]
+32    h 9 10 2 2 28    column
+32    v 10 27 1 2 28    column
+10 1
+[[ 0.  1.  0.]]
+32    35    S
+[0    ]
+35    h 10 11 2 2 32    column
+35    v 11 27 1 2 32    column
+11 1
+[[ 0.  1.  0.]]
+35    39    S
+[0    ]
+39    h 11 12 2 2 35    column
+39    v 12 27 1 2 35    column
+12 1
+[[ 0.  1.  0.]]
+39    42    S
+[0    ]
+42    h 12 13 2 2 39    column
+42    v 13 27 1 2 39    column
+13 1
+[[ 0.  1.  0.]]
+42    46    S
+[0    ]
+46    h 13 14 2 2 42    column
+46    v 14 27 1 2 42    column
+14 1
+[[ 0.  1.  0.]]
+46    49    S
+[0    ]
+49    h 14 15 2 2 46    column
+49    v 15 27 1 2 46    column
+15 1
+[[ 0.  1.  0.]]
+49    53    S
+[0    ]
+53    h 15 16 2 2 49    column
+53    v 16 27 1 2 49    column
+16 1
+[[ 0.  1.  0.]]
+53    56    S
+[0    ]
+56    h 16 17 2 2 53    column
+56    v 17 27 1 2 53    column
+17 1
+[[ 0.  1.  0.]]
+56    60    S
+[0    ]
+60    h 17 18 2 2 56    column
+60    v 18 27 1 2 56    column
+18 1
+[[ 0.  1.  0.]]
+60    63    S
+[0    ]
+63    h 18 19 2 2 60    column
+63    v 19 27 1 2 60    column
+19 1
+[[ 0.  1.  0.]]
+63    67    S
+[0    ]
+67    h 19 20 2 2 63    column
+67    v 20 27 1 2 63    column
+20 1
+[[ 0.  1.  0.]]
+67    70    S
+[0    ]
+70    h 20 21 2 2 67    column
+70    v 21 27 1 2 67    column
+21 1
+[[ 0.  1.  0.]]
+70    74    S
+[0    ]
+74    h 21 22 2 2 70    column
+74    v 22 27 1 2 70    column
+22 1
+[[ 0.  1.  0.]]
+74    77    S
+[0    ]
+77    h 22 23 2 2 74    column
+77    v 23 27 1 2 74    column
+23 1
+[[ 0.  1.  0.]]
+77    81    S
+[0    ]
+81    h 23 24 2 2 77    column
+81    v 24 27 1 2 77    column
+24 1
+[[ 0.  1.  0.]]
+81    84    S
+[0    ]
+84    h 24 25 2 2 81    column
+84    v 25 27 1 2 81    column
+25 1
+[[ 0.  1.  0.]]
+84    88    S
+[0    ]
+88    h 25 26 2 2 84    column
+88    v 26 27 1 2 84    column
+26 1
+[[ 0.  1.  0.]]
+88    91    S
+[0    ]
+91    h 26 27 2 2 88    column
+91    v 27 27 1 2 88    column
+4     h 1 2 2 2 3     column
+3     v 3 27 0 1 0     column
+3 0
+[[ 0.  1.  0.]]
+3     10    S
+[0    ]
+10    h 3 5 1 2 3     column
+10    v 5 27 0 1 3     column
+5 0
+[[ 0.  1.  0.]]
+10    17    S
+[0    ]
+17    h 5 7 1 2 10    column
+17    v 7 27 0 1 10    column
+7 0
+[[ 0.  1.  0.]]
+17    24    S
+[0    ]
+24    h 7 9 1 2 17    column
+24    v 9 27 0 1 17    column
+9 0
+[[ 0.  1.  0.]]
+24    31    S
+[0    ]
+31    h 9 11 1 2 24    column
+31    v 11 27 0 1 24    column
+11 0
+[[ 0.  1.  0.]]
+31    38    S
+[0    ]
+38    h 11 13 1 2 31    column
+38    v 13 27 0 1 31    column
+13 0
+[[ 0.  1.  0.]]
+38    45    S
+[0    ]
+45    h 13 15 1 2 38    column
+45    v 15 27 0 1 38    column
+15 0
+[[ 0.  1.  0.]]
+45    52    S
+[0    ]
+52    h 15 17 1 2 45    column
+52    v 17 27 0 1 45    column
+17 0
+[[ 0.  1.  0.]]
+52    59    S
+[0    ]
+59    h 17 19 1 2 52    column
+59    v 19 27 0 1 52    column
+19 0
+[[ 0.  1.  0.]]
+59    66    S
+[0    ]
+66    h 19 21 1 2 59    column
+66    v 21 27 0 1 59    column
+21 0
+[[ 0.  1.  0.]]
+66    73    S
+[0    ]
+73    h 21 23 1 2 66    column
+73    v 23 27 0 1 66    column
+23 0
+[[ 0.  1.  0.]]
+73    80    S
+[0    ]
+80    h 23 25 1 2 73    column
+80    v 25 27 0 1 73    column
+25 0
+[[ 0.  1.  0.]]
+80    87    S
+[0    ]
+87    h 25 27 1 2 80    column
+87    v 27 27 0 1 80    column
+1 1
+0     h 0 1 2 4 None row
+[[ 0.  0.  1.]]
+0     1     U
+1     v 1 1 2 3 0     row
+1     h 0 1 3 4 0     row
+[[ 0.  1.  0.]]
+1     2     S
+[None]
+2     v 1 1 3 4 1     row
+2     h 0 1 4 4 1     row
+021 1 3 4 L S
+021 1 3 7 L S
+021 1 3 11 U S
+021 1 3 14 U S
+021 1 3 18 U S
+021 1 3 21 U S
+021 1 3 25 U S
+021 1 3 28 U S
+021 1 3 32 U S
+021 1 3 35 U S
+021 1 3 39 U S
+021 1 3 42 U S
+021 1 3 46 U S
+021 1 3 49 U S
+021 1 3 53 U S
+021 1 3 56 U S
+021 1 3 60 U S
+021 1 3 63 U S
+021 1 3 67 U S
+021 1 3 70 U S
+021 1 3 74 U S
+021 1 3 77 U S
+021 1 3 81 U S
+021 1 3 84 U S
+021 1 3 88 U S
+021 1 3 91 U S
+021 1 4 10 U S
+021 1 4 11 U S
+021 1 4 14 U S
+021 1 4 17 U S
+021 1 4 18 U S
+021 1 4 21 U S
+021 1 4 24 U S
+021 1 4 25 U S
+021 1 4 28 U S
+021 1 4 31 U S
+021 1 4 32 U S
+021 1 4 35 U S
+021 1 4 38 U S
+021 1 4 39 U S
+021 1 4 42 U S
+021 1 4 45 U S
+021 1 4 46 U S
+021 1 4 49 U S
+021 1 4 52 U S
+021 1 4 53 U S
+021 1 4 56 U S
+021 1 4 59 U S
+021 1 4 60 U S
+021 1 4 63 U S
+021 1 4 66 U S
+021 1 4 67 U S
+021 1 4 70 U S
+021 1 4 73 U S
+021 1 4 74 U S
+021 1 4 77 U S
+021 1 4 80 U S
+021 1 4 81 U S
+021 1 4 84 U S
+021 1 4 87 U S
+021 1 4 88 U S
+021 1 4 91 U S
+021 1 7 10 U S
+021 1 7 11 U S
+021 1 7 14 U S
+021 1 7 17 U S
+021 1 7 18 U S
+021 1 7 21 U S
+021 1 7 24 U S
+021 1 7 25 U S
+021 1 7 28 U S
+021 1 7 31 U S
+021 1 7 32 U S
+021 1 7 35 U S
+021 1 7 38 U S
+021 1 7 39 U S
+021 1 7 42 U S
+021 1 7 45 U S
+021 1 7 46 U S
+021 1 7 49 U S
+021 1 7 52 U S
+021 1 7 53 U S
+021 1 7 56 U S
+021 1 7 59 U S
+021 1 7 60 U S
+021 1 7 63 U S
+021 1 7 66 U S
+021 1 7 67 U S
+021 1 7 70 U S
+021 1 7 73 U S
+021 1 7 74 U S
+021 1 7 77 U S
+021 1 7 80 U S
+021 1 7 81 U S
+021 1 7 84 U S
+021 1 7 87 U S
+021 1 7 88 U S
+021 1 7 91 U S
+021 1 10 11 L S
+021 1 10 14 L S
+021 1 10 18 U S
+021 1 10 21 U S
+021 1 10 25 U S
+021 1 10 28 U S
+021 1 10 32 U S
+021 1 10 35 U S
+021 1 10 39 U S
+021 1 10 42 U S
+021 1 10 46 U S
+021 1 10 49 U S
+021 1 10 53 U S
+021 1 10 56 U S
+021 1 10 60 U S
+021 1 10 63 U S
+021 1 10 67 U S
+021 1 10 70 U S
+021 1 10 74 U S
+021 1 10 77 U S
+021 1 10 81 U S
+021 1 10 84 U S
+021 1 10 88 U S
+021 1 10 91 U S
+021 1 11 17 U S
+021 1 11 18 U S
+021 1 11 21 U S
+021 1 11 24 U S
+021 1 11 25 U S
+021 1 11 28 U S
+021 1 11 31 U S
+021 1 11 32 U S
+021 1 11 35 U S
+021 1 11 38 U S
+021 1 11 39 U S
+021 1 11 42 U S
+021 1 11 45 U S
+021 1 11 46 U S
+021 1 11 49 U S
+021 1 11 52 U S
+021 1 11 53 U S
+021 1 11 56 U S
+021 1 11 59 U S
+021 1 11 60 U S
+021 1 11 63 U S
+021 1 11 66 U S
+021 1 11 67 U S
+021 1 11 70 U S
+021 1 11 73 U S
+021 1 11 74 U S
+021 1 11 77 U S
+021 1 11 80 U S
+021 1 11 81 U S
+021 1 11 84 U S
+021 1 11 87 U S
+021 1 11 88 U S
+021 1 11 91 U S
+021 1 14 17 U S
+021 1 14 18 U S
+021 1 14 21 U S
+021 1 14 24 U S
+021 1 14 25 U S
+021 1 14 28 U S
+021 1 14 31 U S
+021 1 14 32 U S
+021 1 14 35 U S
+021 1 14 38 U S
+021 1 14 39 U S
+021 1 14 42 U S
+021 1 14 45 U S
+021 1 14 46 U S
+021 1 14 49 U S
+021 1 14 52 U S
+021 1 14 53 U S
+021 1 14 56 U S
+021 1 14 59 U S
+021 1 14 60 U S
+021 1 14 63 U S
+021 1 14 66 U S
+021 1 14 67 U S
+021 1 14 70 U S
+021 1 14 73 U S
+021 1 14 74 U S
+021 1 14 77 U S
+021 1 14 80 U S
+021 1 14 81 U S
+021 1 14 84 U S
+021 1 14 87 U S
+021 1 14 88 U S
+021 1 14 91 U S
+021 1 17 18 L S
+021 1 17 21 L S
+021 1 17 25 U S
+021 1 17 28 U S
+021 1 17 32 U S
+021 1 17 35 U S
+021 1 17 39 U S
+021 1 17 42 U S
+021 1 17 46 U S
+021 1 17 49 U S
+021 1 17 53 U S
+021 1 17 56 U S
+021 1 17 60 U S
+021 1 17 63 U S
+021 1 17 67 U S
+021 1 17 70 U S
+021 1 17 74 U S
+021 1 17 77 U S
+021 1 17 81 U S
+021 1 17 84 U S
+021 1 17 88 U S
+021 1 17 91 U S
+021 1 18 24 U S
+021 1 18 25 U S
+021 1 18 28 U S
+021 1 18 31 U S
+021 1 18 32 U S
+021 1 18 35 U S
+021 1 18 38 U S
+021 1 18 39 U S
+021 1 18 42 U S
+021 1 18 45 U S
+021 1 18 46 U S
+021 1 18 49 U S
+021 1 18 52 U S
+021 1 18 53 U S
+021 1 18 56 U S
+021 1 18 59 U S
+021 1 18 60 U S
+021 1 18 63 U S
+021 1 18 66 U S
+021 1 18 67 U S
+021 1 18 70 U S
+021 1 18 73 U S
+021 1 18 74 U S
+021 1 18 77 U S
+021 1 18 80 U S
+021 1 18 81 U S
+021 1 18 84 U S
+021 1 18 87 U S
+021 1 18 88 U S
+021 1 18 91 U S
+021 1 21 24 U S
+021 1 21 25 U S
+021 1 21 28 U S
+021 1 21 31 U S
+021 1 21 32 U S
+021 1 21 35 U S
+021 1 21 38 U S
+021 1 21 39 U S
+021 1 21 42 U S
+021 1 21 45 U S
+021 1 21 46 U S
+021 1 21 49 U S
+021 1 21 52 U S
+021 1 21 53 U S
+021 1 21 56 U S
+021 1 21 59 U S
+021 1 21 60 U S
+021 1 21 63 U S
+021 1 21 66 U S
+021 1 21 67 U S
+021 1 21 70 U S
+021 1 21 73 U S
+021 1 21 74 U S
+021 1 21 77 U S
+021 1 21 80 U S
+021 1 21 81 U S
+021 1 21 84 U S
+021 1 21 87 U S
+021 1 21 88 U S
+021 1 21 91 U S
+021 1 24 25 L S
+021 1 24 28 L S
+021 1 24 32 U S
+021 1 24 35 U S
+021 1 24 39 U S
+021 1 24 42 U S
+021 1 24 46 U S
+021 1 24 49 U S
+021 1 24 53 U S
+021 1 24 56 U S
+021 1 24 60 U S
+021 1 24 63 U S
+021 1 24 67 U S
+021 1 24 70 U S
+021 1 24 74 U S
+021 1 24 77 U S
+021 1 24 81 U S
+021 1 24 84 U S
+021 1 24 88 U S
+021 1 24 91 U S
+021 1 25 31 U S
+021 1 25 32 U S
+021 1 25 35 U S
+021 1 25 38 U S
+021 1 25 39 U S
+021 1 25 42 U S
+021 1 25 45 U S
+021 1 25 46 U S
+021 1 25 49 U S
+021 1 25 52 U S
+021 1 25 53 U S
+021 1 25 56 U S
+021 1 25 59 U S
+021 1 25 60 U S
+021 1 25 63 U S
+021 1 25 66 U S
+021 1 25 67 U S
+021 1 25 70 U S
+021 1 25 73 U S
+021 1 25 74 U S
+021 1 25 77 U S
+021 1 25 80 U S
+021 1 25 81 U S
+021 1 25 84 U S
+021 1 25 87 U S
+021 1 25 88 U S
+021 1 25 91 U S
+021 1 28 31 U S
+021 1 28 32 U S
+021 1 28 35 U S
+021 1 28 38 U S
+021 1 28 39 U S
+021 1 28 42 U S
+021 1 28 45 U S
+021 1 28 46 U S
+021 1 28 49 U S
+021 1 28 52 U S
+021 1 28 53 U S
+021 1 28 56 U S
+021 1 28 59 U S
+021 1 28 60 U S
+021 1 28 63 U S
+021 1 28 66 U S
+021 1 28 67 U S
+021 1 28 70 U S
+021 1 28 73 U S
+021 1 28 74 U S
+021 1 28 77 U S
+021 1 28 80 U S
+021 1 28 81 U S
+021 1 28 84 U S
+021 1 28 87 U S
+021 1 28 88 U S
+021 1 28 91 U S
+021 1 31 32 L S
+021 1 31 35 L S
+021 1 31 39 U S
+021 1 31 42 U S
+021 1 31 46 U S
+021 1 31 49 U S
+021 1 31 53 U S
+021 1 31 56 U S
+021 1 31 60 U S
+021 1 31 63 U S
+021 1 31 67 U S
+021 1 31 70 U S
+021 1 31 74 U S
+021 1 31 77 U S
+021 1 31 81 U S
+021 1 31 84 U S
+021 1 31 88 U S
+021 1 31 91 U S
+021 1 32 38 U S
+021 1 32 39 U S
+021 1 32 42 U S
+021 1 32 45 U S
+021 1 32 46 U S
+021 1 32 49 U S
+021 1 32 52 U S
+021 1 32 53 U S
+021 1 32 56 U S
+021 1 32 59 U S
+021 1 32 60 U S
+021 1 32 63 U S
+021 1 32 66 U S
+021 1 32 67 U S
+021 1 32 70 U S
+021 1 32 73 U S
+021 1 32 74 U S
+021 1 32 77 U S
+021 1 32 80 U S
+021 1 32 81 U S
+021 1 32 84 U S
+021 1 32 87 U S
+021 1 32 88 U S
+021 1 32 91 U S
+021 1 35 38 U S
+021 1 35 39 U S
+021 1 35 42 U S
+021 1 35 45 U S
+021 1 35 46 U S
+021 1 35 49 U S
+021 1 35 52 U S
+021 1 35 53 U S
+021 1 35 56 U S
+021 1 35 59 U S
+021 1 35 60 U S
+021 1 35 63 U S
+021 1 35 66 U S
+021 1 35 67 U S
+021 1 35 70 U S
+021 1 35 73 U S
+021 1 35 74 U S
+021 1 35 77 U S
+021 1 35 80 U S
+021 1 35 81 U S
+021 1 35 84 U S
+021 1 35 87 U S
+021 1 35 88 U S
+021 1 35 91 U S
+021 1 38 39 L S
+021 1 38 42 L S
+021 1 38 46 U S
+021 1 38 49 U S
+021 1 38 53 U S
+021 1 38 56 U S
+021 1 38 60 U S
+021 1 38 63 U S
+021 1 38 67 U S
+021 1 38 70 U S
+021 1 38 74 U S
+021 1 38 77 U S
+021 1 38 81 U S
+021 1 38 84 U S
+021 1 38 88 U S
+021 1 38 91 U S
+021 1 39 45 U S
+021 1 39 46 U S
+021 1 39 49 U S
+021 1 39 52 U S
+021 1 39 53 U S
+021 1 39 56 U S
+021 1 39 59 U S
+021 1 39 60 U S
+021 1 39 63 U S
+021 1 39 66 U S
+021 1 39 67 U S
+021 1 39 70 U S
+021 1 39 73 U S
+021 1 39 74 U S
+021 1 39 77 U S
+021 1 39 80 U S
+021 1 39 81 U S
+021 1 39 84 U S
+021 1 39 87 U S
+021 1 39 88 U S
+021 1 39 91 U S
+021 1 42 45 U S
+021 1 42 46 U S
+021 1 42 49 U S
+021 1 42 52 U S
+021 1 42 53 U S
+021 1 42 56 U S
+021 1 42 59 U S
+021 1 42 60 U S
+021 1 42 63 U S
+021 1 42 66 U S
+021 1 42 67 U S
+021 1 42 70 U S
+021 1 42 73 U S
+021 1 42 74 U S
+021 1 42 77 U S
+021 1 42 80 U S
+021 1 42 81 U S
+021 1 42 84 U S
+021 1 42 87 U S
+021 1 42 88 U S
+021 1 42 91 U S
+021 1 45 46 L S
+021 1 45 49 L S
+021 1 45 53 U S
+021 1 45 56 U S
+021 1 45 60 U S
+021 1 45 63 U S
+021 1 45 67 U S
+021 1 45 70 U S
+021 1 45 74 U S
+021 1 45 77 U S
+021 1 45 81 U S
+021 1 45 84 U S
+021 1 45 88 U S
+021 1 45 91 U S
+021 1 46 52 U S
+021 1 46 53 U S
+021 1 46 56 U S
+021 1 46 59 U S
+021 1 46 60 U S
+021 1 46 63 U S
+021 1 46 66 U S
+021 1 46 67 U S
+021 1 46 70 U S
+021 1 46 73 U S
+021 1 46 74 U S
+021 1 46 77 U S
+021 1 46 80 U S
+021 1 46 81 U S
+021 1 46 84 U S
+021 1 46 87 U S
+021 1 46 88 U S
+021 1 46 91 U S
+021 1 49 52 U S
+021 1 49 53 U S
+021 1 49 56 U S
+021 1 49 59 U S
+021 1 49 60 U S
+021 1 49 63 U S
+021 1 49 66 U S
+021 1 49 67 U S
+021 1 49 70 U S
+021 1 49 73 U S
+021 1 49 74 U S
+021 1 49 77 U S
+021 1 49 80 U S
+021 1 49 81 U S
+021 1 49 84 U S
+021 1 49 87 U S
+021 1 49 88 U S
+021 1 49 91 U S
+021 1 52 53 L S
+021 1 52 56 L S
+021 1 52 60 U S
+021 1 52 63 U S
+021 1 52 67 U S
+021 1 52 70 U S
+021 1 52 74 U S
+021 1 52 77 U S
+021 1 52 81 U S
+021 1 52 84 U S
+021 1 52 88 U S
+021 1 52 91 U S
+021 1 53 59 U S
+021 1 53 60 U S
+021 1 53 63 U S
+021 1 53 66 U S
+021 1 53 67 U S
+021 1 53 70 U S
+021 1 53 73 U S
+021 1 53 74 U S
+021 1 53 77 U S
+021 1 53 80 U S
+021 1 53 81 U S
+021 1 53 84 U S
+021 1 53 87 U S
+021 1 53 88 U S
+021 1 53 91 U S
+021 1 56 59 U S
+021 1 56 60 U S
+021 1 56 63 U S
+021 1 56 66 U S
+021 1 56 67 U S
+021 1 56 70 U S
+021 1 56 73 U S
+021 1 56 74 U S
+021 1 56 77 U S
+021 1 56 80 U S
+021 1 56 81 U S
+021 1 56 84 U S
+021 1 56 87 U S
+021 1 56 88 U S
+021 1 56 91 U S
+021 1 59 60 L S
+021 1 59 63 L S
+021 1 59 67 U S
+021 1 59 70 U S
+021 1 59 74 U S
+021 1 59 77 U S
+021 1 59 81 U S
+021 1 59 84 U S
+021 1 59 88 U S
+021 1 59 91 U S
+021 1 60 66 U S
+021 1 60 67 U S
+021 1 60 70 U S
+021 1 60 73 U S
+021 1 60 74 U S
+021 1 60 77 U S
+021 1 60 80 U S
+021 1 60 81 U S
+021 1 60 84 U S
+021 1 60 87 U S
+021 1 60 88 U S
+021 1 60 91 U S
+021 1 63 66 U S
+021 1 63 67 U S
+021 1 63 70 U S
+021 1 63 73 U S
+021 1 63 74 U S
+021 1 63 77 U S
+021 1 63 80 U S
+021 1 63 81 U S
+021 1 63 84 U S
+021 1 63 87 U S
+021 1 63 88 U S
+021 1 63 91 U S
+021 1 66 67 L S
+021 1 66 70 L S
+021 1 66 74 U S
+021 1 66 77 U S
+021 1 66 81 U S
+021 1 66 84 U S
+021 1 66 88 U S
+021 1 66 91 U S
+021 1 67 73 U S
+021 1 67 74 U S
+021 1 67 77 U S
+021 1 67 80 U S
+021 1 67 81 U S
+021 1 67 84 U S
+021 1 67 87 U S
+021 1 67 88 U S
+021 1 67 91 U S
+021 1 70 73 U S
+021 1 70 74 U S
+021 1 70 77 U S
+021 1 70 80 U S
+021 1 70 81 U S
+021 1 70 84 U S
+021 1 70 87 U S
+021 1 70 88 U S
+021 1 70 91 U S
+021 1 73 74 L S
+021 1 73 77 L S
+021 1 73 81 U S
+021 1 73 84 U S
+021 1 73 88 U S
+021 1 73 91 U S
+021 1 74 80 U S
+021 1 74 81 U S
+021 1 74 84 U S
+021 1 74 87 U S
+021 1 74 88 U S
+021 1 74 91 U S
+021 1 77 80 U S
+021 1 77 81 U S
+021 1 77 84 U S
+021 1 77 87 U S
+021 1 77 88 U S
+021 1 77 91 U S
+021 1 80 81 L S
+021 1 80 84 L S
+021 1 80 88 U S
+021 1 80 91 U S
+021 1 81 87 U S
+021 1 81 88 U S
+021 1 81 91 U S
+021 1 84 87 U S
+021 1 84 88 U S
+021 1 84 91 U S
+021 1 87 88 L S
+021 1 87 91 L S
+{'_Cell__cellID': 0,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 2,
+ '_Cell__content': 'Difficulty',
+ '_Cell__function': 'S',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 1,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 62,
+ '_Cell__x2': 96,
+ '_Cell__y1': 500,
+ '_Cell__y2': 509}
+0     v 1 29 0 2 None column
+1 0
+[[ 1.  0.  0.]]
+0     4     L
+4     h 1 3 1 2 0     column
+[[ 0.  1.  0.]]
+4     5     S
+[0    ]
+5     v 2 29 1 2 4     column
+2 1
+[[ 0.  1.  0.]]
+5     9     S
+[0    ]
+9     h 2 3 2 2 5     column
+9     v 3 29 1 2 5     column
+3 1
+[[ 0.  1.  0.]]
+9     14    S
+[0    ]
+14    h 3 4 2 2 9     column
+14    v 4 29 1 2 9     column
+4 1
+[[ 0.  1.  0.]]
+14    18    S
+[0    ]
+18    h 4 5 2 2 14    column
+18    v 5 29 1 2 14    column
+5 1
+[[ 0.  1.  0.]]
+18    23    S
+[0    ]
+23    h 5 6 2 2 18    column
+23    v 6 29 1 2 18    column
+6 1
+[[ 0.  1.  0.]]
+23    27    S
+[0    ]
+27    h 6 7 2 2 23    column
+27    v 7 29 1 2 23    column
+7 1
+[[ 0.  1.  0.]]
+27    32    S
+[0    ]
+32    h 7 8 2 2 27    column
+32    v 8 29 1 2 27    column
+8 1
+[[ 0.  1.  0.]]
+32    36    S
+[0    ]
+36    h 8 9 2 2 32    column
+36    v 9 29 1 2 32    column
+9 1
+[[ 0.  1.  0.]]
+36    41    S
+[0    ]
+41    h 9 10 2 2 36    column
+41    v 10 29 1 2 36    column
+10 1
+[[ 0.  1.  0.]]
+41    45    S
+[0    ]
+45    h 10 11 2 2 41    column
+45    v 11 29 1 2 41    column
+11 1
+[[ 0.  1.  0.]]
+45    50    S
+[0    ]
+50    h 11 12 2 2 45    column
+50    v 12 29 1 2 45    column
+12 1
+[[ 0.  1.  0.]]
+50    54    S
+[0    ]
+54    h 12 13 2 2 50    column
+54    v 13 29 1 2 50    column
+13 1
+[[ 0.  1.  0.]]
+54    59    S
+[0    ]
+59    h 13 14 2 2 54    column
+59    v 14 29 1 2 54    column
+14 1
+[[ 0.  1.  0.]]
+59    63    S
+[0    ]
+63    h 14 15 2 2 59    column
+63    v 15 29 1 2 59    column
+15 1
+[[ 0.  1.  0.]]
+63    68    S
+[0    ]
+68    h 15 16 2 2 63    column
+68    v 16 29 1 2 63    column
+16 1
+[[ 0.  1.  0.]]
+68    72    S
+[0    ]
+72    h 16 17 2 2 68    column
+72    v 17 29 1 2 68    column
+17 1
+[[ 0.  1.  0.]]
+72    77    S
+[0    ]
+77    h 17 18 2 2 72    column
+77    v 18 29 1 2 72    column
+18 1
+[[ 0.  1.  0.]]
+77    81    S
+[0    ]
+81    h 18 19 2 2 77    column
+81    v 19 29 1 2 77    column
+19 1
+[[ 0.  1.  0.]]
+81    86    S
+[0    ]
+86    h 19 20 2 2 81    column
+86    v 20 29 1 2 81    column
+20 1
+[[ 0.  1.  0.]]
+86    90    S
+[0    ]
+90    h 20 21 2 2 86    column
+90    v 21 29 1 2 86    column
+21 1
+[[ 0.  1.  0.]]
+90    95    S
+[0    ]
+95    h 21 22 2 2 90    column
+95    v 22 29 1 2 90    column
+22 1
+[[ 0.  1.  0.]]
+95    99    S
+[0    ]
+99    h 22 23 2 2 95    column
+99    v 23 29 1 2 95    column
+23 1
+[[ 0.  1.  0.]]
+99    104   S
+[0    ]
+104   h 23 24 2 2 99    column
+104   v 24 29 1 2 99    column
+24 1
+[[ 0.  1.  0.]]
+104   108   S
+[0    ]
+108   h 24 25 2 2 104   column
+108   v 25 29 1 2 104   column
+25 1
+[[ 0.  1.  0.]]
+108   113   S
+[0    ]
+113   h 25 26 2 2 108   column
+113   v 26 29 1 2 108   column
+26 1
+[[ 0.  1.  0.]]
+113   117   S
+[0    ]
+117   h 26 27 2 2 113   column
+117   v 27 29 1 2 113   column
+27 1
+[[ 0.  1.  0.]]
+117   122   S
+[0    ]
+122   h 27 28 2 2 117   column
+122   v 28 29 1 2 117   column
+28 1
+[[ 0.  1.  0.]]
+122   126   S
+[0    ]
+126   h 28 29 2 2 122   column
+126   v 29 29 1 2 122   column
+5     h 1 2 2 2 4     column
+4     v 3 29 0 1 0     column
+3 0
+[[ 0.  1.  0.]]
+4     13    S
+[0    ]
+13    h 3 5 1 2 4     column
+13    v 5 29 0 1 4     column
+5 0
+[[ 0.  1.  0.]]
+13    22    S
+[0    ]
+22    h 5 7 1 2 13    column
+22    v 7 29 0 1 13    column
+7 0
+[[ 0.  1.  0.]]
+22    31    S
+[0    ]
+31    h 7 9 1 2 22    column
+31    v 9 29 0 1 22    column
+9 0
+[[ 0.  1.  0.]]
+31    40    S
+[0    ]
+40    h 9 11 1 2 31    column
+40    v 11 29 0 1 31    column
+11 0
+[[ 0.  1.  0.]]
+40    49    S
+[0    ]
+49    h 11 13 1 2 40    column
+49    v 13 29 0 1 40    column
+13 0
+[[ 0.  1.  0.]]
+49    58    S
+[0    ]
+58    h 13 15 1 2 49    column
+58    v 15 29 0 1 49    column
+15 0
+[[ 0.  1.  0.]]
+58    67    S
+[0    ]
+67    h 15 17 1 2 58    column
+67    v 17 29 0 1 58    column
+17 0
+[[ 0.  1.  0.]]
+67    76    S
+[0    ]
+76    h 17 19 1 2 67    column
+76    v 19 29 0 1 67    column
+19 0
+[[ 0.  1.  0.]]
+76    85    S
+[0    ]
+85    h 19 21 1 2 76    column
+85    v 21 29 0 1 76    column
+21 0
+[[ 0.  1.  0.]]
+85    94    S
+[0    ]
+94    h 21 23 1 2 85    column
+94    v 23 29 0 1 85    column
+23 0
+[[ 0.  1.  0.]]
+94    103   S
+[0    ]
+103   h 23 25 1 2 94    column
+103   v 25 29 0 1 94    column
+25 0
+[[ 0.  1.  0.]]
+103   112   S
+[0    ]
+112   h 25 27 1 2 103   column
+112   v 27 29 0 1 103   column
+27 0
+[[ 0.  1.  0.]]
+112   121   S
+[0    ]
+121   h 27 29 1 2 112   column
+121   v 29 29 0 1 112   column
+1 1
+0     h 0 1 2 5 None row
+[[ 0.  0.  1.]]
+0     1     U
+1     v 1 1 2 3 0     row
+1     h 0 1 3 5 0     row
+[[ 0.  1.  0.]]
+1     2     S
+[None]
+2     v 1 1 3 4 1     row
+2     h 0 1 4 5 1     row
+[[ 0.  1.  0.]]
+2     3     S
+[None]
+3     v 1 1 4 5 2     row
+3     h 0 1 5 5 2     row
+021 2 4 5 L S
+021 2 4 9 L S
+021 2 4 14 U S
+021 2 4 18 U S
+021 2 4 23 U S
+021 2 4 27 U S
+021 2 4 32 U S
+021 2 4 36 U S
+021 2 4 41 U S
+021 2 4 45 U S
+021 2 4 50 U S
+021 2 4 54 U S
+021 2 4 59 U S
+021 2 4 63 U S
+021 2 4 68 U S
+021 2 4 72 U S
+021 2 4 77 U S
+021 2 4 81 U S
+021 2 4 86 U S
+021 2 4 90 U S
+021 2 4 95 U S
+021 2 4 99 U S
+021 2 4 104 U S
+021 2 4 108 U S
+021 2 4 113 U S
+021 2 4 117 U S
+021 2 4 122 U S
+021 2 4 126 U S
+021 2 5 13 U S
+021 2 5 14 U S
+021 2 5 18 U S
+021 2 5 22 U S
+021 2 5 23 U S
+021 2 5 27 U S
+021 2 5 31 U S
+021 2 5 32 U S
+021 2 5 36 U S
+021 2 5 40 U S
+021 2 5 41 U S
+021 2 5 45 U S
+021 2 5 49 U S
+021 2 5 50 U S
+021 2 5 54 U S
+021 2 5 58 U S
+021 2 5 59 U S
+021 2 5 63 U S
+021 2 5 67 U S
+021 2 5 68 U S
+021 2 5 72 U S
+021 2 5 76 U S
+021 2 5 77 U S
+021 2 5 81 U S
+021 2 5 85 U S
+021 2 5 86 U S
+021 2 5 90 U S
+021 2 5 94 U S
+021 2 5 95 U S
+021 2 5 99 U S
+021 2 5 103 U S
+021 2 5 104 U S
+021 2 5 108 U S
+021 2 5 112 U S
+021 2 5 113 U S
+021 2 5 117 U S
+021 2 5 121 U S
+021 2 5 122 U S
+021 2 5 126 U S
+021 2 9 13 U S
+021 2 9 14 U S
+021 2 9 18 U S
+021 2 9 22 U S
+021 2 9 23 U S
+021 2 9 27 U S
+021 2 9 31 U S
+021 2 9 32 U S
+021 2 9 36 U S
+021 2 9 40 U S
+021 2 9 41 U S
+021 2 9 45 U S
+021 2 9 49 U S
+021 2 9 50 U S
+021 2 9 54 U S
+021 2 9 58 U S
+021 2 9 59 U S
+021 2 9 63 U S
+021 2 9 67 U S
+021 2 9 68 U S
+021 2 9 72 U S
+021 2 9 76 U S
+021 2 9 77 U S
+021 2 9 81 U S
+021 2 9 85 U S
+021 2 9 86 U S
+021 2 9 90 U S
+021 2 9 94 U S
+021 2 9 95 U S
+021 2 9 99 U S
+021 2 9 103 U S
+021 2 9 104 U S
+021 2 9 108 U S
+021 2 9 112 U S
+021 2 9 113 U S
+021 2 9 117 U S
+021 2 9 121 U S
+021 2 9 122 U S
+021 2 9 126 U S
+021 2 13 14 L S
+021 2 13 18 L S
+021 2 13 23 U S
+021 2 13 27 U S
+021 2 13 32 U S
+021 2 13 36 U S
+021 2 13 41 U S
+021 2 13 45 U S
+021 2 13 50 U S
+021 2 13 54 U S
+021 2 13 59 U S
+021 2 13 63 U S
+021 2 13 68 U S
+021 2 13 72 U S
+021 2 13 77 U S
+021 2 13 81 U S
+021 2 13 86 U S
+021 2 13 90 U S
+021 2 13 95 U S
+021 2 13 99 U S
+021 2 13 104 U S
+021 2 13 108 U S
+021 2 13 113 U S
+021 2 13 117 U S
+021 2 13 122 U S
+021 2 13 126 U S
+021 2 14 22 U S
+021 2 14 23 U S
+021 2 14 27 U S
+021 2 14 31 U S
+021 2 14 32 U S
+021 2 14 36 U S
+021 2 14 40 U S
+021 2 14 41 U S
+021 2 14 45 U S
+021 2 14 49 U S
+021 2 14 50 U S
+021 2 14 54 U S
+021 2 14 58 U S
+021 2 14 59 U S
+021 2 14 63 U S
+021 2 14 67 U S
+021 2 14 68 U S
+021 2 14 72 U S
+021 2 14 76 U S
+021 2 14 77 U S
+021 2 14 81 U S
+021 2 14 85 U S
+021 2 14 86 U S
+021 2 14 90 U S
+021 2 14 94 U S
+021 2 14 95 U S
+021 2 14 99 U S
+021 2 14 103 U S
+021 2 14 104 U S
+021 2 14 108 U S
+021 2 14 112 U S
+021 2 14 113 U S
+021 2 14 117 U S
+021 2 14 121 U S
+021 2 14 122 U S
+021 2 14 126 U S
+021 2 18 22 U S
+021 2 18 23 U S
+021 2 18 27 U S
+021 2 18 31 U S
+021 2 18 32 U S
+021 2 18 36 U S
+021 2 18 40 U S
+021 2 18 41 U S
+021 2 18 45 U S
+021 2 18 49 U S
+021 2 18 50 U S
+021 2 18 54 U S
+021 2 18 58 U S
+021 2 18 59 U S
+021 2 18 63 U S
+021 2 18 67 U S
+021 2 18 68 U S
+021 2 18 72 U S
+021 2 18 76 U S
+021 2 18 77 U S
+021 2 18 81 U S
+021 2 18 85 U S
+021 2 18 86 U S
+021 2 18 90 U S
+021 2 18 94 U S
+021 2 18 95 U S
+021 2 18 99 U S
+021 2 18 103 U S
+021 2 18 104 U S
+021 2 18 108 U S
+021 2 18 112 U S
+021 2 18 113 U S
+021 2 18 117 U S
+021 2 18 121 U S
+021 2 18 122 U S
+021 2 18 126 U S
+021 2 22 23 L S
+021 2 22 27 L S
+021 2 22 32 U S
+021 2 22 36 U S
+021 2 22 41 U S
+021 2 22 45 U S
+021 2 22 50 U S
+021 2 22 54 U S
+021 2 22 59 U S
+021 2 22 63 U S
+021 2 22 68 U S
+021 2 22 72 U S
+021 2 22 77 U S
+021 2 22 81 U S
+021 2 22 86 U S
+021 2 22 90 U S
+021 2 22 95 U S
+021 2 22 99 U S
+021 2 22 104 U S
+021 2 22 108 U S
+021 2 22 113 U S
+021 2 22 117 U S
+021 2 22 122 U S
+021 2 22 126 U S
+021 2 23 31 U S
+021 2 23 32 U S
+021 2 23 36 U S
+021 2 23 40 U S
+021 2 23 41 U S
+021 2 23 45 U S
+021 2 23 49 U S
+021 2 23 50 U S
+021 2 23 54 U S
+021 2 23 58 U S
+021 2 23 59 U S
+021 2 23 63 U S
+021 2 23 67 U S
+021 2 23 68 U S
+021 2 23 72 U S
+021 2 23 76 U S
+021 2 23 77 U S
+021 2 23 81 U S
+021 2 23 85 U S
+021 2 23 86 U S
+021 2 23 90 U S
+021 2 23 94 U S
+021 2 23 95 U S
+021 2 23 99 U S
+021 2 23 103 U S
+021 2 23 104 U S
+021 2 23 108 U S
+021 2 23 112 U S
+021 2 23 113 U S
+021 2 23 117 U S
+021 2 23 121 U S
+021 2 23 122 U S
+021 2 23 126 U S
+021 2 27 31 U S
+021 2 27 32 U S
+021 2 27 36 U S
+021 2 27 40 U S
+021 2 27 41 U S
+021 2 27 45 U S
+021 2 27 49 U S
+021 2 27 50 U S
+021 2 27 54 U S
+021 2 27 58 U S
+021 2 27 59 U S
+021 2 27 63 U S
+021 2 27 67 U S
+021 2 27 68 U S
+021 2 27 72 U S
+021 2 27 76 U S
+021 2 27 77 U S
+021 2 27 81 U S
+021 2 27 85 U S
+021 2 27 86 U S
+021 2 27 90 U S
+021 2 27 94 U S
+021 2 27 95 U S
+021 2 27 99 U S
+021 2 27 103 U S
+021 2 27 104 U S
+021 2 27 108 U S
+021 2 27 112 U S
+021 2 27 113 U S
+021 2 27 117 U S
+021 2 27 121 U S
+021 2 27 122 U S
+021 2 27 126 U S
+021 2 31 32 L S
+021 2 31 36 L S
+021 2 31 41 U S
+021 2 31 45 U S
+021 2 31 50 U S
+021 2 31 54 U S
+021 2 31 59 U S
+021 2 31 63 U S
+021 2 31 68 U S
+021 2 31 72 U S
+021 2 31 77 U S
+021 2 31 81 U S
+021 2 31 86 U S
+021 2 31 90 U S
+021 2 31 95 U S
+021 2 31 99 U S
+021 2 31 104 U S
+021 2 31 108 U S
+021 2 31 113 U S
+021 2 31 117 U S
+021 2 31 122 U S
+021 2 31 126 U S
+021 2 32 40 U S
+021 2 32 41 U S
+021 2 32 45 U S
+021 2 32 49 U S
+021 2 32 50 U S
+021 2 32 54 U S
+021 2 32 58 U S
+021 2 32 59 U S
+021 2 32 63 U S
+021 2 32 67 U S
+021 2 32 68 U S
+021 2 32 72 U S
+021 2 32 76 U S
+021 2 32 77 U S
+021 2 32 81 U S
+021 2 32 85 U S
+021 2 32 86 U S
+021 2 32 90 U S
+021 2 32 94 U S
+021 2 32 95 U S
+021 2 32 99 U S
+021 2 32 103 U S
+021 2 32 104 U S
+021 2 32 108 U S
+021 2 32 112 U S
+021 2 32 113 U S
+021 2 32 117 U S
+021 2 32 121 U S
+021 2 32 122 U S
+021 2 32 126 U S
+021 2 36 40 U S
+021 2 36 41 U S
+021 2 36 45 U S
+021 2 36 49 U S
+021 2 36 50 U S
+021 2 36 54 U S
+021 2 36 58 U S
+021 2 36 59 U S
+021 2 36 63 U S
+021 2 36 67 U S
+021 2 36 68 U S
+021 2 36 72 U S
+021 2 36 76 U S
+021 2 36 77 U S
+021 2 36 81 U S
+021 2 36 85 U S
+021 2 36 86 U S
+021 2 36 90 U S
+021 2 36 94 U S
+021 2 36 95 U S
+021 2 36 99 U S
+021 2 36 103 U S
+021 2 36 104 U S
+021 2 36 108 U S
+021 2 36 112 U S
+021 2 36 113 U S
+021 2 36 117 U S
+021 2 36 121 U S
+021 2 36 122 U S
+021 2 36 126 U S
+021 2 40 41 L S
+021 2 40 45 L S
+021 2 40 50 U S
+021 2 40 54 U S
+021 2 40 59 U S
+021 2 40 63 U S
+021 2 40 68 U S
+021 2 40 72 U S
+021 2 40 77 U S
+021 2 40 81 U S
+021 2 40 86 U S
+021 2 40 90 U S
+021 2 40 95 U S
+021 2 40 99 U S
+021 2 40 104 U S
+021 2 40 108 U S
+021 2 40 113 U S
+021 2 40 117 U S
+021 2 40 122 U S
+021 2 40 126 U S
+021 2 41 49 U S
+021 2 41 50 U S
+021 2 41 54 U S
+021 2 41 58 U S
+021 2 41 59 U S
+021 2 41 63 U S
+021 2 41 67 U S
+021 2 41 68 U S
+021 2 41 72 U S
+021 2 41 76 U S
+021 2 41 77 U S
+021 2 41 81 U S
+021 2 41 85 U S
+021 2 41 86 U S
+021 2 41 90 U S
+021 2 41 94 U S
+021 2 41 95 U S
+021 2 41 99 U S
+021 2 41 103 U S
+021 2 41 104 U S
+021 2 41 108 U S
+021 2 41 112 U S
+021 2 41 113 U S
+021 2 41 117 U S
+021 2 41 121 U S
+021 2 41 122 U S
+021 2 41 126 U S
+021 2 45 49 U S
+021 2 45 50 U S
+021 2 45 54 U S
+021 2 45 58 U S
+021 2 45 59 U S
+021 2 45 63 U S
+021 2 45 67 U S
+021 2 45 68 U S
+021 2 45 72 U S
+021 2 45 76 U S
+021 2 45 77 U S
+021 2 45 81 U S
+021 2 45 85 U S
+021 2 45 86 U S
+021 2 45 90 U S
+021 2 45 94 U S
+021 2 45 95 U S
+021 2 45 99 U S
+021 2 45 103 U S
+021 2 45 104 U S
+021 2 45 108 U S
+021 2 45 112 U S
+021 2 45 113 U S
+021 2 45 117 U S
+021 2 45 121 U S
+021 2 45 122 U S
+021 2 45 126 U S
+021 2 49 50 L S
+021 2 49 54 L S
+021 2 49 59 U S
+021 2 49 63 U S
+021 2 49 68 U S
+021 2 49 72 U S
+021 2 49 77 U S
+021 2 49 81 U S
+021 2 49 86 U S
+021 2 49 90 U S
+021 2 49 95 U S
+021 2 49 99 U S
+021 2 49 104 U S
+021 2 49 108 U S
+021 2 49 113 U S
+021 2 49 117 U S
+021 2 49 122 U S
+021 2 49 126 U S
+021 2 50 58 U S
+021 2 50 59 U S
+021 2 50 63 U S
+021 2 50 67 U S
+021 2 50 68 U S
+021 2 50 72 U S
+021 2 50 76 U S
+021 2 50 77 U S
+021 2 50 81 U S
+021 2 50 85 U S
+021 2 50 86 U S
+021 2 50 90 U S
+021 2 50 94 U S
+021 2 50 95 U S
+021 2 50 99 U S
+021 2 50 103 U S
+021 2 50 104 U S
+021 2 50 108 U S
+021 2 50 112 U S
+021 2 50 113 U S
+021 2 50 117 U S
+021 2 50 121 U S
+021 2 50 122 U S
+021 2 50 126 U S
+021 2 54 58 U S
+021 2 54 59 U S
+021 2 54 63 U S
+021 2 54 67 U S
+021 2 54 68 U S
+021 2 54 72 U S
+021 2 54 76 U S
+021 2 54 77 U S
+021 2 54 81 U S
+021 2 54 85 U S
+021 2 54 86 U S
+021 2 54 90 U S
+021 2 54 94 U S
+021 2 54 95 U S
+021 2 54 99 U S
+021 2 54 103 U S
+021 2 54 104 U S
+021 2 54 108 U S
+021 2 54 112 U S
+021 2 54 113 U S
+021 2 54 117 U S
+021 2 54 121 U S
+021 2 54 122 U S
+021 2 54 126 U S
+021 2 58 59 L S
+021 2 58 63 L S
+021 2 58 68 U S
+021 2 58 72 U S
+021 2 58 77 U S
+021 2 58 81 U S
+021 2 58 86 U S
+021 2 58 90 U S
+021 2 58 95 U S
+021 2 58 99 U S
+021 2 58 104 U S
+021 2 58 108 U S
+021 2 58 113 U S
+021 2 58 117 U S
+021 2 58 122 U S
+021 2 58 126 U S
+021 2 59 67 U S
+021 2 59 68 U S
+021 2 59 72 U S
+021 2 59 76 U S
+021 2 59 77 U S
+021 2 59 81 U S
+021 2 59 85 U S
+021 2 59 86 U S
+021 2 59 90 U S
+021 2 59 94 U S
+021 2 59 95 U S
+021 2 59 99 U S
+021 2 59 103 U S
+021 2 59 104 U S
+021 2 59 108 U S
+021 2 59 112 U S
+021 2 59 113 U S
+021 2 59 117 U S
+021 2 59 121 U S
+021 2 59 122 U S
+021 2 59 126 U S
+021 2 63 67 U S
+021 2 63 68 U S
+021 2 63 72 U S
+021 2 63 76 U S
+021 2 63 77 U S
+021 2 63 81 U S
+021 2 63 85 U S
+021 2 63 86 U S
+021 2 63 90 U S
+021 2 63 94 U S
+021 2 63 95 U S
+021 2 63 99 U S
+021 2 63 103 U S
+021 2 63 104 U S
+021 2 63 108 U S
+021 2 63 112 U S
+021 2 63 113 U S
+021 2 63 117 U S
+021 2 63 121 U S
+021 2 63 122 U S
+021 2 63 126 U S
+021 2 67 68 L S
+021 2 67 72 L S
+021 2 67 77 U S
+021 2 67 81 U S
+021 2 67 86 U S
+021 2 67 90 U S
+021 2 67 95 U S
+021 2 67 99 U S
+021 2 67 104 U S
+021 2 67 108 U S
+021 2 67 113 U S
+021 2 67 117 U S
+021 2 67 122 U S
+021 2 67 126 U S
+021 2 68 76 U S
+021 2 68 77 U S
+021 2 68 81 U S
+021 2 68 85 U S
+021 2 68 86 U S
+021 2 68 90 U S
+021 2 68 94 U S
+021 2 68 95 U S
+021 2 68 99 U S
+021 2 68 103 U S
+021 2 68 104 U S
+021 2 68 108 U S
+021 2 68 112 U S
+021 2 68 113 U S
+021 2 68 117 U S
+021 2 68 121 U S
+021 2 68 122 U S
+021 2 68 126 U S
+021 2 72 76 U S
+021 2 72 77 U S
+021 2 72 81 U S
+021 2 72 85 U S
+021 2 72 86 U S
+021 2 72 90 U S
+021 2 72 94 U S
+021 2 72 95 U S
+021 2 72 99 U S
+021 2 72 103 U S
+021 2 72 104 U S
+021 2 72 108 U S
+021 2 72 112 U S
+021 2 72 113 U S
+021 2 72 117 U S
+021 2 72 121 U S
+021 2 72 122 U S
+021 2 72 126 U S
+021 2 76 77 L S
+021 2 76 81 L S
+021 2 76 86 U S
+021 2 76 90 U S
+021 2 76 95 U S
+021 2 76 99 U S
+021 2 76 104 U S
+021 2 76 108 U S
+021 2 76 113 U S
+021 2 76 117 U S
+021 2 76 122 U S
+021 2 76 126 U S
+021 2 77 85 U S
+021 2 77 86 U S
+021 2 77 90 U S
+021 2 77 94 U S
+021 2 77 95 U S
+021 2 77 99 U S
+021 2 77 103 U S
+021 2 77 104 U S
+021 2 77 108 U S
+021 2 77 112 U S
+021 2 77 113 U S
+021 2 77 117 U S
+021 2 77 121 U S
+021 2 77 122 U S
+021 2 77 126 U S
+021 2 81 85 U S
+021 2 81 86 U S
+021 2 81 90 U S
+021 2 81 94 U S
+021 2 81 95 U S
+021 2 81 99 U S
+021 2 81 103 U S
+021 2 81 104 U S
+021 2 81 108 U S
+021 2 81 112 U S
+021 2 81 113 U S
+021 2 81 117 U S
+021 2 81 121 U S
+021 2 81 122 U S
+021 2 81 126 U S
+021 2 85 86 L S
+021 2 85 90 L S
+021 2 85 95 U S
+021 2 85 99 U S
+021 2 85 104 U S
+021 2 85 108 U S
+021 2 85 113 U S
+021 2 85 117 U S
+021 2 85 122 U S
+021 2 85 126 U S
+021 2 86 94 U S
+021 2 86 95 U S
+021 2 86 99 U S
+021 2 86 103 U S
+021 2 86 104 U S
+021 2 86 108 U S
+021 2 86 112 U S
+021 2 86 113 U S
+021 2 86 117 U S
+021 2 86 121 U S
+021 2 86 122 U S
+021 2 86 126 U S
+021 2 90 94 U S
+021 2 90 95 U S
+021 2 90 99 U S
+021 2 90 103 U S
+021 2 90 104 U S
+021 2 90 108 U S
+021 2 90 112 U S
+021 2 90 113 U S
+021 2 90 117 U S
+021 2 90 121 U S
+021 2 90 122 U S
+021 2 90 126 U S
+021 2 94 95 L S
+021 2 94 99 L S
+021 2 94 104 U S
+021 2 94 108 U S
+021 2 94 113 U S
+021 2 94 117 U S
+021 2 94 122 U S
+021 2 94 126 U S
+021 2 95 103 U S
+021 2 95 104 U S
+021 2 95 108 U S
+021 2 95 112 U S
+021 2 95 113 U S
+021 2 95 117 U S
+021 2 95 121 U S
+021 2 95 122 U S
+021 2 95 126 U S
+021 2 99 103 U S
+021 2 99 104 U S
+021 2 99 108 U S
+021 2 99 112 U S
+021 2 99 113 U S
+021 2 99 117 U S
+021 2 99 121 U S
+021 2 99 122 U S
+021 2 99 126 U S
+021 2 103 104 L S
+021 2 103 108 L S
+021 2 103 113 U S
+021 2 103 117 U S
+021 2 103 122 U S
+021 2 103 126 U S
+021 2 104 112 U S
+021 2 104 113 U S
+021 2 104 117 U S
+021 2 104 121 U S
+021 2 104 122 U S
+021 2 104 126 U S
+021 2 108 112 U S
+021 2 108 113 U S
+021 2 108 117 U S
+021 2 108 121 U S
+021 2 108 122 U S
+021 2 108 126 U S
+021 2 112 113 L S
+021 2 112 117 L S
+021 2 112 122 U S
+021 2 112 126 U S
+021 2 113 121 U S
+021 2 113 122 U S
+021 2 113 126 U S
+021 2 117 121 U S
+021 2 117 122 U S
+021 2 117 126 U S
+021 2 121 122 L S
+021 2 121 126 L S
+2015-06-24 16:08:59,286 Parsing ../data/eu/eu-022-str.xml
+2015-06-24 16:08:59,315 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-022_function.txt
+2015-06-24 16:08:59,315 Parsing ../data/eu/eu-022-str.xml
+2015-06-24 16:08:59,335 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-022_function.txt
+2015-06-24 16:08:59,336 READING STRUCTURAL TAGGING FROM../data/eu_structure/eu-022_structure.txt
+{'_Cell__cellID': 0,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': 'Substance',
+ '_Cell__function': 'S',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 2,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 83,
+ '_Cell__x2': 130,
+ '_Cell__y1': 483,
+ '_Cell__y2': 493}
+0     v 2 15 0 1 None column
+2 0
+[[ 1.  0.  0.]]
+0     6     L
+6     h 2 3 1 1 0     column
+6     v 3 15 0 1 0     column
+3 0
+[[ 0.  1.  0.]]
+6     11    S
+[0    ]
+11    h 3 4 1 1 6     column
+11    v 4 15 0 1 6     column
+4 0
+[[ 0.  1.  0.]]
+11    16    S
+[0    ]
+16    h 4 5 1 1 11    column
+16    v 5 15 0 1 11    column
+5 0
+[[ 0.  1.  0.]]
+16    21    S
+[0    ]
+21    h 5 6 1 1 16    column
+21    v 6 15 0 1 16    column
+6 0
+[[ 0.  1.  0.]]
+21    26    S
+[0    ]
+26    h 6 7 1 1 21    column
+26    v 7 15 0 1 21    column
+7 0
+[[ 0.  1.  0.]]
+26    31    S
+[0    ]
+31    h 7 8 1 1 26    column
+31    v 8 15 0 1 26    column
+8 0
+[[ 0.  1.  0.]]
+31    36    S
+[0    ]
+36    h 8 9 1 1 31    column
+36    v 9 15 0 1 31    column
+9 0
+[[ 0.  1.  0.]]
+36    41    S
+[0    ]
+41    h 9 10 1 1 36    column
+41    v 10 15 0 1 36    column
+10 0
+[[ 0.  1.  0.]]
+41    46    S
+[0    ]
+46    h 10 11 1 1 41    column
+46    v 11 15 0 1 41    column
+11 0
+[[ 0.  1.  0.]]
+46    51    S
+[0    ]
+51    h 11 12 1 1 46    column
+51    v 12 15 0 1 46    column
+12 0
+[[ 0.  1.  0.]]
+51    56    S
+[0    ]
+56    h 12 13 1 1 51    column
+56    v 13 15 0 1 51    column
+13 0
+[[ 0.  1.  0.]]
+56    61    S
+[0    ]
+61    h 13 14 1 1 56    column
+61    v 14 15 0 1 56    column
+14 0
+[[ 0.  1.  0.]]
+61    66    S
+[0    ]
+66    h 14 15 1 1 61    column
+66    v 15 15 0 1 61    column
+0     h 0 2 1 5 None row
+[[ 0.  1.  0.]]
+0     1     S
+[None]
+1     v 1 2 1 5 0     row
+1 1
+[[ 1.  0.  0.]]
+1     2     L
+2     h 1 2 2 5 1     row
+[[ 0.  1.  0.]]
+2     3     S
+[1    ]
+3     v 2 2 2 3 2     row
+3     h 1 2 3 5 2     row
+[[ 0.  1.  0.]]
+3     4     S
+[1    ]
+4     v 2 2 3 4 3     row
+4     h 1 2 4 5 3     row
+[[ 0.  1.  0.]]
+4     5     S
+[1    ]
+5     v 2 2 4 5 4     row
+5     h 1 2 5 5 4     row
+2     v 2 2 1 2 1     row
+1 2
+1 3
+1 4
+1     h 0 1 5 5 0     row
+2015-06-24 16:08:59,364 Parsing ../data/eu/eu-023-str.xml
+2015-06-24 16:08:59,422 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-023_function.txt
+2015-06-24 16:08:59,423 Parsing ../data/eu/eu-023-str.xml
+2015-06-24 16:08:59,440 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-023_function.txt
+2015-06-24 16:08:59,440 READING STRUCTURAL TAGGING FROM../data/eu_structure/eu-023_structure.txt
+{'_Cell__cellID': 0,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': 'How often do you feel this way?',
+ '_Cell__function': 'S',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 1,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 62,
+ '_Cell__x2': 190,
+ '_Cell__y1': 379,
+ '_Cell__y2': 388}
+0     v 1 10 0 1 None column
+1 0
+[[ 1.  0.  0.]]
+0     4     L
+4     h 1 2 1 1 0     column
+4     v 2 10 0 1 0     column
+2 0
+[[ 0.  1.  0.]]
+4     8     S
+[0    ]
+8     h 2 3 1 1 4     column
+8     v 3 10 0 1 4     column
+3 0
+[[ 0.     0.725  0.275]]
+8     12    S
+[0    ]
+12    h 3 4 1 1 8     column
+12    v 4 10 0 1 8     column
+4 0
+[[ 0.  1.  0.]]
+12    16    S
+[0    ]
+16    h 4 5 1 1 12    column
+16    v 5 10 0 1 12    column
+5 0
+[[ 0.  1.  0.]]
+16    20    S
+[0    ]
+20    h 5 6 1 1 16    column
+20    v 6 10 0 1 16    column
+6 0
+[[ 0.  1.  0.]]
+20    24    S
+[0    ]
+24    h 6 7 1 1 20    column
+24    v 7 10 0 1 20    column
+7 0
+[[ 0.  1.  0.]]
+24    28    S
+[0    ]
+28    h 7 8 1 1 24    column
+28    v 8 10 0 1 24    column
+8 0
+[[ 0.  1.  0.]]
+28    32    S
+[0    ]
+32    h 8 9 1 1 28    column
+32    v 9 10 0 1 28    column
+9 0
+[[ 0.  1.  0.]]
+32    36    S
+[0    ]
+36    h 9 10 1 1 32    column
+36    v 10 10 0 1 32    column
+0     h 0 1 1 4 None row
+[[ 0.  0.  1.]]
+0     1     U
+1     v 1 1 1 2 0     row
+1     h 0 1 2 4 0     row
+[[ 0.  1.  0.]]
+1     2     S
+[None]
+2     v 1 1 2 3 1     row
+2     h 0 1 3 4 1     row
+[[ 0.  1.  0.]]
+2     3     S
+[None]
+3     v 1 1 3 4 2     row
+3     h 0 1 4 4 2     row
+2015-06-24 16:08:59,458 Parsing ../data/eu/eu-024-str.xml
+2015-06-24 16:08:59,473 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-024_function.txt
+2015-06-24 16:08:59,474 Parsing ../data/eu/eu-024-str.xml
+2015-06-24 16:08:59,485 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-024_function.txt
+2015-06-24 16:08:59,486 READING STRUCTURAL TAGGING FROM../data/eu_structure/eu-024_structure.txt
+{'_Cell__cellID': 0,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': 'Perceived Discrimination',
+ '_Cell__function': 'S',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 1,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 59,
+ '_Cell__x2': 158,
+ '_Cell__y1': 462,
+ '_Cell__y2': 471}
+0     v 1 10 0 1 None column
+1 0
+[[ 1.  0.  0.]]
+0     4     L
+4     h 1 2 1 1 0     column
+4     v 2 10 0 1 0     column
+2 0
+[[ 0.  1.  0.]]
+4     8     S
+[0    ]
+8     h 2 3 1 1 4     column
+8     v 3 10 0 1 4     column
+3 0
+[[ 0.  1.  0.]]
+8     12    S
+[0    ]
+12    h 3 4 1 1 8     column
+12    v 4 10 0 1 8     column
+4 0
+[[ 0.  1.  0.]]
+12    16    S
+[0    ]
+16    h 4 5 1 1 12    column
+16    v 5 10 0 1 12    column
+5 0
+[[ 0.  1.  0.]]
+16    20    S
+[0    ]
+20    h 5 6 1 1 16    column
+20    v 6 10 0 1 16    column
+6 0
+[[ 0.  1.  0.]]
+20    24    S
+[0    ]
+24    h 6 7 1 1 20    column
+24    v 7 10 0 1 20    column
+7 0
+[[ 0.  1.  0.]]
+24    28    S
+[0    ]
+28    h 7 8 1 1 24    column
+28    v 8 10 0 1 24    column
+8 0
+[[ 0.  1.  0.]]
+28    32    S
+[0    ]
+32    h 8 9 1 1 28    column
+32    v 9 10 0 1 28    column
+9 0
+[[ 0.  1.  0.]]
+32    36    S
+[0    ]
+36    h 9 10 1 1 32    column
+36    v 10 10 0 1 32    column
+0     h 0 1 1 4 None row
+[[ 0.  0.  1.]]
+0     1     U
+1     v 1 1 1 2 0     row
+1     h 0 1 2 4 0     row
+[[ 0.  1.  0.]]
+1     2     S
+[None]
+2     v 1 1 2 3 1     row
+2     h 0 1 3 4 1     row
+[[ 0.  1.  0.]]
+2     3     S
+[None]
+3     v 1 1 3 4 2     row
+3     h 0 1 4 4 2     row
+2015-06-24 16:08:59,503 Parsing ../data/eu/eu-025-str.xml
+2015-06-24 16:08:59,572 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-025_function.txt
+2015-06-24 16:08:59,573 Parsing ../data/eu/eu-025-str.xml
+2015-06-24 16:08:59,630 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-025_function.txt
+2015-06-24 16:08:59,630 READING STRUCTURAL TAGGING FROM../data/eu_structure/eu-025_structure.txt
+{'_Cell__cellID': 0,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': 'Gender',
+ '_Cell__function': 'S',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 2,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 78,
+ '_Cell__x2': 108,
+ '_Cell__y1': 458,
+ '_Cell__y2': 467}
+0     v 2 4 0 1 None column
+2 0
+[[ 1.  0.  0.]]
+0     5     L
+5     h 2 3 1 1 0     column
+5     v 3 4 0 1 0     column
+3 0
+[[ 0.  1.  0.]]
+5     9     S
+[0    ]
+9     h 3 4 1 1 5     column
+9     v 4 4 0 1 5     column
+0     h 0 2 1 4 None row
+[[ 0.  0.  1.]]
+0     1     U
+1     v 1 2 1 4 0     row
+1 1
+[[ 1.  0.  0.]]
+1     2     L
+2     h 1 2 2 4 1     row
+[[ 0.  1.  0.]]
+2     3     S
+[1    ]
+3     v 2 2 2 3 2     row
+3     h 1 2 3 4 2     row
+[[ 0.  1.  0.]]
+3     4     S
+[1    ]
+4     v 2 2 3 4 3     row
+4     h 1 2 4 4 3     row
+2     v 2 2 1 2 1     row
+1 2
+1 3
+1     h 0 1 4 4 0     row
+{'_Cell__cellID': 0,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': 'Psychosomatic Symptoms',
+ '_Cell__function': 'S',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 2,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 76,
+ '_Cell__x2': 137,
+ '_Cell__y1': 344,
+ '_Cell__y2': 363}
+0     v 2 11 0 1 None column
+2 0
+[[ 1.  0.  0.]]
+0     5     L
+5     h 2 3 1 1 0     column
+5     v 3 11 0 1 0     column
+3 0
+[[ 0.  1.  0.]]
+5     9     S
+[0    ]
+9     h 3 4 1 1 5     column
+9     v 4 11 0 1 5     column
+4 0
+[[ 0.  1.  0.]]
+9     13    S
+[0    ]
+13    h 4 5 1 1 9     column
+13    v 5 11 0 1 9     column
+5 0
+[[ 0.  1.  0.]]
+13    17    S
+[0    ]
+17    h 5 6 1 1 13    column
+17    v 6 11 0 1 13    column
+6 0
+[[ 0.  1.  0.]]
+17    21    S
+[0    ]
+21    h 6 7 1 1 17    column
+21    v 7 11 0 1 17    column
+7 0
+[[ 0.  1.  0.]]
+21    25    S
+[0    ]
+25    h 7 8 1 1 21    column
+25    v 8 11 0 1 21    column
+8 0
+[[ 0.  1.  0.]]
+25    29    S
+[0    ]
+29    h 8 9 1 1 25    column
+29    v 9 11 0 1 25    column
+9 0
+[[ 0.  1.  0.]]
+29    33    S
+[0    ]
+33    h 9 10 1 1 29    column
+33    v 10 11 0 1 29    column
+10 0
+[[ 0.  1.  0.]]
+33    37    S
+[0    ]
+37    h 10 11 1 1 33    column
+37    v 11 11 0 1 33    column
+0     h 0 2 1 4 None row
+[[ 0.  0.  1.]]
+0     1     U
+1     v 1 2 1 4 0     row
+1 1
+[[ 1.  0.  0.]]
+1     2     L
+2     h 1 2 2 4 1     row
+[[ 0.  1.  0.]]
+2     3     S
+[1    ]
+3     v 2 2 2 3 2     row
+3     h 1 2 3 4 2     row
+[[ 0.  1.  0.]]
+3     4     S
+[1    ]
+4     v 2 2 3 4 3     row
+4     h 1 2 4 4 3     row
+2     v 2 2 1 2 1     row
+1 2
+1 3
+1     h 0 1 4 4 0     row
+{'_Cell__cellID': 0,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': 'Psychosomatic Symptoms',
+ '_Cell__function': 'S',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 2,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 75,
+ '_Cell__x2': 136,
+ '_Cell__y1': 141,
+ '_Cell__y2': 160}
+0     v 2 6 0 1 None column
+2 0
+[[ 1.  0.  0.]]
+0     5     L
+5     h 2 3 1 1 0     column
+5     v 3 6 0 1 0     column
+3 0
+[[ 0.  1.  0.]]
+5     9     S
+[0    ]
+9     h 3 4 1 1 5     column
+9     v 4 6 0 1 5     column
+4 0
+[[ 0.  1.  0.]]
+9     13    S
+[0    ]
+13    h 4 5 1 1 9     column
+13    v 5 6 0 1 9     column
+5 0
+[[ 0.  1.  0.]]
+13    17    S
+[0    ]
+17    h 5 6 1 1 13    column
+17    v 6 6 0 1 13    column
+0     h 0 2 1 4 None row
+[[ 0.  0.  1.]]
+0     1     U
+1     v 1 2 1 4 0     row
+1 1
+[[ 1.  0.  0.]]
+1     2     L
+2     h 1 2 2 4 1     row
+[[ 0.  1.  0.]]
+2     3     S
+[1    ]
+3     v 2 2 2 3 2     row
+3     h 1 2 3 4 2     row
+[[ 0.  1.  0.]]
+3     4     S
+[1    ]
+4     v 2 2 3 4 3     row
+4     h 1 2 4 4 3     row
+2     v 2 2 1 2 1     row
+1 2
+1 3
+1     h 0 1 4 4 0     row
+{'_Cell__cellID': 0,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': 'Illnesses',
+ '_Cell__function': 'S',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 2,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 107,
+ '_Cell__x2': 142,
+ '_Cell__y1': 494,
+ '_Cell__y2': 503}
+0     v 2 14 0 1 None column
+2 0
+[[ 1.  0.  0.]]
+0     4     L
+4     h 2 3 1 1 0     column
+4     v 3 14 0 1 0     column
+3 0
+[[ 0.  1.  0.]]
+4     7     S
+[0    ]
+7     h 3 4 1 1 4     column
+7     v 4 14 0 1 4     column
+4 0
+[[ 0.  1.  0.]]
+7     10    S
+[0    ]
+10    h 4 5 1 1 7     column
+10    v 5 14 0 1 7     column
+5 0
+[[ 0.  1.  0.]]
+10    13    S
+[0    ]
+13    h 5 6 1 1 10    column
+13    v 6 14 0 1 10    column
+6 0
+[[ 0.  1.  0.]]
+13    16    S
+[0    ]
+16    h 6 7 1 1 13    column
+16    v 7 14 0 1 13    column
+7 0
+[[ 0.  1.  0.]]
+16    19    S
+[0    ]
+19    h 7 8 1 1 16    column
+19    v 8 14 0 1 16    column
+8 0
+[[ 0.  1.  0.]]
+19    22    S
+[0    ]
+22    h 8 9 1 1 19    column
+22    v 9 14 0 1 19    column
+9 0
+[[ 0.  1.  0.]]
+22    25    S
+[0    ]
+25    h 9 10 1 1 22    column
+25    v 10 14 0 1 22    column
+10 0
+[[ 0.  1.  0.]]
+25    28    S
+[0    ]
+28    h 10 11 1 1 25    column
+28    v 11 14 0 1 25    column
+11 0
+[[ 0.  1.  0.]]
+28    31    S
+[0    ]
+31    h 11 12 1 1 28    column
+31    v 12 14 0 1 28    column
+12 0
+[[ 0.  1.  0.]]
+31    34    S
+[0    ]
+34    h 12 13 1 1 31    column
+34    v 13 14 0 1 31    column
+13 0
+[[ 0.  1.  0.]]
+34    37    S
+[0    ]
+37    h 13 14 1 1 34    column
+37    v 14 14 0 1 34    column
+0     h 0 2 1 3 None row
+[[ 0.  0.  1.]]
+0     1     U
+1     v 1 2 1 3 0     row
+1 1
+[[ 1.  0.  0.]]
+1     2     L
+2     h 1 2 2 3 1     row
+[[ 0.  1.  0.]]
+2     3     S
+[1    ]
+3     v 2 2 2 3 2     row
+3     h 1 2 3 3 2     row
+2     v 2 2 1 2 1     row
+1 2
+1     h 0 1 3 3 0     row
+{'_Cell__cellID': 0,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': 'Illnesses',
+ '_Cell__function': 'S',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 2,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 109,
+ '_Cell__x2': 144,
+ '_Cell__y1': 251,
+ '_Cell__y2': 260}
+0     v 2 14 0 1 None column
+2 0
+[[ 1.  0.  0.]]
+0     5     L
+5     h 2 3 1 1 0     column
+5     v 3 14 0 1 0     column
+3 0
+[[ 0.  1.  0.]]
+5     9     S
+[0    ]
+9     h 3 4 1 1 5     column
+9     v 4 14 0 1 5     column
+4 0
+[[ 0.  1.  0.]]
+9     13    S
+[0    ]
+13    h 4 5 1 1 9     column
+13    v 5 14 0 1 9     column
+5 0
+[[ 0.  1.  0.]]
+13    17    S
+[0    ]
+17    h 5 6 1 1 13    column
+17    v 6 14 0 1 13    column
+6 0
+[[ 0.  1.  0.]]
+17    21    S
+[0    ]
+21    h 6 7 1 1 17    column
+21    v 7 14 0 1 17    column
+7 0
+[[ 0.  1.  0.]]
+21    25    S
+[0    ]
+25    h 7 8 1 1 21    column
+25    v 8 14 0 1 21    column
+8 0
+[[ 0.  1.  0.]]
+25    29    S
+[0    ]
+29    h 8 9 1 1 25    column
+29    v 9 14 0 1 25    column
+9 0
+[[ 0.  1.  0.]]
+29    33    S
+[0    ]
+33    h 9 10 1 1 29    column
+33    v 10 14 0 1 29    column
+10 0
+[[ 0.  1.  0.]]
+33    37    S
+[0    ]
+37    h 10 11 1 1 33    column
+37    v 11 14 0 1 33    column
+11 0
+[[ 0.  1.  0.]]
+37    41    S
+[0    ]
+41    h 11 12 1 1 37    column
+41    v 12 14 0 1 37    column
+12 0
+[[ 0.  1.  0.]]
+41    45    S
+[0    ]
+45    h 12 13 1 1 41    column
+45    v 13 14 0 1 41    column
+13 0
+[[ 0.  1.  0.]]
+45    49    S
+[0    ]
+49    h 13 14 1 1 45    column
+49    v 14 14 0 1 45    column
+0     h 0 2 1 4 None row
+[[ 0.  0.  1.]]
+0     1     U
+1     v 1 2 1 4 0     row
+1 1
+[[ 1.  0.  0.]]
+1     2     L
+2     h 1 2 2 4 1     row
+[[ 0.  1.  0.]]
+2     3     S
+[1    ]
+3     v 2 2 2 3 2     row
+3     h 1 2 3 4 2     row
+[[ 0.  1.  0.]]
+3     4     S
+[1    ]
+4     v 2 2 3 4 3     row
+4     h 1 2 4 4 3     row
+2     v 2 2 1 2 1     row
+1 2
+1 3
+1     h 0 1 4 4 0     row
+2015-06-24 16:08:59,714 Parsing ../data/eu/eu-026-str.xml
+2015-06-24 16:08:59,727 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-026_function.txt
+2015-06-24 16:08:59,728 Parsing ../data/eu/eu-026-str.xml
+2015-06-24 16:08:59,739 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-026_function.txt
+2015-06-24 16:08:59,739 READING STRUCTURAL TAGGING FROM../data/eu_structure/eu-026_structure.txt
+{'_Cell__cellID': -1,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': '',
+ '_Cell__function': 'E',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 1,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 0,
+ '_Cell__x2': 0,
+ '_Cell__y1': 0,
+ '_Cell__y2': 0}
+      v 1 5 0 1 None column
+1 0
+4     h 1 2 1 1       column
+4     v 2 5 0 1       column
+2 0
+[[ 0.  1.  0.]]
+4     9     S
+[None]
+9     h 2 3 1 1 4     column
+9     v 3 5 0 1 4     column
+3 0
+[[ 0.  1.  0.]]
+9     14    S
+[None]
+14    h 3 4 1 1 9     column
+14    v 4 5 0 1 9     column
+4 0
+[[ 0.  1.  0.]]
+14    19    S
+[None]
+19    h 4 5 1 1 14    column
+19    v 5 5 0 1 14    column
+      h 0 1 1 5 None row
+0     v 1 1 1 2       row
+0     h 0 1 2 5       row
+[[ 0.  1.  0.]]
+0     1     S
+[None]
+1     v 1 1 2 3 0     row
+1     h 0 1 3 5 0     row
+[[ 0.  1.  0.]]
+1     2     S
+[None]
+2     v 1 1 3 4 1     row
+2     h 0 1 4 5 1     row
+[[ 0.  1.  0.]]
+2     3     S
+[None]
+3     v 1 1 4 5 2     row
+3     h 0 1 5 5 2     row
+{'_Cell__cellID': 0,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': 'no. of correct answers',
+ '_Cell__function': 'S',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 1,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 82,
+ '_Cell__x2': 178,
+ '_Cell__y1': 625,
+ '_Cell__y2': 635}
+0     v 1 5 0 1 None column
+1 0
+[[ 1.  0.  0.]]
+0     4     L
+4     h 1 2 1 1 0     column
+4     v 2 5 0 1 0     column
+2 0
+[[ 0.  1.  0.]]
+4     8     S
+[0    ]
+8     h 2 3 1 1 4     column
+8     v 3 5 0 1 4     column
+3 0
+[[ 0.  1.  0.]]
+8     12    S
+[0    ]
+12    h 3 4 1 1 8     column
+12    v 4 5 0 1 8     column
+4 0
+[[ 0.  1.  0.]]
+12    16    S
+[0    ]
+16    h 4 5 1 1 12    column
+16    v 5 5 0 1 12    column
+0     h 0 1 1 4 None row
+[[ 0.  0.  1.]]
+0     1     U
+1     v 1 1 1 2 0     row
+1     h 0 1 2 4 0     row
+[[ 0.  1.  0.]]
+1     2     S
+[None]
+2     v 1 1 2 3 1     row
+2     h 0 1 3 4 1     row
+[[ 0.  1.  0.]]
+2     3     S
+[None]
+3     v 1 1 3 4 2     row
+3     h 0 1 4 4 2     row
+{'_Cell__cellID': 0,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': 'no. of correct answers',
+ '_Cell__function': 'S',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 1,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 80,
+ '_Cell__x2': 176,
+ '_Cell__y1': 570,
+ '_Cell__y2': 580}
+0     v 1 5 0 1 None column
+1 0
+[[ 1.  0.  0.]]
+0     4     L
+4     h 1 2 1 1 0     column
+4     v 2 5 0 1 0     column
+2 0
+[[ 0.  1.  0.]]
+4     8     S
+[0    ]
+8     h 2 3 1 1 4     column
+8     v 3 5 0 1 4     column
+3 0
+[[ 0.  1.  0.]]
+8     12    S
+[0    ]
+12    h 3 4 1 1 8     column
+12    v 4 5 0 1 8     column
+4 0
+[[ 0.  1.  0.]]
+12    16    S
+[0    ]
+16    h 4 5 1 1 12    column
+16    v 5 5 0 1 12    column
+0     h 0 1 1 4 None row
+[[ 0.  0.  1.]]
+0     1     U
+1     v 1 1 1 2 0     row
+1     h 0 1 2 4 0     row
+[[ 0.  1.  0.]]
+1     2     S
+[None]
+2     v 1 1 2 3 1     row
+2     h 0 1 3 4 1     row
+[[ 0.  1.  0.]]
+2     3     S
+[None]
+3     v 1 1 3 4 2     row
+3     h 0 1 4 4 2     row
+2015-06-24 16:08:59,764 Parsing ../data/eu/eu-027-str.xml
+2015-06-24 16:08:59,787 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-027_function.txt
+2015-06-24 16:08:59,787 Parsing ../data/eu/eu-027-str.xml
+2015-06-24 16:08:59,809 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-027_function.txt
+2015-06-24 16:08:59,810 READING STRUCTURAL TAGGING FROM../data/eu_structure/eu-027_structure.txt
+{'_Cell__cellID': 0,
+ '_Cell__childrenList': [],
+ '_Cell__colSpan': 1,
+ '_Cell__content': 'Variable',
+ '_Cell__function': 'S',
+ '_Cell__parentList': [None],
+ '_Cell__rowSpan': 1,
+ '_Cell__startCol': 0,
+ '_Cell__startRow': 0,
+ '_Cell__stubCol': 0,
+ '_Cell__stubRow': 0,
+ '_Cell__x1': 82,
+ '_Cell__x2': 118,
+ '_Cell__y1': 677,
+ '_Cell__y2': 687}
+0     v 1 28 0 1 None column
+1 0
+[[ 1.  0.  0.]]
+0     5     L
+5     h 1 2 1 1 0     column
+5     v 2 28 0 1 0     column
+2 0
+[[ 0.  1.  0.]]
+5     10    S
+[0    ]
+10    h 2 3 1 1 5     column
+10    v 3 28 0 1 5     column
+3 0
+[[ 0.  1.  0.]]
+10    15    S
+[0    ]
+15    h 3 4 1 1 10    column
+15    v 4 28 0 1 10    column
+4 0
+[[ 0.  1.  0.]]
+15    20    S
+[0    ]
+20    h 4 5 1 1 15    column
+20    v 5 28 0 1 15    column
+5 0
+[[ 0.  1.  0.]]
+20    25    S
+[0    ]
+25    h 5 6 1 1 20    column
+25    v 6 28 0 1 20    column
+6 0
+[[ 0.  1.  0.]]
+25    30    S
+[0    ]
+30    h 6 7 1 1 25    column
+30    v 7 28 0 1 25    column
+7 0
+[[ 0.  1.  0.]]
+30    35    S
+[0    ]
+35    h 7 8 1 1 30    column
+35    v 8 28 0 1 30    column
+8 0
+[[ 0.  1.  0.]]
+35    40    S
+[0    ]
+40    h 8 9 1 1 35    column
+40    v 9 28 0 1 35    column
+9 0
+[[ 0.  1.  0.]]
+40    45    S
+[0    ]
+45    h 9 10 1 1 40    column
+45    v 10 28 0 1 40    column
+10 0
+[[ 0.  1.  0.]]
+45    50    S
+[0    ]
+50    h 10 11 1 1 45    column
+50    v 11 28 0 1 45    column
+11 0
+[[ 0.  1.  0.]]
+50    55    S
+[0    ]
+55    h 11 12 1 1 50    column
+55    v 12 28 0 1 50    column
+12 0
+[[ 0.  1.  0.]]
+55    60    S
+[0    ]
+60    h 12 13 1 1 55    column
+60    v 13 28 0 1 55    column
+13 0
+[[ 0.  1.  0.]]
+60    65    S
+[0    ]
+65    h 13 14 1 1 60    column
+65    v 14 28 0 1 60    column
+14 0
+[[ 0.  1.  0.]]
+65    70    S
+[0    ]
+70    h 14 15 1 1 65    column
+70    v 15 28 0 1 65    column
+15 0
+[[ 0.  1.  0.]]
+70    75    S
+[0    ]
+75    h 15 16 1 1 70    column
+75    v 16 28 0 1 70    column
+16 0
+[[ 0.  1.  0.]]
+75    80    S
+[0    ]
+80    h 16 17 1 1 75    column
+80    v 17 28 0 1 75    column
+17 0
+[[ 0.  1.  0.]]
+80    85    S
+[0    ]
+85    h 17 18 1 1 80    column
+85    v 18 28 0 1 80    column
+18 0
+[[ 0.  1.  0.]]
+85    90    S
+[0    ]
+90    h 18 19 1 1 85    column
+90    v 19 28 0 1 85    column
+19 0
+[[ 0.  1.  0.]]
+90    95    S
+[0    ]
+95    h 19 20 1 1 90    column
+95    v 20 28 0 1 90    column
+20 0
+[[ 0.  1.  0.]]
+95    100   S
+[0    ]
+100   h 20 21 1 1 95    column
+100   v 21 28 0 1 95    column
+21 0
+[[ 0.  1.  0.]]
+100   105   S
+[0    ]
+105   h 21 22 1 1 100   column
+105   v 22 28 0 1 100   column
+22 0
+[[ 0.  1.  0.]]
+105   110   S
+[0    ]
+110   h 22 23 1 1 105   column
+110   v 23 28 0 1 105   column
+23 0
+[[ 0.  1.  0.]]
+110   115   S
+[0    ]
+115   h 23 24 1 1 110   column
+115   v 24 28 0 1 110   column
+24 0
+[[ 0.  1.  0.]]
+115   120   S
+[0    ]
+120   h 24 25 1 1 115   column
+120   v 25 28 0 1 115   column
+25 0
+[[ 0.  1.  0.]]
+120   125   S
+[0    ]
+125   h 25 26 1 1 120   column
+125   v 26 28 0 1 120   column
+26 0
+[[ 0.  1.  0.]]
+125   130   S
+[0    ]
+130   h 26 27 1 1 125   column
+130   v 27 28 0 1 125   column
+27 0
+[[ 0.  1.  0.]]
+130   135   S
+[0    ]
+135   h 27 28 1 1 130   column
+135   v 28 28 0 1 130   column
+0     h 0 1 1 5 None row
+[[ 0.  0.  1.]]
+0     1     U
+1     v 1 1 1 2 0     row
+1     h 0 1 2 5 0     row
+[[ 0.  1.  0.]]
+1     2     S
+[None]
+2     v 1 1 2 3 1     row
+2     h 0 1 3 5 1     row
+[[ 0.  1.  0.]]
+2     3     S
+[None]
+3     v 1 1 3 4 2     row
+3     h 0 1 4 5 2     row
+[[ 0.  1.  0.]]
+3     4     S
+[None]
+4     v 1 1 4 5 3     row
+4     h 0 1 5 5 3     row
+0.8205736690053652

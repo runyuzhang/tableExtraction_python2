@@ -81,6 +81,10 @@ def parse(fileIndex, dataset = 'us', cell_char_limit = 5, readFunction = True, r
 			stubCell.function = grid.Cell.STUB_CELL
 
 			id_grid_map[i].stubCell = stubCell
+
+			id_grid_map[i].stubRow = stubCornerRow
+			id_grid_map[i].stubCol = stubCornerCol
+
 			columnHeaders = functionalFilePtr.readline().strip().split()[1:]
 			for column in columnHeaders:
 				column = int(column)

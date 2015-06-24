@@ -16,6 +16,7 @@ import pickle
 import random
 from sklearn import tree
 import json
+from pprint import pprint
 
 parser = optparse.OptionParser()
 parser.add_option('-p', '--display', action='store_true', help='display the tables as they are parsed')
@@ -47,7 +48,7 @@ file_grids_map = {}
 counter = 0
 #read training files
 
-x = {"L" : [], "R" : [], "S" : [], "U" : []}
+x = {"L" : [],  "S" : [], "U" : []}
 X = []
 Y = []
 
@@ -55,9 +56,9 @@ def upsample(x, y):
 	assert len(x) == len(y), "there should be as many feature vectors as labels"
 	import collections, math
 	counter = collections.Counter(y)
-	mostFrequentLabel = max(counter)
+	mostFrequentLabel = max(counter, key = lambda x: counter[x])
 	multipliers = {key: math.floor(counter[mostFrequentLabel] / counter[key]) for key in counter.keys()}
-	# print(multipliers)
+	print(multipliers)
 
 	X = []
 	Y = []
@@ -85,7 +86,10 @@ if options.gen:
 		id_grid_map = parse(fileIndex, dataset = options.dataset, display = options.display)
 		file_grids_map[options.dataset + "-" + fileIndex + "-str.xml"] = id_grid_map
 
-		#generate non-header cell pairs with tags
+		#generate non-header cell pairs that satisfy one of the following conditions:
+		#- sharing a boundary
+		#- parent-child
+		#- siblings
 		if options.all:
 			tableIDs = id_grid_map.keys()
 		else:
@@ -96,6 +100,7 @@ if options.gen:
 			featureVectorGenerator = FeatureVectorGenerator(tableGrid)
 			
 			idCellMap = tableGrid.idCellMap
+
 			for c1_id in range(len(idCellMap.keys())):
 				for c2_id in range(c1_id+1, len(idCellMap.keys())):
 					c1 = tableGrid.getCellByCellID(c1_id)
@@ -103,24 +108,40 @@ if options.gen:
 
 					if (not c1.isData()) and (not c2.isData()):
 
+						# if c1.isStub():
+						# 	# pprint(vars(c1))
+						# 	# print("WTF")
+
 						featureVector = featureVectorGenerator.generateFeatureVector(c1, c2)
 
 						featureVectorMap = featureVectorGenerator.generateFeatureVectorMap(c1, c2)
 
-						if options.appendSource:
-							featureVector.append(c1_id)
-							featureVector.append(c2_id)
-							featureVector.append(fileIndex)
-							featureVector.append(tableID)
-
-
 						label = tableGrid.classify(c1, c2)
 
-						if not options.all:
-							print(c1.cellID, c2.cellID, "\n", json.dumps(featureVectorMap, indent = 4, sort_keys = True), label)
+						if label == "R":
+							label = "L"
+							featureVector = featureVectorGenerator.generateFeatureVector(c2, c1)
+							featureVectorMap = featureVectorGenerator.generateFeatureVectorMap(c2, c1)
+							c1,c2 = c2,c1
 
-						X += [featureVector]
-						Y += [label]
+
+						if tableGrid.touching(c1, c2) or label == "S" or label == "L":
+							if not options.all:
+								print(c1.cellID, c2.cellID, "\n", json.dumps(featureVectorMap, indent = 4, sort_keys = True), label)
+							X += [featureVector]
+							Y += [label]	
+
+						# if options.appendSource:
+						# 	featureVector.append(c1_id)
+						# 	featureVector.append(c2_id)
+						# 	featureVector.append(fileIndex)
+						# 	featureVector.append(tableID)
+
+
+						# label = tableGrid.classify(c1, c2)
+
+						# if not options.all:
+						# 	print(c1.cellID, c2.cellID, "\n", json.dumps(featureVectorMap, indent = 4, sort_keys = True), label)
 
 	if options.upsample:
 		X, Y = upsample(X,Y)
@@ -141,7 +162,7 @@ if options.quit:
 	quit()
 
 
-# quit()
+
 # X = pickle.load(open("us_featureVectors.dat", "rb"))
 # Y = pickle.load(open("us_labels.dat", "rb"))
 # C_range = np.logspace(-3, 9, 13)
@@ -166,8 +187,10 @@ os.chdir("../data/storage")
 if options.method == "svm":
 	# gammaVal = 0.001
 	# CVal = 10000
+	# gammaVal = 10
+	# CVal = 10
 	gammaVal = 10
-	CVal = 10
+	CVal = 10000
 	clf = svm.SVC(gamma=gammaVal, C=CVal, probability = True)
 	clf.fit(X,Y)
 	joblib.dump(clf, options.method + "_" + str(gammaVal) + "_" + str(CVal) + "_" + options.dataset + ".pkl")

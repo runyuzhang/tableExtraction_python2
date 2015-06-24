@@ -261,12 +261,23 @@ def indentation(c1, c2, g):
 	if sameColumn(c1, c2, g) != 1:
 		return [0,0,0,1]
 	else:
+		if c1.content.lower() == "total" or c2.content.lower() == "total":
+			return [0,0,1,0]
+
 		if c1.x1 < c2.x1:
 			return [1,0,0,0]
 		elif c1.x1 > c2.x1:
 			return [0,1,0,0]
 		else:
 			return [0,0,1,0]
+
+"""
+return 1 if two cells have the same dimension, 0 otherwise
+"""
+def sameDimension(c1, c2, g):
+	if c1.colSpan == c2.colSpan and c1.rowSpan == c2.rowSpan:
+		return 1
+	return 0
 
 def contextualStructure(c1, c2, g):
 	def helper(c1, c2, g):
