@@ -1,6 +1,6 @@
-2015-06-24 16:04:13,115 Parsing ../data/eu/eu-001-str.xml
-2015-06-24 16:04:13,226 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-001_function.txt
-2015-06-24 16:04:13,227 READING STRUCTURAL TAGGING FROM../data/eu_structure/eu-001_structure.txt
+2015-06-24 21:18:46,638 Parsing ../data/eu/eu-001-str.xml
+2015-06-24 21:18:46,734 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-001_function.txt
+2015-06-24 21:18:46,736 READING STRUCTURAL TAGGING FROM../data/eu_structure/eu-001_structure.txt
 0 1 
  {
     "aboveEmptyRow": 0,
@@ -23,7 +23,6 @@
         0,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 0,
@@ -54,7 +53,6 @@
         0,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 0,
@@ -85,7 +83,6 @@
         0,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 0,
@@ -116,7 +113,6 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": -1,
     "relativeVerticalPosition": 1,
     "sameColumn": 0,
@@ -147,7 +143,6 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": -1,
     "relativeVerticalPosition": 1,
     "sameColumn": 0,
@@ -178,7 +173,6 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": -1,
     "relativeVerticalPosition": 1,
     "sameColumn": 0,
@@ -209,7 +203,6 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": -1,
     "relativeVerticalPosition": 1,
     "sameColumn": 0,
@@ -240,7 +233,6 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": -1,
     "relativeVerticalPosition": 1,
     "sameColumn": 0,
@@ -271,7 +263,6 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": -1,
     "relativeVerticalPosition": 1,
     "sameColumn": 0,
@@ -302,7 +293,6 @@
         0,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 1,
     "relativeVerticalPosition": 0,
     "sameColumn": 0,
@@ -333,7 +323,6 @@
         0,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 1,
     "relativeVerticalPosition": 0,
     "sameColumn": 0,
@@ -364,7 +353,6 @@
         0,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 1,
     "relativeVerticalPosition": 0,
     "sameColumn": 0,
@@ -395,7 +383,6 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
@@ -426,7 +413,6 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
@@ -457,7 +443,6 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
@@ -488,7 +473,6 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
@@ -519,7 +503,6 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
@@ -550,7 +533,6 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
@@ -581,7 +563,6 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
@@ -612,7 +593,6 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
@@ -643,7 +623,6 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
@@ -674,7 +653,6 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
@@ -705,7 +683,6 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
@@ -736,7 +713,6 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
@@ -767,7 +743,6 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
@@ -798,7 +773,6 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
@@ -829,7 +803,6 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
@@ -838,4 +811,3 @@
     "spannedBySameCell": 1,
     "verticallySpanned": 1
 } S
-{'L': 8, 'S': 1}

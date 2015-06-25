@@ -17,6 +17,9 @@ import random
 from sklearn import tree
 import json
 from pprint import pprint
+import numpy as np
+import matplotlib.pyplot as plt
+from matplotlib.colors import Normalize
 
 parser = optparse.OptionParser()
 parser.add_option('-p', '--display', action='store_true', help='display the tables as they are parsed')
@@ -116,6 +119,7 @@ if options.gen:
 
 						featureVectorMap = featureVectorGenerator.generateFeatureVectorMap(c1, c2)
 
+
 						label = tableGrid.classify(c1, c2)
 
 						if label == "R":
@@ -165,15 +169,16 @@ if options.quit:
 
 # X = pickle.load(open("us_featureVectors.dat", "rb"))
 # Y = pickle.load(open("us_labels.dat", "rb"))
-# C_range = np.logspace(-3, 9, 13)
-# gamma_range = np.logspace(-5, 1, 7)
+# C_range = np.logspace(-3, 3, 7)
+# gamma_range = np.logspace(-3, 3, 7)
 # param_grid = dict(gamma=gamma_range, C=C_range)
-# cv = StratifiedShuffleSplit(Y, n_iter=1, test_size=0.2)
+# cv = StratifiedShuffleSplit(Y, n_iter=3, test_size=0.2)
 # grid = GridSearchCV(SVC(), param_grid=param_grid, cv=cv, verbose = 3)
 # grid.fit(X, Y)
 
 # print("The best parameters are %s with a score of %0.2f"
 #       % (grid.best_params_, grid.best_score_))
+
 
 # quit()
 
@@ -189,8 +194,8 @@ if options.method == "svm":
 	# CVal = 10000
 	# gammaVal = 10
 	# CVal = 10
-	gammaVal = 10
-	CVal = 10000
+	gammaVal = 1
+	CVal = 100
 	clf = svm.SVC(gamma=gammaVal, C=CVal, probability = True)
 	clf.fit(X,Y)
 	joblib.dump(clf, options.method + "_" + str(gammaVal) + "_" + str(CVal) + "_" + options.dataset + ".pkl")

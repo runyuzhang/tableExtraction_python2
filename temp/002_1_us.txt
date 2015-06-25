@@ -1,12 +1,41 @@
-2015-06-23 18:49:55,878 Parsing ../data/us/us-002-str.xml
-2015-06-23 18:49:55,999 READING FUNCTIONAL TAGGING FROM../data/us_function/us-002_function.txt
-2015-06-23 18:49:56,008 READING STRUCTURAL TAGGING FROM../data/us_structure/us-002_structure.txt
+2015-06-24 21:58:11,899 Parsing ../data/us/us-002-str.xml
+2015-06-24 21:58:12,003 READING FUNCTIONAL TAGGING FROM../data/us_function/us-002_function.txt
+2015-06-24 21:58:12,004 READING STRUCTURAL TAGGING FROM../data/us_structure/us-002_structure.txt
+0 1 
+ {
+    "aboveEmptyRow": 0,
+    "belowEmptyRow": 0,
+    "contentSimilarityCaseIn": 0.07407407407407407,
+    "horizontallySpanned": 0,
+    "indentation": [
+        0,
+        0,
+        0,
+        1
+    ],
+    "injectFunctions": [
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+    ],
+    "relativeHorizontalPosition": -1,
+    "relativeVerticalPosition": 0,
+    "sameColumn": 0,
+    "sameDimension": 0,
+    "sameRow": 0,
+    "spannedBySameCell": 0,
+    "verticallySpanned": 0
+} S
 0 2 
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.6285714285714286,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.6060606060606061,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -24,10 +53,10 @@
         0,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": -1,
     "relativeVerticalPosition": 0,
     "sameColumn": 0,
+    "sameDimension": 0,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -36,8 +65,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.41379310344827586,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.37037037037037035,
     "horizontallySpanned": -1,
     "indentation": [
         0,
@@ -55,10 +83,10 @@
         0,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": -1,
     "relativeVerticalPosition": 0,
     "sameColumn": 0,
+    "sameDimension": 0,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -67,8 +95,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.1875,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.0,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -86,10 +113,10 @@
         0,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 0,
+    "sameDimension": 0,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 1
@@ -98,8 +125,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.06666666666666667,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.0,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -117,10 +143,10 @@
         0,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 0,
+    "sameDimension": 0,
     "sameRow": 0,
     "spannedBySameCell": 0,
     "verticallySpanned": 1
@@ -129,8 +155,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.06666666666666667,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.0,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -148,10 +173,10 @@
         0,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 0,
+    "sameDimension": 0,
     "sameRow": 0,
     "spannedBySameCell": 0,
     "verticallySpanned": 1
@@ -160,8 +185,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.06666666666666667,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.0,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -179,10 +203,10 @@
         0,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 0,
+    "sameDimension": 0,
     "sameRow": 0,
     "spannedBySameCell": 0,
     "verticallySpanned": 1
@@ -191,8 +215,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.26666666666666666,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.14285714285714285,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -210,10 +233,10 @@
         0,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 0,
+    "sameDimension": 0,
     "sameRow": 0,
     "spannedBySameCell": 0,
     "verticallySpanned": 1
@@ -222,8 +245,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.16393442622950818,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.13559322033898305,
     "horizontallySpanned": 1,
     "indentation": [
         0,
@@ -241,25 +263,54 @@
         0,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 1,
     "relativeVerticalPosition": 0,
     "sameColumn": 0,
+    "sameDimension": 1,
     "sameRow": 1,
     "spannedBySameCell": 0,
     "verticallySpanned": 0
-} U
+} S
+1 3 
+ {
+    "aboveEmptyRow": 0,
+    "belowEmptyRow": 0,
+    "contentSimilarityCaseIn": 0.1509433962264151,
+    "horizontallySpanned": 0,
+    "indentation": [
+        0,
+        0,
+        0,
+        1
+    ],
+    "injectFunctions": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+    ],
+    "relativeHorizontalPosition": 1,
+    "relativeVerticalPosition": 0,
+    "sameColumn": 0,
+    "sameDimension": 1,
+    "sameRow": 1,
+    "spannedBySameCell": 0,
+    "verticallySpanned": 0
+} S
 1 9 
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.17391304347826086,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.045454545454545456,
     "horizontallySpanned": 0,
     "indentation": [
+        0,
+        0,
         1,
-        0,
-        0,
         0
     ],
     "injectFunctions": [
@@ -272,20 +323,19 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 0,
     "sameRow": 0,
     "spannedBySameCell": 0,
     "verticallySpanned": 1
 } L
 1 17 
  {
-    "aboveEmptyRow": 1,
+    "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.47368421052631576,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.5135135135135135,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -303,10 +353,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 0,
     "sameRow": 0,
     "spannedBySameCell": 0,
     "verticallySpanned": 0
@@ -315,8 +365,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.14814814814814814,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.07692307692307693,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -334,10 +383,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 0,
     "sameRow": 0,
     "spannedBySameCell": 0,
     "verticallySpanned": 0
@@ -346,8 +395,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.19047619047619047,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.32786885245901637,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -365,10 +413,10 @@
         1,
         0
     ],
-    "recurringCell": -1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 0,
     "sameRow": 0,
     "spannedBySameCell": 0,
     "verticallySpanned": 0
@@ -377,8 +425,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.2033898305084746,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.3157894736842105,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -396,10 +443,10 @@
         1,
         0
     ],
-    "recurringCell": -1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 0,
     "sameRow": 0,
     "spannedBySameCell": 0,
     "verticallySpanned": 0
@@ -408,8 +455,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.2,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.14705882352941177,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -427,10 +473,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 0,
     "sameRow": 0,
     "spannedBySameCell": 0,
     "verticallySpanned": 0
@@ -439,8 +485,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.19047619047619047,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.32786885245901637,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -458,10 +503,10 @@
         1,
         0
     ],
-    "recurringCell": -1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 0,
     "sameRow": 0,
     "spannedBySameCell": 0,
     "verticallySpanned": 0
@@ -470,8 +515,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.2033898305084746,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.3157894736842105,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -489,10 +533,10 @@
         1,
         0
     ],
-    "recurringCell": -1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 0,
     "sameRow": 0,
     "spannedBySameCell": 0,
     "verticallySpanned": 0
@@ -501,8 +545,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.17391304347826086,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.045454545454545456,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -520,20 +563,19 @@
         1,
         0
     ],
-    "recurringCell": -1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 0,
     "sameRow": 0,
     "spannedBySameCell": 0,
     "verticallySpanned": 0
 } L
 1 74 
  {
-    "aboveEmptyRow": 1,
+    "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.26666666666666666,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.1724137931034483,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -551,10 +593,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 0,
     "sameRow": 0,
     "spannedBySameCell": 0,
     "verticallySpanned": 0
@@ -563,8 +605,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.3125,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.25806451612903225,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -582,10 +623,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 0,
     "sameRow": 0,
     "spannedBySameCell": 0,
     "verticallySpanned": 0
@@ -594,8 +635,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.24,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.20833333333333334,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -613,10 +653,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 0,
     "sameRow": 0,
     "spannedBySameCell": 0,
     "verticallySpanned": 0
@@ -625,8 +665,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.2857142857142857,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.24,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -644,10 +683,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 0,
     "sameRow": 0,
     "spannedBySameCell": 0,
     "verticallySpanned": 0
@@ -656,8 +695,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.4,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.23529411764705882,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -675,10 +713,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 0,
     "sameRow": 0,
     "spannedBySameCell": 0,
     "verticallySpanned": 0
@@ -687,8 +725,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.17391304347826086,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.045454545454545456,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -706,20 +743,19 @@
         1,
         0
     ],
-    "recurringCell": -1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 0,
     "sameRow": 0,
     "spannedBySameCell": 0,
     "verticallySpanned": 0
 } L
 1 115 
  {
-    "aboveEmptyRow": 1,
+    "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.2777777777777778,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.22857142857142856,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -737,10 +773,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 0,
     "sameRow": 0,
     "spannedBySameCell": 0,
     "verticallySpanned": 0
@@ -749,8 +785,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.2545454545454545,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.07547169811320754,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -768,10 +803,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 0,
     "sameRow": 0,
     "spannedBySameCell": 0,
     "verticallySpanned": 0
@@ -780,8 +815,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.17543859649122806,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.07272727272727272,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -799,10 +833,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 0,
     "sameRow": 0,
     "spannedBySameCell": 0,
     "verticallySpanned": 0
@@ -812,7 +846,6 @@
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
     "contentSimilarityCaseIn": 0.0,
-    "emptyStubCell": 0,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -830,10 +863,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 0,
     "sameRow": 0,
     "spannedBySameCell": 0,
     "verticallySpanned": 0
@@ -843,7 +876,6 @@
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
     "contentSimilarityCaseIn": 0.0,
-    "emptyStubCell": 0,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -861,10 +893,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 0,
     "sameRow": 0,
     "spannedBySameCell": 0,
     "verticallySpanned": 0
@@ -873,8 +905,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.03571428571428571,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.0,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -892,20 +923,19 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 0,
     "sameRow": 0,
     "spannedBySameCell": 0,
     "verticallySpanned": 0
 } L
 1 156 
  {
-    "aboveEmptyRow": 1,
+    "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.24175824175824176,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.2696629213483146,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -923,10 +953,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 0,
     "sameRow": 0,
     "spannedBySameCell": 0,
     "verticallySpanned": 0
@@ -935,8 +965,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.17857142857142858,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.2222222222222222,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -954,10 +983,10 @@
         1,
         0
     ],
-    "recurringCell": -1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 0,
     "sameRow": 0,
     "spannedBySameCell": 0,
     "verticallySpanned": 0
@@ -966,8 +995,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.25,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.18518518518518517,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -985,10 +1013,10 @@
         1,
         0
     ],
-    "recurringCell": -1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 0,
     "sameRow": 0,
     "spannedBySameCell": 0,
     "verticallySpanned": 0
@@ -997,8 +1025,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.36363636363636365,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.28125,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -1016,20 +1043,19 @@
         1,
         0
     ],
-    "recurringCell": -1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 0,
     "sameRow": 0,
     "spannedBySameCell": 0,
     "verticallySpanned": 0
 } L
 1 181 
  {
-    "aboveEmptyRow": 1,
+    "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.22857142857142856,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.20588235294117646,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -1047,10 +1073,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 0,
     "sameRow": 0,
     "spannedBySameCell": 0,
     "verticallySpanned": 0
@@ -1059,8 +1085,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.1724137931034483,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.10714285714285714,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -1078,10 +1103,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 0,
     "sameRow": 0,
     "spannedBySameCell": 0,
     "verticallySpanned": 0
@@ -1090,8 +1115,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.17857142857142858,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.2222222222222222,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -1109,10 +1133,10 @@
         1,
         0
     ],
-    "recurringCell": -1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 0,
     "sameRow": 0,
     "spannedBySameCell": 0,
     "verticallySpanned": 0
@@ -1121,8 +1145,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.25,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.18518518518518517,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -1140,10 +1163,10 @@
         1,
         0
     ],
-    "recurringCell": -1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 0,
     "sameRow": 0,
     "spannedBySameCell": 0,
     "verticallySpanned": 0
@@ -1152,8 +1175,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.36363636363636365,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.28125,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -1171,10 +1193,10 @@
         1,
         0
     ],
-    "recurringCell": -1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 0,
     "sameRow": 0,
     "spannedBySameCell": 0,
     "verticallySpanned": 0
@@ -1183,8 +1205,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.29411764705882354,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.125,
     "horizontallySpanned": 1,
     "indentation": [
         0,
@@ -1202,10 +1223,10 @@
         0,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 1,
     "relativeVerticalPosition": 0,
     "sameColumn": 0,
+    "sameDimension": 1,
     "sameRow": 1,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -1214,8 +1235,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.12903225806451613,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.0,
     "horizontallySpanned": 1,
     "indentation": [
         0,
@@ -1233,10 +1253,10 @@
         0,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 1,
     "relativeVerticalPosition": 0,
     "sameColumn": 0,
+    "sameDimension": 0,
     "sameRow": 0,
     "spannedBySameCell": 0,
     "verticallySpanned": 0
@@ -1245,8 +1265,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.4375,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.4,
     "horizontallySpanned": 1,
     "indentation": [
         0,
@@ -1264,10 +1283,10 @@
         0,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 1,
     "relativeVerticalPosition": 0,
     "sameColumn": 0,
+    "sameDimension": 1,
     "sameRow": 1,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -1276,8 +1295,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.375,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.26666666666666666,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -1295,10 +1313,10 @@
         0,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 1,
     "relativeVerticalPosition": 0,
     "sameColumn": 0,
+    "sameDimension": 1,
     "sameRow": 1,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -1307,8 +1325,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.375,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.26666666666666666,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -1326,10 +1343,10 @@
         0,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 1,
     "relativeVerticalPosition": 0,
     "sameColumn": 0,
+    "sameDimension": 1,
     "sameRow": 1,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -1338,8 +1355,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.3125,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.2,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -1357,10 +1373,10 @@
         0,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 1,
     "relativeVerticalPosition": 0,
     "sameColumn": 0,
+    "sameDimension": 1,
     "sameRow": 1,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -1369,8 +1385,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.8,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.6428571428571429,
     "horizontallySpanned": 1,
     "indentation": [
         0,
@@ -1388,10 +1403,10 @@
         0,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 1,
     "relativeVerticalPosition": 0,
     "sameColumn": 0,
+    "sameDimension": 1,
     "sameRow": 1,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -1400,8 +1415,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.8666666666666667,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.7142857142857143,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -1419,10 +1433,10 @@
         0,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 1,
     "relativeVerticalPosition": 0,
     "sameColumn": 0,
+    "sameDimension": 1,
     "sameRow": 1,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -1431,8 +1445,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.4,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.21428571428571427,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -1450,10 +1463,10 @@
         0,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 1,
     "relativeVerticalPosition": 0,
     "sameColumn": 0,
+    "sameDimension": 1,
     "sameRow": 1,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -1462,8 +1475,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.7333333333333333,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.5714285714285714,
     "horizontallySpanned": 1,
     "indentation": [
         0,
@@ -1481,10 +1493,10 @@
         0,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 1,
     "relativeVerticalPosition": 0,
     "sameColumn": 0,
+    "sameDimension": 1,
     "sameRow": 1,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -1493,8 +1505,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.4666666666666667,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.2857142857142857,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -1512,10 +1523,10 @@
         0,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 1,
     "relativeVerticalPosition": 0,
     "sameColumn": 0,
+    "sameDimension": 1,
     "sameRow": 1,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -1524,8 +1535,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.4,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.21428571428571427,
     "horizontallySpanned": 1,
     "indentation": [
         0,
@@ -1543,10 +1553,10 @@
         0,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 1,
     "relativeVerticalPosition": 0,
     "sameColumn": 0,
+    "sameDimension": 1,
     "sameRow": 1,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -1555,13 +1565,12 @@
  {
     "aboveEmptyRow": 1,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.15,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.0,
     "horizontallySpanned": 0,
     "indentation": [
         0,
-        1,
         0,
+        1,
         0
     ],
     "injectFunctions": [
@@ -1574,10 +1583,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 1
@@ -1586,13 +1595,12 @@
  {
     "aboveEmptyRow": 1,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.16666666666666666,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.0,
     "horizontallySpanned": 0,
     "indentation": [
         0,
-        1,
         0,
+        1,
         0
     ],
     "injectFunctions": [
@@ -1605,10 +1613,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -1617,13 +1625,12 @@
  {
     "aboveEmptyRow": 1,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.16666666666666666,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.0,
     "horizontallySpanned": 0,
     "indentation": [
         0,
-        1,
         0,
+        1,
         0
     ],
     "injectFunctions": [
@@ -1636,10 +1643,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -1648,13 +1655,12 @@
  {
     "aboveEmptyRow": 1,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.18181818181818182,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.0,
     "horizontallySpanned": 0,
     "indentation": [
         0,
-        1,
         0,
+        1,
         0
     ],
     "injectFunctions": [
@@ -1667,10 +1673,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -1679,13 +1685,12 @@
  {
     "aboveEmptyRow": 1,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.11764705882352941,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.0,
     "horizontallySpanned": 0,
     "indentation": [
         0,
-        1,
         0,
+        1,
         0
     ],
     "injectFunctions": [
@@ -1698,10 +1703,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -1710,8 +1715,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 1,
-    "contentSimilarityCaseIn": 0.125,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.0,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -1729,10 +1733,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 1
@@ -1741,8 +1745,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 1,
-    "contentSimilarityCaseIn": 0.45614035087719296,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.509090909090909,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -1760,10 +1763,10 @@
         1,
         0
     ],
-    "recurringCell": -1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -1772,8 +1775,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 1,
-    "contentSimilarityCaseIn": 0.49056603773584906,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.5098039215686274,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -1791,10 +1793,10 @@
         1,
         0
     ],
-    "recurringCell": -1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -1803,8 +1805,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 1,
-    "contentSimilarityCaseIn": 0.21875,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.0967741935483871,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -1822,10 +1823,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -1834,8 +1835,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 1,
-    "contentSimilarityCaseIn": 0.45614035087719296,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.509090909090909,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -1853,10 +1853,10 @@
         1,
         0
     ],
-    "recurringCell": -1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -1865,8 +1865,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 1,
-    "contentSimilarityCaseIn": 0.49056603773584906,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.5098039215686274,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -1884,10 +1883,10 @@
         1,
         0
     ],
-    "recurringCell": -1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -1896,8 +1895,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 1,
-    "contentSimilarityCaseIn": 0.15,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.0,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -1915,10 +1913,10 @@
         1,
         0
     ],
-    "recurringCell": -1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -1927,8 +1925,7 @@
  {
     "aboveEmptyRow": 1,
     "belowEmptyRow": 1,
-    "contentSimilarityCaseIn": 0.3333333333333333,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.19230769230769232,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -1946,10 +1943,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -1958,8 +1955,7 @@
  {
     "aboveEmptyRow": 1,
     "belowEmptyRow": 1,
-    "contentSimilarityCaseIn": 0.30303030303030304,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.15625,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -1977,10 +1973,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -1989,8 +1985,7 @@
  {
     "aboveEmptyRow": 1,
     "belowEmptyRow": 1,
-    "contentSimilarityCaseIn": 0.2823529411764706,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.24096385542168675,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -2008,10 +2003,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -2020,8 +2015,7 @@
  {
     "aboveEmptyRow": 1,
     "belowEmptyRow": 1,
-    "contentSimilarityCaseIn": 0.34375,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.2903225806451613,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -2039,10 +2033,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -2051,8 +2045,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.05714285714285714,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.0,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -2070,10 +2063,10 @@
         1,
         0
     ],
-    "recurringCell": -1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 1
@@ -2082,8 +2075,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.06451612903225806,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.0,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -2101,10 +2093,10 @@
         1,
         0
     ],
-    "recurringCell": -1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -2113,8 +2105,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.42857142857142855,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.3,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -2132,10 +2123,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -2144,8 +2135,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.2222222222222222,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.0,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -2163,10 +2153,10 @@
         1,
         0
     ],
-    "recurringCell": -1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -2175,8 +2165,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.9,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.8947368421052632,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -2194,10 +2183,10 @@
         1,
         0
     ],
-    "recurringCell": 1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 1
@@ -2206,8 +2195,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.2978723404255319,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.13333333333333333,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -2225,10 +2213,10 @@
         1,
         0
     ],
-    "recurringCell": 1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 1
@@ -2237,8 +2225,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.27450980392156865,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.16326530612244897,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -2256,10 +2243,10 @@
         1,
         0
     ],
-    "recurringCell": -1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 1
@@ -2268,8 +2255,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.2978723404255319,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.13333333333333333,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -2287,10 +2273,10 @@
         1,
         0
     ],
-    "recurringCell": -1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -2299,8 +2285,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.17647058823529413,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.0625,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -2318,10 +2303,10 @@
         1,
         0
     ],
-    "recurringCell": -1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -2330,8 +2315,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.9,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.8947368421052632,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -2349,10 +2333,10 @@
         1,
         0
     ],
-    "recurringCell": 1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 1
@@ -2361,8 +2345,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.2608695652173913,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.0,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -2380,10 +2363,10 @@
         1,
         0
     ],
-    "recurringCell": 1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 1
@@ -2392,8 +2375,7 @@
  {
     "aboveEmptyRow": 1,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.16666666666666666,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.09090909090909091,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -2411,10 +2393,10 @@
         1,
         0
     ],
-    "recurringCell": 1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 1
@@ -2423,8 +2405,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 1,
-    "contentSimilarityCaseIn": 0.2857142857142857,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.15,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -2442,10 +2423,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 1
@@ -2454,8 +2435,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 1,
-    "contentSimilarityCaseIn": 0.42857142857142855,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.15384615384615385,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -2473,10 +2453,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -2485,8 +2465,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 1,
-    "contentSimilarityCaseIn": 0.32727272727272727,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.18867924528301888,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -2504,10 +2483,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -2516,8 +2495,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 1,
-    "contentSimilarityCaseIn": 0.20833333333333334,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.08695652173913043,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -2535,10 +2513,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -2547,8 +2525,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 1,
-    "contentSimilarityCaseIn": 0.16666666666666666,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.09090909090909091,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -2566,10 +2543,10 @@
         1,
         0
     ],
-    "recurringCell": -1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -2578,8 +2555,7 @@
  {
     "aboveEmptyRow": 1,
     "belowEmptyRow": 1,
-    "contentSimilarityCaseIn": 0.52,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.5416666666666666,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -2597,10 +2573,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -2609,8 +2585,7 @@
  {
     "aboveEmptyRow": 1,
     "belowEmptyRow": 1,
-    "contentSimilarityCaseIn": 0.2028985507246377,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.1791044776119403,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -2628,10 +2603,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -2640,8 +2615,7 @@
  {
     "aboveEmptyRow": 1,
     "belowEmptyRow": 1,
-    "contentSimilarityCaseIn": 0.3333333333333333,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.13043478260869565,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -2659,10 +2633,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -2671,8 +2645,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.1875,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.0,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -2690,10 +2663,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 1
@@ -2702,8 +2675,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.3728813559322034,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.21052631578947367,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -2721,10 +2693,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -2733,8 +2705,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.2692307692307692,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.24,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -2752,10 +2723,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -2764,8 +2735,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.07142857142857142,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.0,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -2783,10 +2753,10 @@
         1,
         0
     ],
-    "recurringCell": -1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -2795,8 +2765,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.26666666666666666,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.09302325581395349,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -2814,10 +2783,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 1
@@ -2826,8 +2795,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.3157894736842105,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.05555555555555555,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -2845,10 +2813,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -2857,8 +2825,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.14285714285714285,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.0,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -2876,10 +2843,10 @@
         1,
         0
     ],
-    "recurringCell": -1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -2888,8 +2855,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.49230769230769234,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.4444444444444444,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -2907,10 +2873,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 1
@@ -2919,8 +2885,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.1951219512195122,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.15384615384615385,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -2938,10 +2903,10 @@
         1,
         0
     ],
-    "recurringCell": -1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -2950,8 +2915,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.17647058823529413,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.0,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -2969,10 +2933,10 @@
         1,
         0
     ],
-    "recurringCell": -1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 1
@@ -2981,8 +2945,7 @@
  {
     "aboveEmptyRow": 1,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.2222222222222222,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.058823529411764705,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -3000,10 +2963,10 @@
         1,
         0
     ],
-    "recurringCell": 1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 1
@@ -3012,8 +2975,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 1,
-    "contentSimilarityCaseIn": 0.4,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.37209302325581395,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -3031,10 +2993,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 1
@@ -3043,8 +3005,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 1,
-    "contentSimilarityCaseIn": 0.1276595744680851,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.0,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -3062,10 +3023,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -3075,7 +3036,6 @@
     "aboveEmptyRow": 0,
     "belowEmptyRow": 1,
     "contentSimilarityCaseIn": 0.0,
-    "emptyStubCell": 0,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -3093,10 +3053,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -3106,7 +3066,6 @@
     "aboveEmptyRow": 0,
     "belowEmptyRow": 1,
     "contentSimilarityCaseIn": 0.0,
-    "emptyStubCell": 0,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -3124,10 +3083,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -3136,8 +3095,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 1,
-    "contentSimilarityCaseIn": 0.17391304347826086,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.09090909090909091,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -3155,10 +3113,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -3167,8 +3125,7 @@
  {
     "aboveEmptyRow": 1,
     "belowEmptyRow": 1,
-    "contentSimilarityCaseIn": 0.32098765432098764,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.22784810126582278,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -3186,10 +3143,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -3198,8 +3155,7 @@
  {
     "aboveEmptyRow": 1,
     "belowEmptyRow": 1,
-    "contentSimilarityCaseIn": 0.23333333333333334,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.20689655172413793,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -3217,10 +3173,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -3229,8 +3185,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.2,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.0,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -3248,10 +3203,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 1
@@ -3261,7 +3216,6 @@
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
     "contentSimilarityCaseIn": 0.0,
-    "emptyStubCell": 0,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -3279,10 +3233,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -3292,7 +3246,6 @@
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
     "contentSimilarityCaseIn": 0.0,
-    "emptyStubCell": 0,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -3310,10 +3263,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -3322,8 +3275,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.27586206896551724,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.07407407407407407,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -3341,10 +3293,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -3353,8 +3305,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.42857142857142855,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.38461538461538464,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -3372,10 +3323,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 1
@@ -3384,8 +3335,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.3333333333333333,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.21428571428571427,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -3403,10 +3353,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -3415,8 +3365,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.3870967741935484,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.27586206896551724,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -3434,10 +3383,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -3446,8 +3395,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.7692307692307693,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.5833333333333334,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -3465,10 +3413,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 1
@@ -3477,8 +3425,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.4444444444444444,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.32,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -3496,10 +3443,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -3508,8 +3455,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.41379310344827586,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.2962962962962963,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -3527,10 +3473,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 1
@@ -3539,8 +3485,7 @@
  {
     "aboveEmptyRow": 1,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.06153846153846154,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.19047619047619047,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -3558,10 +3503,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 1
@@ -3570,8 +3515,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 1,
-    "contentSimilarityCaseIn": 0.4,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.38095238095238093,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -3589,10 +3533,10 @@
         1,
         0
     ],
-    "recurringCell": -1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 1
@@ -3601,8 +3545,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 1,
-    "contentSimilarityCaseIn": 0.3076923076923077,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.2222222222222222,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -3620,10 +3563,10 @@
         1,
         0
     ],
-    "recurringCell": -1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -3632,8 +3575,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 1,
-    "contentSimilarityCaseIn": 0.32,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.2465753424657534,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -3651,10 +3593,10 @@
         1,
         0
     ],
-    "recurringCell": -1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -3663,8 +3605,7 @@
  {
     "aboveEmptyRow": 1,
     "belowEmptyRow": 1,
-    "contentSimilarityCaseIn": 0.5569620253164557,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.6493506493506493,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -3682,10 +3623,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -3694,8 +3635,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.5333333333333333,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.42857142857142855,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -3713,10 +3653,10 @@
         1,
         0
     ],
-    "recurringCell": 1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 1
@@ -3725,8 +3665,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.55,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.3684210526315789,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -3744,10 +3683,10 @@
         1,
         0
     ],
-    "recurringCell": 1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -3756,8 +3695,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.55,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.42105263157894735,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -3775,10 +3713,10 @@
         1,
         0
     ],
-    "recurringCell": 1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 1
@@ -3787,8 +3725,7 @@
  {
     "aboveEmptyRow": 1,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.37037037037037035,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.3076923076923077,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -3806,10 +3743,10 @@
         1,
         0
     ],
-    "recurringCell": 1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 1
@@ -3818,8 +3755,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 1,
-    "contentSimilarityCaseIn": 0.43478260869565216,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.3181818181818182,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -3837,10 +3773,10 @@
         1,
         0
     ],
-    "recurringCell": 0,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 1
@@ -3849,8 +3785,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 1,
-    "contentSimilarityCaseIn": 0.4090909090909091,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.3333333333333333,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -3868,10 +3803,10 @@
         1,
         0
     ],
-    "recurringCell": -1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -3880,8 +3815,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 1,
-    "contentSimilarityCaseIn": 0.36363636363636365,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.2857142857142857,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -3899,10 +3833,10 @@
         1,
         0
     ],
-    "recurringCell": -1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -3911,8 +3845,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 1,
-    "contentSimilarityCaseIn": 0.37037037037037035,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.3076923076923077,
     "horizontallySpanned": 0,
     "indentation": [
         1,
@@ -3930,10 +3863,10 @@
         1,
         0
     ],
-    "recurringCell": -1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -3942,8 +3875,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.75,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.6,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -3961,10 +3893,10 @@
         1,
         0
     ],
-    "recurringCell": -1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 1
@@ -3973,8 +3905,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.625,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.4666666666666667,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -3992,10 +3923,10 @@
         1,
         0
     ],
-    "recurringCell": -1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -4004,8 +3935,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.42857142857142855,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.3,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -4023,10 +3953,10 @@
         1,
         0
     ],
-    "recurringCell": -1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -4035,8 +3965,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.5333333333333333,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.42857142857142855,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -4054,10 +3983,10 @@
         1,
         0
     ],
-    "recurringCell": 1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 1
@@ -4066,8 +3995,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.55,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.3684210526315789,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -4085,10 +4013,10 @@
         1,
         0
     ],
-    "recurringCell": 1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 0
@@ -4097,8 +4025,7 @@
  {
     "aboveEmptyRow": 0,
     "belowEmptyRow": 0,
-    "contentSimilarityCaseIn": 0.55,
-    "emptyStubCell": 0,
+    "contentSimilarityCaseIn": 0.42105263157894735,
     "horizontallySpanned": 0,
     "indentation": [
         0,
@@ -4116,12 +4043,11 @@
         1,
         0
     ],
-    "recurringCell": 1,
     "relativeHorizontalPosition": 0,
     "relativeVerticalPosition": 1,
     "sameColumn": 1,
+    "sameDimension": 1,
     "sameRow": 0,
     "spannedBySameCell": 1,
     "verticallySpanned": 1
 } S
-Fitting

@@ -36,6 +36,7 @@ def construct(tableGrid):
 
 	def predict(c1, c2):
 		nonlocal fvg
+		# print(pprint(fvg.generateFeatureVectorMap(c1, c2)	))
 		print(clf.predict_proba(fvg.generateFeatureVector(c1, c2)))
 		return clf.predict(fvg.generateFeatureVector(c1, c2))[0]
 
@@ -85,7 +86,7 @@ def construct(tableGrid):
 						explore(tableGrid, c2, "v", c2.startRow + c2.rowSpan, min(exploredWindow[c1.parentList[0]][1],exploredWindow[stubCell if not stubCell.isEmptyCell() else None][1]), c2.startCol, min(c2.startCol + c2.colSpan, exploredWindow[stubCell if not stubCell.isEmptyCell() else None][3]), c1, mode)
 
 					elif mode == "row":
-						explore(tableGrid, c2, "h", c2.startRow, c2.startRow + c2.rowSpan, c2.startCol + c2.colSpan, exploredWindow[c2.parentList[0]][3], c1, mode)
+						explore(tableGrid, c2, "h", c2.startRow, c2.startRow + c2.rowSpan, c2.startCol + c2.colSpan, min(exploredWindow[c2.parentList[0]][3], exploredWindow[c1][3]), c1, mode)
 						explore(tableGrid, c2, "v", c2.startRow + c2.rowSpan, exploredWindow[stubCell if not stubCell.isEmptyCell() else None][1], c2.startCol, c2.startCol + c2.colSpan, c1, mode)
 
 				# else:
@@ -180,7 +181,7 @@ def validate(tableGrid, tableGrid_truth, fileID, tableGridID):
 					if prediction == groundTruth:
 						correct += 1
 					else:
-						# wrongTables += [(fileID, tableGridID)]
+						wrongTables += [(fileID, tableGridID)]
 						# return
 						print(fileID, tableGridID, c1.cellID, c2.cellID, groundTruth, prediction)
 

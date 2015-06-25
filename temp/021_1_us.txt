@@ -1,0 +1,1353 @@
+2015-06-24 21:56:56,148 Parsing ../data/eu/eu-002-str.xml
+2015-06-24 21:56:56,162 READING FUNCTIONAL TAGGING FROM../data/eu_function/eu-002_function.txt
+2015-06-24 21:56:56,163 READING STRUCTURAL TAGGING FROM../data/eu_structure/eu-002_structure.txt
+0 1 
+ {
+    "aboveEmptyRow": 0,
+    "belowEmptyRow": 0,
+    "contentSimilarityCaseIn": 0.0,
+    "horizontallySpanned": 1,
+    "indentation": [
+        0,
+        0,
+        0,
+        1
+    ],
+    "injectFunctions": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+    ],
+    "relativeHorizontalPosition": 1,
+    "relativeVerticalPosition": 0,
+    "sameColumn": 0,
+    "sameDimension": 1,
+    "sameRow": 1,
+    "spannedBySameCell": 1,
+    "verticallySpanned": 0
+} S
+0 2 
+ {
+    "aboveEmptyRow": 0,
+    "belowEmptyRow": 0,
+    "contentSimilarityCaseIn": 0.0,
+    "horizontallySpanned": 0,
+    "indentation": [
+        0,
+        0,
+        0,
+        1
+    ],
+    "injectFunctions": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+    ],
+    "relativeHorizontalPosition": 1,
+    "relativeVerticalPosition": 0,
+    "sameColumn": 0,
+    "sameDimension": 1,
+    "sameRow": 1,
+    "spannedBySameCell": 1,
+    "verticallySpanned": 0
+} S
+0 3 
+ {
+    "aboveEmptyRow": 0,
+    "belowEmptyRow": 0,
+    "contentSimilarityCaseIn": 0.0,
+    "horizontallySpanned": 0,
+    "indentation": [
+        0,
+        0,
+        0,
+        1
+    ],
+    "injectFunctions": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+    ],
+    "relativeHorizontalPosition": 1,
+    "relativeVerticalPosition": 0,
+    "sameColumn": 0,
+    "sameDimension": 1,
+    "sameRow": 1,
+    "spannedBySameCell": 1,
+    "verticallySpanned": 0
+} S
+0 4 
+ {
+    "aboveEmptyRow": 0,
+    "belowEmptyRow": 0,
+    "contentSimilarityCaseIn": 0.0,
+    "horizontallySpanned": 0,
+    "indentation": [
+        0,
+        0,
+        0,
+        1
+    ],
+    "injectFunctions": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+    ],
+    "relativeHorizontalPosition": 1,
+    "relativeVerticalPosition": 0,
+    "sameColumn": 0,
+    "sameDimension": 1,
+    "sameRow": 1,
+    "spannedBySameCell": 1,
+    "verticallySpanned": 0
+} S
+0 5 
+ {
+    "aboveEmptyRow": 0,
+    "belowEmptyRow": 0,
+    "contentSimilarityCaseIn": 0.0,
+    "horizontallySpanned": 0,
+    "indentation": [
+        0,
+        0,
+        0,
+        1
+    ],
+    "injectFunctions": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+    ],
+    "relativeHorizontalPosition": -1,
+    "relativeVerticalPosition": 1,
+    "sameColumn": 0,
+    "sameDimension": 1,
+    "sameRow": 0,
+    "spannedBySameCell": 0,
+    "verticallySpanned": 0
+} S
+0 11 
+ {
+    "aboveEmptyRow": 0,
+    "belowEmptyRow": 0,
+    "contentSimilarityCaseIn": 0.0,
+    "horizontallySpanned": 0,
+    "indentation": [
+        0,
+        0,
+        0,
+        1
+    ],
+    "injectFunctions": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+    ],
+    "relativeHorizontalPosition": -1,
+    "relativeVerticalPosition": 1,
+    "sameColumn": 0,
+    "sameDimension": 1,
+    "sameRow": 0,
+    "spannedBySameCell": 0,
+    "verticallySpanned": 0
+} S
+0 17 
+ {
+    "aboveEmptyRow": 0,
+    "belowEmptyRow": 0,
+    "contentSimilarityCaseIn": 0.0,
+    "horizontallySpanned": 0,
+    "indentation": [
+        0,
+        0,
+        0,
+        1
+    ],
+    "injectFunctions": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+    ],
+    "relativeHorizontalPosition": -1,
+    "relativeVerticalPosition": 1,
+    "sameColumn": 0,
+    "sameDimension": 1,
+    "sameRow": 0,
+    "spannedBySameCell": 0,
+    "verticallySpanned": 0
+} S
+0 23 
+ {
+    "aboveEmptyRow": 0,
+    "belowEmptyRow": 0,
+    "contentSimilarityCaseIn": 0.0,
+    "horizontallySpanned": 0,
+    "indentation": [
+        0,
+        0,
+        0,
+        1
+    ],
+    "injectFunctions": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+    ],
+    "relativeHorizontalPosition": -1,
+    "relativeVerticalPosition": 1,
+    "sameColumn": 0,
+    "sameDimension": 1,
+    "sameRow": 0,
+    "spannedBySameCell": 0,
+    "verticallySpanned": 0
+} S
+0 29 
+ {
+    "aboveEmptyRow": 0,
+    "belowEmptyRow": 0,
+    "contentSimilarityCaseIn": 0.0,
+    "horizontallySpanned": 0,
+    "indentation": [
+        0,
+        0,
+        0,
+        1
+    ],
+    "injectFunctions": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+    ],
+    "relativeHorizontalPosition": -1,
+    "relativeVerticalPosition": 1,
+    "sameColumn": 0,
+    "sameDimension": 1,
+    "sameRow": 0,
+    "spannedBySameCell": 0,
+    "verticallySpanned": 0
+} S
+1 2 
+ {
+    "aboveEmptyRow": 0,
+    "belowEmptyRow": 0,
+    "contentSimilarityCaseIn": 0.0,
+    "horizontallySpanned": 1,
+    "indentation": [
+        0,
+        0,
+        0,
+        1
+    ],
+    "injectFunctions": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+    ],
+    "relativeHorizontalPosition": 1,
+    "relativeVerticalPosition": 0,
+    "sameColumn": 0,
+    "sameDimension": 1,
+    "sameRow": 1,
+    "spannedBySameCell": 1,
+    "verticallySpanned": 0
+} S
+1 3 
+ {
+    "aboveEmptyRow": 0,
+    "belowEmptyRow": 0,
+    "contentSimilarityCaseIn": 0.0,
+    "horizontallySpanned": 0,
+    "indentation": [
+        0,
+        0,
+        0,
+        1
+    ],
+    "injectFunctions": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+    ],
+    "relativeHorizontalPosition": 1,
+    "relativeVerticalPosition": 0,
+    "sameColumn": 0,
+    "sameDimension": 1,
+    "sameRow": 1,
+    "spannedBySameCell": 1,
+    "verticallySpanned": 0
+} S
+1 4 
+ {
+    "aboveEmptyRow": 0,
+    "belowEmptyRow": 0,
+    "contentSimilarityCaseIn": 0.0,
+    "horizontallySpanned": 0,
+    "indentation": [
+        0,
+        0,
+        0,
+        1
+    ],
+    "injectFunctions": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+    ],
+    "relativeHorizontalPosition": 1,
+    "relativeVerticalPosition": 0,
+    "sameColumn": 0,
+    "sameDimension": 1,
+    "sameRow": 1,
+    "spannedBySameCell": 1,
+    "verticallySpanned": 0
+} S
+1 5 
+ {
+    "aboveEmptyRow": 0,
+    "belowEmptyRow": 0,
+    "contentSimilarityCaseIn": 0.0,
+    "horizontallySpanned": 0,
+    "indentation": [
+        0,
+        0,
+        0,
+        1
+    ],
+    "injectFunctions": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+    ],
+    "relativeHorizontalPosition": -1,
+    "relativeVerticalPosition": 1,
+    "sameColumn": 0,
+    "sameDimension": 1,
+    "sameRow": 0,
+    "spannedBySameCell": 0,
+    "verticallySpanned": 0
+} S
+1 11 
+ {
+    "aboveEmptyRow": 0,
+    "belowEmptyRow": 0,
+    "contentSimilarityCaseIn": 0.0,
+    "horizontallySpanned": 0,
+    "indentation": [
+        0,
+        0,
+        0,
+        1
+    ],
+    "injectFunctions": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+    ],
+    "relativeHorizontalPosition": -1,
+    "relativeVerticalPosition": 1,
+    "sameColumn": 0,
+    "sameDimension": 1,
+    "sameRow": 0,
+    "spannedBySameCell": 0,
+    "verticallySpanned": 0
+} S
+1 17 
+ {
+    "aboveEmptyRow": 0,
+    "belowEmptyRow": 0,
+    "contentSimilarityCaseIn": 0.0,
+    "horizontallySpanned": 0,
+    "indentation": [
+        0,
+        0,
+        0,
+        1
+    ],
+    "injectFunctions": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+    ],
+    "relativeHorizontalPosition": -1,
+    "relativeVerticalPosition": 1,
+    "sameColumn": 0,
+    "sameDimension": 1,
+    "sameRow": 0,
+    "spannedBySameCell": 0,
+    "verticallySpanned": 0
+} S
+1 23 
+ {
+    "aboveEmptyRow": 0,
+    "belowEmptyRow": 0,
+    "contentSimilarityCaseIn": 0.0,
+    "horizontallySpanned": 0,
+    "indentation": [
+        0,
+        0,
+        0,
+        1
+    ],
+    "injectFunctions": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+    ],
+    "relativeHorizontalPosition": -1,
+    "relativeVerticalPosition": 1,
+    "sameColumn": 0,
+    "sameDimension": 1,
+    "sameRow": 0,
+    "spannedBySameCell": 0,
+    "verticallySpanned": 0
+} S
+1 29 
+ {
+    "aboveEmptyRow": 0,
+    "belowEmptyRow": 0,
+    "contentSimilarityCaseIn": 0.0,
+    "horizontallySpanned": 0,
+    "indentation": [
+        0,
+        0,
+        0,
+        1
+    ],
+    "injectFunctions": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+    ],
+    "relativeHorizontalPosition": -1,
+    "relativeVerticalPosition": 1,
+    "sameColumn": 0,
+    "sameDimension": 1,
+    "sameRow": 0,
+    "spannedBySameCell": 0,
+    "verticallySpanned": 0
+} S
+2 3 
+ {
+    "aboveEmptyRow": 0,
+    "belowEmptyRow": 0,
+    "contentSimilarityCaseIn": 0.0,
+    "horizontallySpanned": 1,
+    "indentation": [
+        0,
+        0,
+        0,
+        1
+    ],
+    "injectFunctions": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+    ],
+    "relativeHorizontalPosition": 1,
+    "relativeVerticalPosition": 0,
+    "sameColumn": 0,
+    "sameDimension": 1,
+    "sameRow": 1,
+    "spannedBySameCell": 1,
+    "verticallySpanned": 0
+} S
+2 4 
+ {
+    "aboveEmptyRow": 0,
+    "belowEmptyRow": 0,
+    "contentSimilarityCaseIn": 0.0,
+    "horizontallySpanned": 0,
+    "indentation": [
+        0,
+        0,
+        0,
+        1
+    ],
+    "injectFunctions": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+    ],
+    "relativeHorizontalPosition": 1,
+    "relativeVerticalPosition": 0,
+    "sameColumn": 0,
+    "sameDimension": 1,
+    "sameRow": 1,
+    "spannedBySameCell": 1,
+    "verticallySpanned": 0
+} S
+2 5 
+ {
+    "aboveEmptyRow": 0,
+    "belowEmptyRow": 0,
+    "contentSimilarityCaseIn": 0.0,
+    "horizontallySpanned": 0,
+    "indentation": [
+        0,
+        0,
+        0,
+        1
+    ],
+    "injectFunctions": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+    ],
+    "relativeHorizontalPosition": -1,
+    "relativeVerticalPosition": 1,
+    "sameColumn": 0,
+    "sameDimension": 1,
+    "sameRow": 0,
+    "spannedBySameCell": 0,
+    "verticallySpanned": 0
+} S
+2 11 
+ {
+    "aboveEmptyRow": 0,
+    "belowEmptyRow": 0,
+    "contentSimilarityCaseIn": 0.0,
+    "horizontallySpanned": 0,
+    "indentation": [
+        0,
+        0,
+        0,
+        1
+    ],
+    "injectFunctions": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+    ],
+    "relativeHorizontalPosition": -1,
+    "relativeVerticalPosition": 1,
+    "sameColumn": 0,
+    "sameDimension": 1,
+    "sameRow": 0,
+    "spannedBySameCell": 0,
+    "verticallySpanned": 0
+} S
+2 17 
+ {
+    "aboveEmptyRow": 0,
+    "belowEmptyRow": 0,
+    "contentSimilarityCaseIn": 0.0,
+    "horizontallySpanned": 0,
+    "indentation": [
+        0,
+        0,
+        0,
+        1
+    ],
+    "injectFunctions": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+    ],
+    "relativeHorizontalPosition": -1,
+    "relativeVerticalPosition": 1,
+    "sameColumn": 0,
+    "sameDimension": 1,
+    "sameRow": 0,
+    "spannedBySameCell": 0,
+    "verticallySpanned": 0
+} S
+2 23 
+ {
+    "aboveEmptyRow": 0,
+    "belowEmptyRow": 0,
+    "contentSimilarityCaseIn": 0.0,
+    "horizontallySpanned": 0,
+    "indentation": [
+        0,
+        0,
+        0,
+        1
+    ],
+    "injectFunctions": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+    ],
+    "relativeHorizontalPosition": -1,
+    "relativeVerticalPosition": 1,
+    "sameColumn": 0,
+    "sameDimension": 1,
+    "sameRow": 0,
+    "spannedBySameCell": 0,
+    "verticallySpanned": 0
+} S
+2 29 
+ {
+    "aboveEmptyRow": 0,
+    "belowEmptyRow": 0,
+    "contentSimilarityCaseIn": 0.0,
+    "horizontallySpanned": 0,
+    "indentation": [
+        0,
+        0,
+        0,
+        1
+    ],
+    "injectFunctions": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+    ],
+    "relativeHorizontalPosition": -1,
+    "relativeVerticalPosition": 1,
+    "sameColumn": 0,
+    "sameDimension": 1,
+    "sameRow": 0,
+    "spannedBySameCell": 0,
+    "verticallySpanned": 0
+} S
+3 4 
+ {
+    "aboveEmptyRow": 0,
+    "belowEmptyRow": 0,
+    "contentSimilarityCaseIn": 0.0,
+    "horizontallySpanned": 1,
+    "indentation": [
+        0,
+        0,
+        0,
+        1
+    ],
+    "injectFunctions": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+    ],
+    "relativeHorizontalPosition": 1,
+    "relativeVerticalPosition": 0,
+    "sameColumn": 0,
+    "sameDimension": 1,
+    "sameRow": 1,
+    "spannedBySameCell": 1,
+    "verticallySpanned": 0
+} S
+3 5 
+ {
+    "aboveEmptyRow": 0,
+    "belowEmptyRow": 0,
+    "contentSimilarityCaseIn": 0.0,
+    "horizontallySpanned": 0,
+    "indentation": [
+        0,
+        0,
+        0,
+        1
+    ],
+    "injectFunctions": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+    ],
+    "relativeHorizontalPosition": -1,
+    "relativeVerticalPosition": 1,
+    "sameColumn": 0,
+    "sameDimension": 1,
+    "sameRow": 0,
+    "spannedBySameCell": 0,
+    "verticallySpanned": 0
+} S
+3 11 
+ {
+    "aboveEmptyRow": 0,
+    "belowEmptyRow": 0,
+    "contentSimilarityCaseIn": 0.0,
+    "horizontallySpanned": 0,
+    "indentation": [
+        0,
+        0,
+        0,
+        1
+    ],
+    "injectFunctions": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+    ],
+    "relativeHorizontalPosition": -1,
+    "relativeVerticalPosition": 1,
+    "sameColumn": 0,
+    "sameDimension": 1,
+    "sameRow": 0,
+    "spannedBySameCell": 0,
+    "verticallySpanned": 0
+} S
+3 17 
+ {
+    "aboveEmptyRow": 0,
+    "belowEmptyRow": 0,
+    "contentSimilarityCaseIn": 0.0,
+    "horizontallySpanned": 0,
+    "indentation": [
+        0,
+        0,
+        0,
+        1
+    ],
+    "injectFunctions": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+    ],
+    "relativeHorizontalPosition": -1,
+    "relativeVerticalPosition": 1,
+    "sameColumn": 0,
+    "sameDimension": 1,
+    "sameRow": 0,
+    "spannedBySameCell": 0,
+    "verticallySpanned": 0
+} S
+3 23 
+ {
+    "aboveEmptyRow": 0,
+    "belowEmptyRow": 0,
+    "contentSimilarityCaseIn": 0.0,
+    "horizontallySpanned": 0,
+    "indentation": [
+        0,
+        0,
+        0,
+        1
+    ],
+    "injectFunctions": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+    ],
+    "relativeHorizontalPosition": -1,
+    "relativeVerticalPosition": 1,
+    "sameColumn": 0,
+    "sameDimension": 1,
+    "sameRow": 0,
+    "spannedBySameCell": 0,
+    "verticallySpanned": 0
+} S
+3 29 
+ {
+    "aboveEmptyRow": 0,
+    "belowEmptyRow": 0,
+    "contentSimilarityCaseIn": 0.0,
+    "horizontallySpanned": 0,
+    "indentation": [
+        0,
+        0,
+        0,
+        1
+    ],
+    "injectFunctions": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+    ],
+    "relativeHorizontalPosition": -1,
+    "relativeVerticalPosition": 1,
+    "sameColumn": 0,
+    "sameDimension": 1,
+    "sameRow": 0,
+    "spannedBySameCell": 0,
+    "verticallySpanned": 0
+} S
+4 5 
+ {
+    "aboveEmptyRow": 0,
+    "belowEmptyRow": 0,
+    "contentSimilarityCaseIn": 0.0,
+    "horizontallySpanned": 0,
+    "indentation": [
+        0,
+        0,
+        0,
+        1
+    ],
+    "injectFunctions": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+    ],
+    "relativeHorizontalPosition": -1,
+    "relativeVerticalPosition": 1,
+    "sameColumn": 0,
+    "sameDimension": 1,
+    "sameRow": 0,
+    "spannedBySameCell": 0,
+    "verticallySpanned": 0
+} S
+4 11 
+ {
+    "aboveEmptyRow": 0,
+    "belowEmptyRow": 0,
+    "contentSimilarityCaseIn": 0.0,
+    "horizontallySpanned": 0,
+    "indentation": [
+        0,
+        0,
+        0,
+        1
+    ],
+    "injectFunctions": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+    ],
+    "relativeHorizontalPosition": -1,
+    "relativeVerticalPosition": 1,
+    "sameColumn": 0,
+    "sameDimension": 1,
+    "sameRow": 0,
+    "spannedBySameCell": 0,
+    "verticallySpanned": 0
+} S
+4 17 
+ {
+    "aboveEmptyRow": 0,
+    "belowEmptyRow": 0,
+    "contentSimilarityCaseIn": 0.0,
+    "horizontallySpanned": 0,
+    "indentation": [
+        0,
+        0,
+        0,
+        1
+    ],
+    "injectFunctions": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+    ],
+    "relativeHorizontalPosition": -1,
+    "relativeVerticalPosition": 1,
+    "sameColumn": 0,
+    "sameDimension": 1,
+    "sameRow": 0,
+    "spannedBySameCell": 0,
+    "verticallySpanned": 0
+} S
+4 23 
+ {
+    "aboveEmptyRow": 0,
+    "belowEmptyRow": 0,
+    "contentSimilarityCaseIn": 0.0,
+    "horizontallySpanned": 0,
+    "indentation": [
+        0,
+        0,
+        0,
+        1
+    ],
+    "injectFunctions": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+    ],
+    "relativeHorizontalPosition": -1,
+    "relativeVerticalPosition": 1,
+    "sameColumn": 0,
+    "sameDimension": 1,
+    "sameRow": 0,
+    "spannedBySameCell": 0,
+    "verticallySpanned": 0
+} S
+4 29 
+ {
+    "aboveEmptyRow": 0,
+    "belowEmptyRow": 0,
+    "contentSimilarityCaseIn": 0.0,
+    "horizontallySpanned": 0,
+    "indentation": [
+        0,
+        0,
+        0,
+        1
+    ],
+    "injectFunctions": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+    ],
+    "relativeHorizontalPosition": -1,
+    "relativeVerticalPosition": 1,
+    "sameColumn": 0,
+    "sameDimension": 1,
+    "sameRow": 0,
+    "spannedBySameCell": 0,
+    "verticallySpanned": 0
+} S
+5 11 
+ {
+    "aboveEmptyRow": 0,
+    "belowEmptyRow": 0,
+    "contentSimilarityCaseIn": 0.6666666666666666,
+    "horizontallySpanned": 0,
+    "indentation": [
+        0,
+        0,
+        1,
+        0
+    ],
+    "injectFunctions": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+    ],
+    "relativeHorizontalPosition": 0,
+    "relativeVerticalPosition": 1,
+    "sameColumn": 1,
+    "sameDimension": 1,
+    "sameRow": 0,
+    "spannedBySameCell": 1,
+    "verticallySpanned": 1
+} S
+5 17 
+ {
+    "aboveEmptyRow": 0,
+    "belowEmptyRow": 0,
+    "contentSimilarityCaseIn": 0.6666666666666666,
+    "horizontallySpanned": 0,
+    "indentation": [
+        0,
+        0,
+        1,
+        0
+    ],
+    "injectFunctions": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+    ],
+    "relativeHorizontalPosition": 0,
+    "relativeVerticalPosition": 1,
+    "sameColumn": 1,
+    "sameDimension": 1,
+    "sameRow": 0,
+    "spannedBySameCell": 1,
+    "verticallySpanned": 0
+} S
+5 23 
+ {
+    "aboveEmptyRow": 0,
+    "belowEmptyRow": 0,
+    "contentSimilarityCaseIn": 0.6666666666666666,
+    "horizontallySpanned": 0,
+    "indentation": [
+        0,
+        0,
+        1,
+        0
+    ],
+    "injectFunctions": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+    ],
+    "relativeHorizontalPosition": 0,
+    "relativeVerticalPosition": 1,
+    "sameColumn": 1,
+    "sameDimension": 1,
+    "sameRow": 0,
+    "spannedBySameCell": 1,
+    "verticallySpanned": 0
+} S
+5 29 
+ {
+    "aboveEmptyRow": 0,
+    "belowEmptyRow": 0,
+    "contentSimilarityCaseIn": 0.6666666666666666,
+    "horizontallySpanned": 0,
+    "indentation": [
+        0,
+        0,
+        1,
+        0
+    ],
+    "injectFunctions": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+    ],
+    "relativeHorizontalPosition": 0,
+    "relativeVerticalPosition": 1,
+    "sameColumn": 1,
+    "sameDimension": 1,
+    "sameRow": 0,
+    "spannedBySameCell": 1,
+    "verticallySpanned": 0
+} S
+11 17 
+ {
+    "aboveEmptyRow": 0,
+    "belowEmptyRow": 0,
+    "contentSimilarityCaseIn": 0.6666666666666666,
+    "horizontallySpanned": 0,
+    "indentation": [
+        0,
+        0,
+        1,
+        0
+    ],
+    "injectFunctions": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+    ],
+    "relativeHorizontalPosition": 0,
+    "relativeVerticalPosition": 1,
+    "sameColumn": 1,
+    "sameDimension": 1,
+    "sameRow": 0,
+    "spannedBySameCell": 1,
+    "verticallySpanned": 1
+} S
+11 23 
+ {
+    "aboveEmptyRow": 0,
+    "belowEmptyRow": 0,
+    "contentSimilarityCaseIn": 0.6666666666666666,
+    "horizontallySpanned": 0,
+    "indentation": [
+        0,
+        0,
+        1,
+        0
+    ],
+    "injectFunctions": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+    ],
+    "relativeHorizontalPosition": 0,
+    "relativeVerticalPosition": 1,
+    "sameColumn": 1,
+    "sameDimension": 1,
+    "sameRow": 0,
+    "spannedBySameCell": 1,
+    "verticallySpanned": 0
+} S
+11 29 
+ {
+    "aboveEmptyRow": 0,
+    "belowEmptyRow": 0,
+    "contentSimilarityCaseIn": 0.6666666666666666,
+    "horizontallySpanned": 0,
+    "indentation": [
+        0,
+        0,
+        1,
+        0
+    ],
+    "injectFunctions": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+    ],
+    "relativeHorizontalPosition": 0,
+    "relativeVerticalPosition": 1,
+    "sameColumn": 1,
+    "sameDimension": 1,
+    "sameRow": 0,
+    "spannedBySameCell": 1,
+    "verticallySpanned": 0
+} S
+17 23 
+ {
+    "aboveEmptyRow": 0,
+    "belowEmptyRow": 0,
+    "contentSimilarityCaseIn": 0.6666666666666666,
+    "horizontallySpanned": 0,
+    "indentation": [
+        0,
+        0,
+        1,
+        0
+    ],
+    "injectFunctions": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+    ],
+    "relativeHorizontalPosition": 0,
+    "relativeVerticalPosition": 1,
+    "sameColumn": 1,
+    "sameDimension": 1,
+    "sameRow": 0,
+    "spannedBySameCell": 1,
+    "verticallySpanned": 1
+} S
+17 29 
+ {
+    "aboveEmptyRow": 0,
+    "belowEmptyRow": 0,
+    "contentSimilarityCaseIn": 0.6666666666666666,
+    "horizontallySpanned": 0,
+    "indentation": [
+        0,
+        0,
+        1,
+        0
+    ],
+    "injectFunctions": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+    ],
+    "relativeHorizontalPosition": 0,
+    "relativeVerticalPosition": 1,
+    "sameColumn": 1,
+    "sameDimension": 1,
+    "sameRow": 0,
+    "spannedBySameCell": 1,
+    "verticallySpanned": 0
+} S
+23 29 
+ {
+    "aboveEmptyRow": 0,
+    "belowEmptyRow": 0,
+    "contentSimilarityCaseIn": 0.6666666666666666,
+    "horizontallySpanned": 0,
+    "indentation": [
+        0,
+        0,
+        1,
+        0
+    ],
+    "injectFunctions": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+    ],
+    "relativeHorizontalPosition": 0,
+    "relativeVerticalPosition": 1,
+    "sameColumn": 1,
+    "sameDimension": 1,
+    "sameRow": 0,
+    "spannedBySameCell": 1,
+    "verticallySpanned": 1
+} S

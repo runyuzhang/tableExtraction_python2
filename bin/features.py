@@ -35,38 +35,38 @@ class FeatureVectorGenerator:
 def contentSimilarityCase(c1, c2, grid):
     return SequenceMatcher(None, c1.content, c2.content).ratio()
 
-def contentSimilarityCaseIn(c1, c2, grid):
-    return SequenceMatcher(None, c1.content.lower(), c2.content.lower()).ratio()
+# def contentSimilarityCaseIn(c1, c2, grid):
+#     return SequenceMatcher(None, c1.content.lower(), c2.content.lower()).ratio()
 
-# def get_bigrams(string):
-#     '''
-#     Takes a string and returns a list of bigrams
-#     '''
-#     s = string.lower()
-#     return [s[i:i+2] for i in range(len(s) - 1)]
+def get_bigrams(string):
+    '''
+    Takes a string and returns a list of bigrams
+    '''
+    s = string.lower()
+    return [s[i:i+2] for i in range(len(s) - 1)]
 
-# def contentSimilarityCaseIn(c1, c2, g):
-#     '''
-#     Perform bigram comparison between two strings
-#     and return a percentage match in decimal form
-#     '''
-#     str1 = c1.content
-#     str2 = c2.content
-#     if str1 == "" and str2 == "":
-#     	return 1
-#     pairs1 = get_bigrams(str1)
-#     pairs2 = get_bigrams(str2)
-#     union  = len(pairs1) + len(pairs2)
-#     hit_count = 0
-#     for x in pairs1:
-#         for y in pairs2:
-#             if x == y:
-#                 hit_count += 1
-#                 break
-#     try:
-#     	return (2.0 * hit_count) / union
-#     except:
-#     	return SequenceMatcher(None, c1.content, c2.content).ratio()
+def contentSimilarityCaseIn(c1, c2, g):
+    '''
+    Perform bigram comparison between two strings
+    and return a percentage match in decimal form
+    '''
+    str1 = c1.content
+    str2 = c2.content
+    if str1 == "" and str2 == "":
+    	return 1
+    pairs1 = get_bigrams(str1)
+    pairs2 = get_bigrams(str2)
+    union  = len(pairs1) + len(pairs2)
+    hit_count = 0
+    for x in pairs1:
+        for y in pairs2:
+            if x == y:
+                hit_count += 1
+                break
+    try:
+    	return (2.0 * hit_count) / union
+    except:
+    	return SequenceMatcher(None, c1.content, c2.content).ratio()
 
 
 """
@@ -77,8 +77,11 @@ return 1 if c1 spans over c2, -1 if c2 spans over c1, 0 otherwise
 def verticallySpanned(c1, c2, g):
 	c2_one_row_below = (c1.startRow + c1.rowSpan == c2.startRow)
 	c1_one_row_below = (c2.startRow + c2.rowSpan == c1.startRow)
-	c1_contains_c2 = (c1.startCol <= c2.startCol and c1.startCol + c1.colSpan >= c2.startCol + c2.colSpan)
-	c2_contains_c1 = (c2.startCol <= c1.startCol and c2.startCol + c2.colSpan >= c1.startCol + c1.colSpan)
+	# c1_contains_c2 = (c1.startCol <= c2.startCol and c1.startCol + c1.colSpan > c2.startCol + c2.colSpan)
+	# c2_contains_c1 = (c2.startCol <= c1.startCol and c2.startCol + c2.colSpan > c1.startCol + c1.colSpan)
+	c1_contains_c2 = c1.startCol <= c2.startCol < c2.startCol + c2.colSpan <= c1.startCol + c1.colSpan and c1.colSpan > c2.colSpan
+	c2_contains_c1 = c2.startCol <= c1.startCol < c1.startCol + c1.colSpan <= c2.startCol + c2.colSpan and c2.colSpan > c1.colSpan
+
 	if c2_one_row_below and c1_contains_c2:
 		return 1
 	if c1_one_row_below and c2_contains_c1:
@@ -92,8 +95,10 @@ return 1 if c1 spans over c2, -1 if c2 spans over c1, 0 otherwise
 def horizontallySpanned(c1, c2, g):
 	c2_one_col_right = (c1.startCol + c1.colSpan == c2.startCol)
 	c1_one_col_right = (c2.startCol + c2.colSpan == c1.startCol)
-	c1_contains_c2 = (c1.startRow <= c2.startRow and c1.startRow + c1.rowSpan >= c2.startRow + c2.rowSpan)
-	c2_contains_c1 = (c2.startRow <= c1.startRow and c2.startRow + c2.rowSpan >= c1.startRow + c1.rowSpan)
+	# c1_contains_c2 = (c1.startRow <= c2.startRow and c1.startRow + c1.rowSpan >= c2.startRow + c2.rowSpan)
+	# c2_contains_c1 = (c2.startRow <= c1.startRow and c2.startRow + c2.rowSpan >= c1.startRow + c1.rowSpan)
+	c1_contains_c2 = c1.startRow <= c2.startRow < c2.startRow + c2.rowSpan <= c1.startRow + c1.rowSpan and c1.rowSpan > c2.rowSpan
+	c2_contains_c1 = c2.startRow <= c1.startRow < c1.startRow + c1.rowSpan <= c2.startRow + c2.rowSpan and c2.rowSpan > c1.rowSpan
 	if c2_one_col_right and c1_contains_c2:
 		return 1
 	if c1_one_col_right and c2_contains_c1:
@@ -123,28 +128,30 @@ def relativeHorizontalPosition(c1, c2, g):
 
 
 """
+return 0 if c1 and c2 are not column headers
 returns 1 if c2 is below c1 and the row which contains c1 excluding c1 is empty,
 0 if both rows are non-empty, -1 if c1 is below c2 and the row which contains c2 excluding e2 is empty
 """
 def belowEmptyRow(c1, c2, g):
-	relativePosition = relativeVerticalPosition(c1,c2, g)
-	if relativePosition == 1:
-		flag, i = True, 0
-		c1Row = g.getRow(c1.startRow)
-		while flag and i < c1.rowSpan:
-			flag = g.getNonEmptyCellsCountInRow(c1.startRow + i) == 1
-			i += 1
+	if c1.function == Cell.COL_HEADER_CELL and c2.function == Cell.COL_HEADER_CELL:
+		relativePosition = relativeVerticalPosition(c1,c2, g)
+		if relativePosition == 1:
+			flag, i = True, 0
+			c1Row = g.getRow(c1.startRow)
+			while flag and i < c1.rowSpan:
+				flag = g.getNonEmptyCellsCountInRow(c1.startRow + i) == 1
+				i += 1
 
-		if flag: 
-			return 1
-	elif relativePosition == -1:
-		flag, i = True, 0
-		c2Row = g.getRow(c2.startRow)
-		while flag and i < c2.rowSpan:
-			flag = g.getNonEmptyCellsCountInRow(c2.startRow + i) == 1
-			i += 1
-		if flag: 
-			return -1
+			if flag: 
+				return 1
+		elif relativePosition == -1:
+			flag, i = True, 0
+			c2Row = g.getRow(c2.startRow)
+			while flag and i < c2.rowSpan:
+				flag = g.getNonEmptyCellsCountInRow(c2.startRow + i) == 1
+				i += 1
+			if flag: 
+				return -1
 	return 0
 
 """
@@ -152,24 +159,25 @@ returns 1 if c1 is above c2 and the row which contains c2 excluding c2 is empty,
 0 if both rows are non-empty, -1 if c2 is above c1 and the row which contains c1 excluding e1 is empty
 """
 def aboveEmptyRow(c1, c2, g):
-	relativePosition = relativeVerticalPosition(c1,c2, g)
-	if relativePosition == 1:
-		flag, i = True, 0
-		c2Row = g.getRow(c2.startRow)
-		while flag and i < c2.rowSpan:
-			flag = g.getNonEmptyCellsCountInRow(c2.startRow + i) == 1
-			i += 1
+	if c1.function == Cell.COL_HEADER_CELL and c2.function == Cell.COL_HEADER_CELL:
+		relativePosition = relativeVerticalPosition(c1,c2, g)
+		if relativePosition == 1:
+			flag, i = True, 0
+			c2Row = g.getRow(c2.startRow)
+			while flag and i < c2.rowSpan:
+				flag = g.getNonEmptyCellsCountInRow(c2.startRow + i) == 1
+				i += 1
 
-		if flag: 
-			return 1
-	elif relativePosition == -1:
-		flag, i = True, 0
-		c1Row = g.getRow(c1.startRow)
-		while flag and i < c1.rowSpan:
-			flag = g.getNonEmptyCellsCountInRow(c1.startRow + i) == 1
-			i += 1
-		if flag: 
-			return -1
+			if flag: 
+				return 1
+		elif relativePosition == -1:
+			flag, i = True, 0
+			c1Row = g.getRow(c1.startRow)
+			while flag and i < c1.rowSpan:
+				flag = g.getNonEmptyCellsCountInRow(c1.startRow + i) == 1
+				i += 1
+			if flag: 
+				return -1
 	return 0
 
 
@@ -232,6 +240,8 @@ def sameRow(c1, c2, g):
 	if c1.startRow == c2.startRow and c1.rowSpan == c2.rowSpan:
 		return 1
 	return 0
+
+
 
 """
 return 1 if c1's content repeats in another cell in the same row/column, -1 if c2's content repeats in another cell in the same row/column, 0 otherwise
