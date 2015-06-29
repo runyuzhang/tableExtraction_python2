@@ -1,3 +1,5 @@
+from __future__ import print_function
+from __future__ import division
 from features import FeatureVectorGenerator
 from grid import Grid
 from grid import Cell
@@ -20,7 +22,9 @@ parser.add_option('-a', '--all', action = "store_true", help='construct all')
 
 Cell.switchToIDRepr()
 
+# clf = pickle.load(open("/Users/runyuzhang/Desktop/TableExtraction/data/storage/tree_us.pkl", "rb"))
 clf = joblib.load(options.persistedModel)
+
 
 
 def construct(tableGrid):
@@ -35,14 +39,14 @@ def construct(tableGrid):
 
 
 	def predict(c1, c2):
-		nonlocal fvg
+		# nonlocal fvg
 		# print(pprint(fvg.generateFeatureVectorMap(c1, c2)	))
 		print(clf.predict_proba(fvg.generateFeatureVector(c1, c2)))
 		return clf.predict(fvg.generateFeatureVector(c1, c2))[0]
 
 	def explore(tableGrid, c1, direction, x1, x2, y1, y2, parent, mode):
-		nonlocal exploredWindow
-		nonlocal stubCell
+		# nonlocal exploredWindow
+		# nonlocal stubCell
 
 		print(c1, direction, x1, x2, y1, y2, parent, mode)
 		exploredWindow[c1] = (x1, x2, y1, y2)
@@ -50,44 +54,55 @@ def construct(tableGrid):
 		# # print(exploredWindow)	
 
 		if direction == "v" and x1 < x2:
+			#cursor
 			j = y1
 			i = x1
 			while j < y2:
 				print(i,j)
 				c2 = tableGrid.getCell(i,j)
-				if c2.isEmptyCell() and i < x2:
+				#in case where the next row is all empty
+				if Cell.isEmptyCell(c2) and i < x2:
 					i += 1
 					continue
+
 				j += c2.colSpan
+				#if c2 is not explored yet
 				if not c2 in exploredWindow:
-					if not c1.isEmptyCell():
+					#neither c1 and c2 should be empty
+					if not Cell.isEmptyCell(c1):
 						l = predict(c1, c2)
 						print(c1, c2, l)
+						#append c2 as a child of c1 if relationship is left superior
 						if l == "L":
 							c1.addChild(c2)
+						#if two cells are unrelated, find ancestor of c1 that is sibling to c2
 						elif l == "U":
 							ct = c1.parentList[0]
+							#include case where c1 is L of c2
 							while ct and predict(ct, c2) != "S":
 								# print("CT", ct)
 								ct = ct.parentList[0]
 							# print("CT", ct)
 							if ct and ct.parentList[0]:
 								ct.parentList[0].addChild(c2)
-							elif not stubCell.isEmptyCell() and c2.function == Cell.COL_HEADER_CELL:
+							#if nothing is found, then consider it a child of the stub cell, given that it exists
+							elif not Cell.isEmptyCell(stubCell) and c2.function == Cell.COL_HEADER_CELL:
 								# print(c2.function, c2)
 								stubCell.addChild(c2)
+						#they have a common parent give that it exists
 						elif l == "S":
 							print(c1.parentList)
 							if c1.parentList[0]:
 								c1.parentList[0].addChild(c2)
 
+					#mode is whether you are searching within a header row or a header column
 					if mode == "column":			
-						explore(tableGrid, c2, "h", c2.startRow, c2.startRow + c2.rowSpan, c2.startCol + c2.colSpan, min(exploredWindow[c2.parentList[0]][3], exploredWindow[stubCell if not stubCell.isEmptyCell() else None][3]), c1, mode)
-						explore(tableGrid, c2, "v", c2.startRow + c2.rowSpan, min(exploredWindow[c1.parentList[0]][1],exploredWindow[stubCell if not stubCell.isEmptyCell() else None][1]), c2.startCol, min(c2.startCol + c2.colSpan, exploredWindow[stubCell if not stubCell.isEmptyCell() else None][3]), c1, mode)
+						explore(tableGrid, c2, "h", c2.startRow, c2.startRow + c2.rowSpan, c2.startCol + c2.colSpan, min(exploredWindow[c2.parentList[0]][3], exploredWindow[stubCell if not Cell.isEmptyCell(stubCell) else None][3]), c1, mode)
+						explore(tableGrid, c2, "v", c2.startRow + c2.rowSpan, min(exploredWindow[c1.parentList[0]][1],exploredWindow[stubCell if not Cell.isEmptyCell(stubCell) else None][1]), c2.startCol, min(c2.startCol + c2.colSpan, exploredWindow[stubCell if not Cell.isEmptyCell(stubCell) else None][3]), c1, mode)
 
 					elif mode == "row":
 						explore(tableGrid, c2, "h", c2.startRow, c2.startRow + c2.rowSpan, c2.startCol + c2.colSpan, min(exploredWindow[c2.parentList[0]][3], exploredWindow[c1][3]), c1, mode)
-						explore(tableGrid, c2, "v", c2.startRow + c2.rowSpan, exploredWindow[stubCell if not stubCell.isEmptyCell() else None][1], c2.startCol, c2.startCol + c2.colSpan, c1, mode)
+						explore(tableGrid, c2, "v", c2.startRow + c2.rowSpan, exploredWindow[stubCell if not Cell.isEmptyCell(stubCell) else None][1], c2.startCol, c2.startCol + c2.colSpan, c1, mode)
 
 				# else:
 					# print("visited", c2)
@@ -100,11 +115,11 @@ def construct(tableGrid):
 			while i < x2:
 				c2 = tableGrid.getCell(i,j)
 				i += c2.rowSpan
-				if c2.isEmptyCell():
+				if Cell.isEmptyCell(c2):
 					j += 1
 					continue
 				if not c2 in exploredWindow:
-					if not c1.isEmptyCell():
+					if not Cell.isEmptyCell(c1):
 						l = predict(c1, c2)
 						print(c1, c2, l)
 						if l == "L":
@@ -113,11 +128,11 @@ def construct(tableGrid):
 							ct = c1.parentList[0]
 							while ct and predict(ct, c2) != "S":
 								# print("CT", ct)
-								ct = ct.parentList[0]
+								ct = ct.parentTableExtractionList[0]
 							# print("CT", ct)
 							if ct and ct.parentList[0]:
 								ct.parentList[0].addChild(c2)
-							elif not stubCell.isEmptyCell() and c2.function == Cell.COL_HEADER_CELL:
+							elif not Cell.isEmptyCell(stubCell) and c2.function == Cell.COL_HEADER_CELL:
 								# print(c2.function, c2)
 								stubCell.addChild(c2)
 						elif l == "S":
@@ -125,11 +140,11 @@ def construct(tableGrid):
 							if c1.parentList[0]:
 								c1.parentList[0].addChild(c2)
 					if mode == "column":
-						explore(tableGrid, c2, "v", c2.startRow + c2.rowSpan, min(exploredWindow[c1.parentList[0]][1],exploredWindow[stubCell if not stubCell.isEmptyCell() else None][1]), c2.startCol, min(c2.startCol + c2.colSpan, exploredWindow[stubCell if not stubCell.isEmptyCell() else None][3]), c1, mode)
-						explore(tableGrid, c2, "h", c2.startRow, c2.startRow + c2.rowSpan, c2.startCol + c2.colSpan, min(exploredWindow[c2.parentList[0]][3], exploredWindow[stubCell if not stubCell.isEmptyCell() else None][3]), c1, mode)
+						explore(tableGrid, c2, "v", c2.startRow + c2.rowSpan, min(exploredWindow[c1.parentList[0]][1],exploredWindow[stubCell if not Cell.isEmptyCell(stubCell) else None][1]), c2.startCol, min(c2.startCol + c2.colSpan, exploredWindow[stubCell if not Cell.isEmptyCell(stubCell) else None][3]), c1, mode)
+						explore(tableGrid, c2, "h", c2.startRow, c2.startRow + c2.rowSpan, c2.startCol + c2.colSpan, min(exploredWindow[c2.parentList[0]][3], exploredWindow[stubCell if not Cell.isEmptyCell(stubCell) else None][3]), c1, mode)
 				
 					elif mode == "row":
-						explore(tableGrid, c2, "v", c2.startRow + c2.rowSpan, exploredWindow[stubCell if not stubCell.isEmptyCell() else None][1], c2.startCol, c2.startCol + c2.colSpan, c1, mode)
+						explore(tableGrid, c2, "v", c2.startRow + c2.rowSpan, exploredWindow[stubCell if not Cell.isEmptyCell(stubCell) else None][1], c2.startCol, c2.startCol + c2.colSpan, c1, mode)
 						explore(tableGrid, c2, "h", c2.startRow, c2.startRow + c2.rowSpan, c2.startCol + c2.colSpan, exploredWindow[c2.parentList[0]][3], c1, mode)
 
 
@@ -212,7 +227,8 @@ else:
 	
 	validate(grid_test, grid_truth, options.fileID, options.tableID)
 
-
+print(correct)
+print(total)
 print(correct / total)
 # print(len(wrongTables))
 # print(wrongTables)

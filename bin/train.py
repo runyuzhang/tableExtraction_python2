@@ -1,3 +1,4 @@
+from __future__ import print_function
 from features import *
 from parse import *
 import sys, optparse
@@ -20,6 +21,9 @@ from pprint import pprint
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.colors import Normalize
+
+
+
 
 parser = optparse.OptionParser()
 parser.add_option('-p', '--display', action='store_true', help='display the tables as they are parsed')
@@ -60,7 +64,7 @@ def upsample(x, y):
 	import collections, math
 	counter = collections.Counter(y)
 	mostFrequentLabel = max(counter, key = lambda x: counter[x])
-	multipliers = {key: math.floor(counter[mostFrequentLabel] / counter[key]) for key in counter.keys()}
+	multipliers = {key: int(math.floor(counter[mostFrequentLabel] / counter[key])) for key in counter.keys()}
 	print(multipliers)
 
 	X = []
@@ -130,8 +134,8 @@ if options.gen:
 
 
 						if tableGrid.touching(c1, c2) or label == "S" or label == "L":
-							if not options.all:
-								print(c1.cellID, c2.cellID, "\n", json.dumps(featureVectorMap, indent = 4, sort_keys = True), label)
+							# if not options.all:
+							# print(c1.cellID, c2.cellID, "\n", json.dumps(featureVectorMap, indent = 4, sort_keys = True), label)
 							X += [featureVector]
 							Y += [label]	
 
@@ -144,8 +148,8 @@ if options.gen:
 
 						# label = tableGrid.classify(c1, c2)
 
-						# if not options.all:
-						# 	print(c1.cellID, c2.cellID, "\n", json.dumps(featureVectorMap, indent = 4, sort_keys = True), label)
+						if not options.all:
+							print(c1.cellID, c2.cellID, "\n", json.dumps(featureVectorMap, indent = 4, sort_keys = True), label)
 
 	if options.upsample:
 		X, Y = upsample(X,Y)
@@ -206,7 +210,6 @@ elif options.method == "logistic":
 	joblib.dump(logreg, options.method + "_" + str(CVal) + "_" + options.dataset + ".pkl")
 elif options.method == "tree":
 	from sklearn.externals.six import StringIO
-	import pydot 
 	clf = tree.DecisionTreeClassifier()
 	clf = clf.fit(X, Y)
 	joblib.dump(clf, "tree_" + options.dataset + ".pkl")

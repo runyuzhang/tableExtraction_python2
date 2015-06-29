@@ -5,6 +5,7 @@ import collections
 import json
 from difflib import SequenceMatcher
 from sklearn import svm
+import sys
 
 class FeatureVectorGenerator:
 	def __init__(self, tableGrid, featureListFileName = "../data/feature_list.json"):
@@ -50,6 +51,9 @@ def contentSimilarityCaseIn(c1, c2, g):
     Perform bigram comparison between two strings
     and return a percentage match in decimal form
     '''
+    
+    # str1 = c1.content.decode('utf8')
+    # str2 = c2.content.decode('utf8')
     str1 = c1.content
     str2 = c2.content
     if str1 == "" and str2 == "":

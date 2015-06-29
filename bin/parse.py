@@ -11,6 +11,7 @@ FILE_DIRECTORIES = {'us': {"xml" : "../data/us/",
 
 
 def parse(fileIndex, dataset = 'us', cell_char_limit = 5, readFunction = True, readStructure = True, display = False):
+	grid.log.disabled = True
 	fileName = FILE_DIRECTORIES[dataset]['xml'] + dataset + '-' + fileIndex + "-str.xml"
 	grid.log.info("Parsing " + fileName)
 
